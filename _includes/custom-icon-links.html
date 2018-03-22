@@ -1,1 +1,47 @@
 <!-- Optional additional links to insert for icons links -->
+<nav id="sidebar-icon-links">
+  <a id="twitter"
+     class="icon" title="Twitter Endonymous" aria-label="Twitter Endonymous"
+     href="">
+    {% include svg/twitter.svg %}
+  </a>
+  <a id="facebook"
+     class="icon" title="Facebook Endonymous" aria-label="Facebook Endonymous"
+     href="">
+    {% include svg/facebook.svg %}
+  </a>
+
+  <a id="instagram"
+     class="icon" title="Instagram Endonymous" aria-label="Instagram Endonymous"
+     href="">
+    {% include svg/instagram.svg %}
+  </a>
+
+  <a id="mail"
+     class="icon" title="contact Endonymous" aria-label="Contact Endonymous"
+     href="mailto:contact@endonymous.fr">
+    {% include svg/mail.svg %}
+  </a>
+
+<!--   {% comment %}
+    Check if we have tag or search pages page active before linking to it.
+  {% endcomment %}
+  {% assign tags_page = false %}
+  {% assign search_page = false %}
+  {% for node in site.pages %}
+    {% if node.layout == "tags" %}
+      {% assign tags_page = node %}
+    {% elsif node.layout == "search" %}
+      {% assign search_page = node %}
+    {% endif %}
+  {% endfor %}
+
+  {% if tags_page %}
+    <a id="tags-link"
+       class="icon{% if page.url == '/tags' %} active{% endif %}"
+       title="Tags" aria-label="Tags"
+       href="{{ site.baseurl }}{{ tags_page.url }}">
+      {% include svg/tags.svg %}
+    </a>
+  {% endif %} -->
+</nav>

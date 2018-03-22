@@ -20,7 +20,7 @@ h2 {
 }
 
 h3 {
-  margin-top: 1.5rem;
+  margin-top: 0.5rem;
   font-size: 1.25rem;
 }
 
@@ -58,6 +58,8 @@ hr {
   border-top: 1px solid #eee;
   border-bottom: 1px solid #fff;
 }
+
+a:hover{text-decoration: none;}
 
 abbr {
   font-size: 85%;
@@ -123,3 +125,8 @@ a svg, .icon svg {
 }
 a svg { fill: $link-color; }
 .icon { vertical-align: middle; }
+
+@media (max-width: 65em) {
+    img{width: 100%;}
+    img.logo{width: auto;}
+  }

@@ -44,6 +44,10 @@ h2.post-title, h2.page-title {
   color: $body-muted;
 }
 
+.post-meta a{
+  font-weight: 500;
+}
+
 .post-tags a {
   font-size: 0.8em;
   margin-right: 0.5rem;
@@ -70,6 +74,12 @@ h2.post-title, h2.page-title {
   }
 
   li {
+    span {
+      font-size: 95%;
+      color: #999;
+      padding:0 0.2em 0 0.5em;
+    }
+
     small {
       font-size: 75%;
       color: #999;
@@ -79,10 +89,6 @@ h2.post-title, h2.page-title {
     a:hover {
       color: $link-color;
       text-decoration: none;
-
-      small {
-        color: inherit;
-      }
     }
   }
 }

@@ -7,7 +7,7 @@ $gray-6: #313131 !default;
 
 $red: #ac4142 !default;
 $orange: #d28445 !default;
-$yellow: #f4bf75 !default;
+$yellow: #F9E000 !default;
 $green: #90a959 !default;
 $cyan: #75b5aa !default;
 $blue: #268bd2 !default;
@@ -29,9 +29,11 @@ $padding-v: 1em !default;
 $padding-h: 1.5em !default;
 $heading-spacing: 0.5rem !default;
 $section-spacing: 2rem !default;
-$sidebar-width: 18rem !default;
+$content-padding:5rem !default;
+$sidebar-width: 25rem !default;
 
-$large-breakpoint: 49rem !default;
+$large-breakpoint: 55rem !default;
+$medium-breakpoint: 80rem !default;
 $large-font-size: 1rem !default;
 
 $box-shadow-size: 1px !default;
