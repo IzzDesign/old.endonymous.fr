@@ -16,12 +16,14 @@ layout: default
     </h2>
     <h3>{{ post.subtitle }}</h3>
     {% include post-meta.html post=post %}
+    <div class="addthis_inline_share_toolbox"></div>
 
     {% if post.excerpt %}
       {{ post.excerpt }}
     {% else %}
       {{ post.content }}
     {% endif %}
+    <div class="addthis_inline_share_toolbox"></div>
 
     {% if post.excerpt %}
       {% comment %}Excerpt may be equal to content. Check.{% endcomment %}
