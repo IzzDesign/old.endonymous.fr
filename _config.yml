@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Endonymous
 tagline:          "Deux ans plus tard"
-description:      "Deux ans plus tard est un roman graphique autobiographique sur l'endométriose"
+description:      "Deux ans plus tard est un roman graphique autobiographique sur l'endométriose."
 url:              https://fongandrew.github.io/hydeout
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

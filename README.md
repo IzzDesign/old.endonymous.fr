@@ -1,144 +1,33 @@
-# Hydeout
+# Endonymous
 
-Hydeout updates the original [Hyde](https://github.com/poole/hyde)
-theme for [Jekyll](http://jekyllrb.com) 3.x and adds new functionality.
+Endonymous est un blog présentant : "Deux ans plus tard" un roman graphique autobiographique sur l'endométriose.
 
-![Desktop](/_screenshots/1.png?raw=true)
-<img alt="Mobile home page" src="/_screenshots/2.png?raw=true" width="300px" />
-<img alt="Mobile post page" src="/_screenshots/3.png?raw=true" width="300px" />
+# Propriété intellectuelle
 
-### Usage
+Les pages internet, le texte et les dessins présentés sur le site Endonymous sont, sauf mention contraire, des créations originales d'Isabelle Dulin.
 
-Hydeout is available as the `jekyll-theme-hydeout` Ruby Gem.
-Add `gem "jekyll-theme-hydeout", "~> 3.4"` to your Gemfile and run
-`bundle install`.
+La présentation et le contenu du site Endonymous constituent ensemble une œuvre originale protégée par les lois en vigueur sur la propriété intellectuelle. Le Code de la propriété intellectuelle considère notamment comme œuvres de l’esprit, aux termes du 9° de l’art. L. 112-2, « les œuvres photographiques et celles réalisées à l’aide de techniques analogues à la photographie ». L’auteur a seul le droit de divulguer son œuvre. Sous réserve des dispositions de l’art. L. 132-24, il détermine le procédé de divulgation et fixe les conditions de celle-ci. (art. L. 121-2 du CPI)
 
-Hydeout uses pagination, so if you have an `index.md`, you'll need to swap
-it with an `index.html` that uses the `index` layout:
+Toute représentation ou reproduction intégrale ou partielle, faite sans le consentement des auteurs ou de ses ayants droit ou ayants cause, est illicite. Il en est de même pour la traduction, l’adaptation ou la transformation, l’arrangement ou la reproduction par un art ou un procédé quelconque (art. L. 122-4 du CPI). Cette interdiction s’étend, sans que cette liste ne soit limitative, à tout élément rédactionnel figurant sur le site : présentation des écrans, textes, logos, dessins notamment.
 
-```
----
-layout: index
-title: Home
----
-```
+La personne qui reproduit sans l’autorisation des auteurs une œuvre pour mettre celle-ci à la disposition du public commet un acte de contrefaçon. Toute édition d’écrits, de composition musicale, de dessin, de peinture ou de toute autre production imprimée ou gravée en entier ou en partie, au mépris des lois et règlements relatifs à la propriété des auteurs, est une contrefaçon ; et toute contrefaçon est un délit (art. L. 335-2 du CPI).
 
-### Keep It Simple
+Est également un délit de contrefaçon toute reproduction, représentation ou diffusion, par quelque moyen que ce soit, d’une œuvre de l’esprit en violation des droits de l’auteur, tels qu’ils sont définis et réglementés par la loi (art. L. 335-3 du CPI).
 
-In keeping with the original Hyde theme, Hydeout aims to keep the overall
-design lightweight and plugin-free. JavaScript is currently limited only
-to Disqus and Google Analytics (and is only loaded if you provide configuration
-variables).
+La contrefaçon est un délit civil (passible de dommages et intérêts), et un délit pénal (passible d’un emprisonnement de trois ans et d’une amende de 300 000 euros). Le Code de la propriété intellectuelle n’autorise, aux termes des alinéas 1 et 2 de l’art. L. 122-5, que les représentations privées et gratuites effectuées exclusivement dans un cercle de famille, les copies ou reproductions strictement réservées à l’usage privé du copiste et non destinées à une utilisation collective.
 
-Hydeout makes heavy use of Flexbox in its CSS. If Flexbox is not available,
-the CSS degrades into a single column layout.
+# Technologie Web
 
-### Customization
+La technologie du site est inspirée du template Hydeout qui est soumis à la license MIT.
 
-Hydeout replaces Hyde's class-based theming with the use
-of the following SASS variables:
+The Software website is inspired from Hydeout template and released under MIT License.
 
-```scss
-$sidebar-bg-color: #202020 !default;
-$sidebar-sticky: true !default;
-$layout-reverse: false !default;
-$link-color: #268bd2 !default;
-```
+Copyright (c) 2013 Mark Otto.
 
-To override these variables, create your own `assets/css/main.scss` file.
-Define your own variables, then import in Hydeout's SCSS, like so:
+Copyright (c) 2017 Andrew Fong.
 
-```scss
----
-# Jekyll needs front matter for SCSS files
----
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-$sidebar-bg-color: #ac4142;
-$link-color: #ac4142;
-$sidebar-sticky: false;
-@import "hydeout";
-```
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-See the [_variables](_sass/hydeout/_variables.scss) file for other variables
-you can override.
-
-You can see the full set of partials you can replace in the
-[`_includes`](_includes) folder, but there are a few worth noting:
-
-* `_includes/copyright.html` - Insert your own copyright here.
-
-* `_includes/custom-head.html` - Insert custom head tags (e.g. to load your
-  own stylesheets)
-
-* `_includes/custom-foot.html` - Insert custom elements at the end of the
-  body (e.g. for custom JS)
-
-* `_includes/custom-nav-links.html` - Additional nav links to insert at the
-  end of the list of links in the sidebar.
-
-  Pro-tip: The `nav`s in the sidebar are flexboxes. Use the `order` property
-  to order your links.
-
-* `_includes/custom-icon-links.html`- Additional icon links to insert at the
-  end of the icon links at the bottom of the sidebar. You can use the `order`
-  property to re-order.
-
-* `_includes/favicons.html` - Replace references to `favicon.ico` and
-  `favicon.png` with your own favicons references.
-
-* `_includes/font-includes.html` - The Abril Fatface font used for the site
-  title is loaded here. If you're overriding that font in the CSS, be sure
-  to also remove the font load reference here.
-
-### New Features
-
-* Hydeout adds a new tags page (accessible in the sidebar). Just create a
-  new page with the tags layout:
-
-  ```
-  ---
-  layout: tags
-  title: Tags
-  ---
-  ```
-
-* Hydeout adds a new "category" layout for dedicated category pages.
-  Category pages are automatically added to the sidebar. All other pages
-  must have `sidebar_link: true` in their front matter to show up in
-  the sidebar. To create a category page, use the `category` layout"
-
-  ```
-  ---
-  layout: category
-  title: My Category
-  ---
-
-  Description of "My Category"
-  ```
-
-* A simple redirect-to-Google search is available. Just create a page with
-  the `search` layout.
-
-  ```
-  ---
-  layout: search
-  title: Google Search
-  ---
-  ```
-
-* Disqus integration is ready out of the box. Just add the following to
-  your config file:
-
-  ```yaml
-  disqus:
-    shortname: my-disqus-shortname
-  ```
-
-  If you don't want Disqus or want to use something else, override
-  `comments.html`.
-
-* For Google Analytics support, define a `google_analytics` variable with
-  your property ID in your config file.
-
-There's also a bunch of minor tweaks and adjustments throughout the
-theme. Hope this works for you!
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
