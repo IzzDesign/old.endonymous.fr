@@ -127,8 +127,8 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
 
   // Bigger title
   .site-title {
-    font-size: 2.5rem;
     color: black;
+    font-size: 2.5rem;
   }
 
   // Show secondary nav content + lead
@@ -188,6 +188,15 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
       display: flex;
     }
   }
+
+  @media (max-width: $tablet-breakpoint) and (min-width:$large-breakpoint){
+    #sidebar, .home #sidebar {
+    width: $alternatesidebar-width;
+    }
+
+    .home #sidebar .site-title{font-size: 1.8rem;}
+  }
+
 
   .index #sidebar { margin-bottom: 0; }
 
@@ -281,7 +290,6 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
   display: inline-block;
   margin: 0 0.25em;
 }
-
 
 /* -----------------------------------------------------------
   Sticky sidebar
