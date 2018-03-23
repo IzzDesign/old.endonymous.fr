@@ -2,7 +2,7 @@
 
 Endonymous est un blog présentant : "Deux ans plus tard" un roman graphique autobiographique sur l'endométriose.
 
-# Propriété intellectuelle
+# Propriété intelectuelle
 
 Les pages internet, le texte et les dessins présentés sur le site Endonymous sont, sauf mention contraire, des créations originales d'Isabelle Dulin.
 

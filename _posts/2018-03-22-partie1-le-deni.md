@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2 ans plus tard
-subtitle: Partie 1 - blabla
+subtitle: Partie 1 - Le déni
 categories:
   - Histoire
 excerpt_separator:  <!--more-->
