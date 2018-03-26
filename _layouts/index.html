@@ -1,7 +1,10 @@
 ---
 layout: default
+subtitle: Partie 1 - Le déni
+og_image: /assets/images/logo2.svg
+og_description: Deux ans plus tard est un roman graphique autobiographique sur l'endométriose.
 ---
-
+<div class="addthis_inline_share_toolbox"></div>
 <div class="content">
   {% include pagination-newer.html %}
 
@@ -15,15 +18,13 @@ layout: default
       </a>
     </h2>
     <h3>{{ post.subtitle }}</h3>
-    {% include post-meta.html post=post %}
-    <div class="addthis_inline_share_toolbox"></div>
+    {% include post-meta.html post=post %}   
 
     {% if post.excerpt %}
       {{ post.excerpt }}
     {% else %}
       {{ post.content }}
     {% endif %}
-    <div class="addthis_inline_share_toolbox"></div>
 
     {% if post.excerpt %}
       {% comment %}Excerpt may be equal to content. Check.{% endcomment %}

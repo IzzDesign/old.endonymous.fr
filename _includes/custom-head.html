@@ -7,3 +7,14 @@
 
   gtag('config', 'UA-108381903-2');
 </script>
+
+<!-- Facebook -->
+{% if page.og_image %}
+ <meta content="{{ page.og_image }}" property="og:image" />
+{% endif %}
+{% if page.og_description %}
+ <meta content="{{ page.og_description }}" property="og:description" />
+{% endif %}
+{% if page.subtitle %}
+ <meta content="{{ page.subtitle }}" property="og:title" />
+{% endif %}
