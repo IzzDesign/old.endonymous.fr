@@ -4,7 +4,7 @@ title: 2 ans plus tard
 subtitle: Partie 1 - Le déni
 categories:
   - Histoire
-og_image: /assets/images/partie1/fb-lien.png
+og_image: http://endonymous.fr/assets/images/partie1/fb-lien.png
 og_description: Deux ans plus tard est un roman graphique autobiographique sur l'endométriose.
 ---
 
