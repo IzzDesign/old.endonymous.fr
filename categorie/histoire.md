@@ -1,4 +1,5 @@
 ---
 layout: category
-title: Histoire
+title: Deux ans plus tard
+category: histoire
 ---
