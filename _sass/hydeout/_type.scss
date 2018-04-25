@@ -61,6 +61,8 @@ hr {
 
 a:hover{text-decoration: none;}
 
+.center{width: 90%; margin-left: 60px;}
+
 abbr {
   font-size: 85%;
   font-weight: bold;
@@ -129,4 +131,5 @@ a svg { fill: $link-color; }
 @media (max-width: 65em) {
     img{width: 100%;}
     img.logo{width: auto;}
+    .center{width: auto; margin: 0 auto;}
   }
