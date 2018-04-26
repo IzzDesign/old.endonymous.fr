@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
+{% include pagination-newer.html %}
+
 <div class="addthis_inline_share_toolbox"></div>
 <div class="content">
-  {% include pagination-newer.html %}
-
   {{ content }}
 
   {% for post in paginator.posts %}

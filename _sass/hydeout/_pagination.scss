@@ -8,29 +8,31 @@
 
 .pagination {
   margin-bottom: $section-spacing;
-  color: $gray-3;
-  text-align: center;
+  color: $gray-1;
 
   > a {
-    display: inline-block;
     padding: $padding-v $padding-h;
-    border: solid $border-color;
-    border-radius: $border-radius;
-    border-width: 1px;
-    width: 60%;
     max-width: $sidebar-width;
-    background: $body-bg;
-    box-shadow: $default-box-shadow;
+    font-family: $font-comic;
+    font-size: 1.5em;
 
     &:hover {
-      background-color: $border-color;
     }
   }
+}
+
+.pagination a .pagination-item .older{
+  float: right;
+}
+
+a .pagination-item .newer{
+  float: left
 }
 
 // Bottom -> margin-top;
 * + .pagination {
   margin-top: $section-spacing;
+  float: right;
 }
 
 // Push above header if newer on mobile
@@ -53,7 +55,7 @@
   .pagination > a {
     box-shadow: none;
 
-    &:hover { box-shadow: $default-box-shadow; }
+    &:hover { }
   }
 
   .content .pagination:first-child {
