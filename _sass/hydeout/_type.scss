@@ -133,3 +133,6 @@ a svg { fill: $link-color; }
     img.logo{width: auto;}
     .center{width: auto; margin: 0 auto;}
   }
+@media (max-width: 570px){
+.center{width: 90%; text-align: center; margin:0 auto;}
+}
