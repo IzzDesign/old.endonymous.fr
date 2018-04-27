@@ -10,7 +10,7 @@ og_twitter_img : http://endonymous.fr/assets/images/partie2/twitter-lien.png
 ---
 
 <h3>Attention</h3>
-<p>Ceci est la partie 2 de <u>Deux ans plus tard</u>, pour lire la <a href="">partie 1</a> cliquez sur l'image !</p>
+<div><p>Ceci est la partie 2 de <u>Deux ans plus tard</u>, pour lire la <a href="">partie 1</a> cliquez sur l'image !</p>
 <a href=""><img src="/assets/images/partie1/twitter-lien.png" class="center" alt=""></a>
 <img src="/assets/images/partie2/02- (1).png" alt="">
 <img src="/assets/images/partie2/02- (2).png" alt="">
@@ -23,4 +23,4 @@ og_twitter_img : http://endonymous.fr/assets/images/partie2/twitter-lien.png
 <img src="/assets/images/partie2/02- (9).png" alt="">
 <img src="/assets/images/partie2/02- (10).png" alt="">
 <img src="/assets/images/partie2/02- (11).png" alt="">
-<img src="/assets/images/partie2/02- (12).png" alt="">
+<img src="/assets/images/partie2/02- (12).png" alt=""></div>
