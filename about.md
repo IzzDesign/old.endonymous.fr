@@ -10,3 +10,5 @@ sidebar_link: true
   <br>
   Deux ans plus tard, voici mon histoire.
 </p>
+
+<!-- <p class="message">Ce récit a été inspiré en partie de faits réels, en revanche toutes les personnes et sociétés citées dans les exemples sont fictives, et toute ressemblance avec des personnes et des sociétés existantes ne serait que pure coïncidence.</p> -->
