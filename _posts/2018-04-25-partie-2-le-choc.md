@@ -11,7 +11,7 @@ og_twitter_img : http://endonymous.fr/assets/images/partie2/twitter-lien.png
 
 <h3>Attention</h3>
 <div><p>Ceci est la partie 2 de <em>Deux ans plus tard</em>, pour lire la <a href="http://endonymous.fr/histoire/2018/03/22/partie-1-le-deni.html" class="link">partie 1</a> cliquez sur l'image !</p>
-<a href="http://endonymous.fr/histoire/2018/03/22/partie-1-le-deni.html"><img src="/assets/images/partie1/fb-lien.png" class="center" alt=""></a>
+<a href="https://endonymous.fr/histoire/2018/03/22/partie-1-le-deni.html"><img src="/assets/images/partie1/fb-lien.png" class="center" alt=""></a>
 <img src="/assets/images/partie2/02- (1).png" alt="">
 <img src="/assets/images/partie2/02- (2).png" alt="">
 <img src="/assets/images/partie2/02- (3).png" alt="">
