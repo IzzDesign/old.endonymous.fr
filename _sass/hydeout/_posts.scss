@@ -4,7 +4,7 @@
 // page is wrapped in `.page` and is only used on the page layout.
 
 article + *, .post-body ~ section {
-  padding-top: $section-spacing;
+  padding: $section-spacing;
   border-top: 1px solid $border-color;
   margin-top: $section-spacing;
 
