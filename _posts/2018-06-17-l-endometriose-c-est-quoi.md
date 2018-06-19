@@ -1,15 +1,14 @@
 ---
 layout: post
-subtitle: Articles
+subtitle: L'endométriose c'est quoi ?
 title: L'endométriose c'est quoi ?
 categories:
   - article
-og_image: 
-og_description:
-og_twitter_img :
+og_image: /assets/images/articles/c-est-quoi/fb.png
+og_description: Je suis une statistique. Cette femme sur dix qui a de l’endométriose. Je suis ce qu’on appelle une endo-girl. Quand j’ai appris que j’avais cette maladie chronique j’ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors j'ai décidé d'expliquer cette maladie intime qu’est l’endométriose.
+og_twitter_img : /assets/images/articles/c-est-quoi/twitt.png
 ---
 
-# L'endométriose : explications
 Je suis une statistique. Cette femme sur dix qui a de l'endométriose. Je suis ce qu'on appelle une [*endo-girl*](/histoire/2018/03/22/partie-1-le-deni.html "BD Endonymous partie 1 le déni"). Quand j'ai appris que j'avais cette maladie chronique j'ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors pour expliquer cette maladie intime qu'est l'endométriose, regardons d'abord comment fonctionnent l'utérus et l'endomètre.
 
 <img src="/assets/images/articles/c-est-quoi/uterus.png" alt="schéma utérus" class="center">
@@ -76,7 +75,7 @@ Cette théorie suggère que lors des règles, un **reflux sanguin** passant par 
 Cependant,**90% des femmes** sont sujettes à ces reflux sanguins mais seules 10% d'entres elles sont atteintes d'endométriose. Serait-ce alors un défaut du système immunitaire ou bien un facteur génétique qui différencie les patientes atteintes d'endométriose des autres ?
 
 ### Théorie métaplasique
-Cette théorie postule que le péritoine - enveloppe qui englobe les viscères de la cavité abdominale - contiendrait des **cellules indifférenciées** - cellules non spécialisées en un "type" cellulaire, qui peuvent se transformer en n'importe quelle cellule - qui pourraient dès lors se **transformer** en cellules endométriales. Cette théorie peut expliquer les très rares cas **d'endométrioses masculine** <a href="#4" class="inside-notes">[4]</a> - non transgenre - chez des hommes qui généralement prenaient des traitements à base d'œstrogènes pour lutter contre un cancer de la prostate par exemple.
+Cette théorie postule que le péritoine - enveloppe qui englobe les viscères de la cavité abdominale - contiendrait des **cellules indifférenciées** - cellules non spécialisées en un "type" cellulaire, qui peuvent se transformer en n'importe quelle cellule - qui pourraient dès lors se **transformer** en cellules endométriales. Cette théorie peut expliquer les très rares cas **d'endométrioses masculine** <a href="#4" class="inside-notes">[4]</a> chez des hommes - non transgenres - qui généralement prenaient des traitements à base d'œstrogènes pour lutter contre un cancer de la prostate par exemple.
 
 ## Facteurs
 Les chercheurs mettent en avant quelques facteurs pouvant causer la maladie, mais rien n'a été encore vraiment prouvé, suggérant qu'un ensemble de causes pourraient en être à l'origine.
