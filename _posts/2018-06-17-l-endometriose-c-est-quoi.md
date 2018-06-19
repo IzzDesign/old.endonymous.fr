@@ -5,7 +5,7 @@ title: L'endométriose c'est quoi ?
 categories:
   - article
 og_image: /assets/images/articles/c-est-quoi/ogfacebook.png
-og_description: Je suis une statistique. Cette femme sur dix qui a de l’endométriose. Je suis ce qu’on appelle une endo-girl. Quand j’ai appris que j’avais cette maladie chronique j’ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors j'ai décider d'expliquer cette maladie intime qu’est l’endométriose.
+og_description: Je suis une statistique. Cette femme sur dix qui a de l’endométriose. Je suis ce qu’on appelle une endo-girl. Quand j’ai appris que j’avais cette maladie chronique j’ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors j'ai décidé d'expliquer cette maladie intime qu’est l’endométriose.
 og_twitter_img : /assets/images/articles/c-est-quoi/lientwitter.png
 ---
 
