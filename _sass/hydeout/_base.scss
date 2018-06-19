@@ -29,7 +29,7 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
-main, article, section { display: block; }
+main, article, section { display: block;}
 
 // No `:visited` state is required by default (browsers will use `a`)
 a {
@@ -50,7 +50,6 @@ a {
 img {
   display: block;
   margin: 0 0 1rem;
-  border-radius: 5px;
   height: auto; // Fix to keep max-width from squishing images with defined
                 // height in HTML
 }
@@ -78,13 +77,17 @@ tbody tr:nth-child(odd) th {
   background-color: $gray-1;
 }
 
-input[type="text"], input[type="search"], input[type="submit"], button {
+input[type="text"], input[type="search"], input[type="submit"]{
   padding: $padding-v $padding-h;
   border: 1px solid $border-color;
   border-radius: $border-radius;
 }
 
-button, input[type="submit"] {
+footer{
+  height: 10px;
+}
+
+/* button, input[type="submit"] {
   cursor: pointer;
   background: transparent;
   border-color: $border-color;
@@ -100,3 +103,4 @@ button, input[type="submit"] {
     box-shadow: $default-box-shadow;
   }
 }
+ */
