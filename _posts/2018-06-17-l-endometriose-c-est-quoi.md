@@ -55,8 +55,7 @@ Ces stades ne prennent pas en compte la douleur : même une lésion légère pla
 
 ## Et l'adénomyose ?
 Maintenant qu'on a compris l'endométriose, parlons d'Adénomyose.
-**L'adénomyose** ou l'endométriose interne désigne la présence de cellules endométriales au sein de la paroi musculaire de l'utérus, appelé **myomètre**. Près de 50% des femmes de 40 à 50 ans seraient touchées par cette affection. <a href="#1" class="inside-notes">[1]</a>
-
+**L'adénomyose** ou l'endométriose interne désigne la présence de cellules endométriales au sein de la paroi musculaire de l'utérus, appelé **myomètre**. Près de 50% des femmes de 40 à 50 ans seraient touchées par cette affection.[^1]
 
 <img src="/assets/images/articles/c-est-quoi/adenomyose.png" alt="Dessin adénomyose" class="center">
 
@@ -101,7 +100,7 @@ Pour aller plus loin des chercheurs de l'INSERM ont mis en place une étude conc
 Le mécanisme de fonctionnement de l'endométriose de par son **invasion** de certains organes par des cellules dysfonctionnelles rappelle énormément le mécanisme du cancer. Bien que l'endométriose ne soit pas létale, le rapprochement de ces deux maladies peut inquiéter. Une recherche datant de 2010 a mis en évidence la régulation de la division cellulaire pour les lésions d’endométriose à l’inverse des cellules cancéreuses dont la division est anarchique. Dans les faits pour une patiente atteinte d'endométriose le risque de déclencher un cancer de l'ovaire est **inférieur à 1%**. <a href="#6" class="inside-notes">[6]</a>
 
 <div class="footnotes">
-<p><a id="1">[1]</a> : <a class="link-note" target="_blank" href="https://pmafertilite.com/adenomyose/">PMA fertilité</a></p>
+[^1]: Test, [Link](https://google.com/).
 <p><a id="2">[2]</a> : <a class="link-note" target="_blank" href="http://www.ensemblecontrelendometriose.fr/pages/l-endometriose/les-atteintes/adenomyose.html">Ensemble contre l'endométriose</a></p>
 <p><a id="3">[3]</a> : <a class="link-note" target="_blank" href="https://qu-est-ce-que-l-endometriose.webnode.fr/quest-ce-que-lendometriose-/theories%2c-hypoth%C3%A8ses-soutenues%2c-pesticides-/">Endométriose et médecines douces</a></p>
 <p><a id="4">[4]</a> : <a class="link-note" target="_blank" href="https://defi-endometriose-articles.webnode.fr/endometriose-chez-lhomme/">Défi endométriose</a></p>
