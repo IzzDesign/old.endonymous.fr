@@ -55,11 +55,12 @@ Ces stades ne prennent pas en compte la douleur : même une lésion légère pla
 
 ## Et l'adénomyose ?
 Maintenant qu'on a compris l'endométriose, parlons d'Adénomyose.
-**L'adénomyose** ou l'endométriose interne désigne la présence de cellules endométriales au sein de la paroi musculaire de l'utérus, appelé **myomètre**. Près de 50% des femmes de 40 à 50 ans seraient touchées par cette affection.[^1]
+**L'adénomyose** ou l'endométriose interne désigne la présence de cellules endométriales au sein de la paroi musculaire de l'utérus, appelé **myomètre**. Près de 50% des femmes de 40 à 50 ans seraient touchées par cette affection[^affection].
+
 
 <img src="/assets/images/articles/c-est-quoi/adenomyose.png" alt="Dessin adénomyose" class="center">
 
-Ces cellules réagissent encore une fois aux hormones du cycle et entraînent des douleurs et saignements importants pendant les règles, ces saignements ne peuvent pas sortir du muscle utérin, causant des douleurs. L'adénomyose est souvent associée dans 30% des cas à la présence de **fibromes utérins** et dans 20% des cas à de **l'endométriose**, <a href="#2" class="inside-notes">[2]</a> autrement dit une femme souffrant d'adénomyose peut ne pas souffrir d'endométriose et inversement.
+Ces cellules réagissent encore une fois aux hormones du cycle et entraînent des douleurs et saignements importants pendant les règles, ces saignements ne peuvent pas sortir du muscle utérin, causant des douleurs. L'adénomyose est souvent associée dans 30% des cas à la présence de **fibromes utérins** et dans 20% des cas à de **l'endométriose**[^endométriose], autrement dit une femme souffrant d'adénomyose peut ne pas souffrir d'endométriose et inversement.
 
 ## Quelles sont les causes ?
 Après avoir étudié le fonctionnement de l'endométriose, j'ai eu très vite besoin de comprendre à quoi était due cette maladie, quelles étaient les causes.
@@ -70,17 +71,17 @@ Après avoir étudié le fonctionnement de l'endométriose, j'ai eu très vite b
 Entre autres, deux des théories les plus utilisées sont la **théorie du reflux** de John A. Sampson (1921) et la **théorie métaplasique** développée par Meyer (1919).
 
 ### Théorie du reflux
-Cette théorie suggère que lors des règles, un **reflux sanguin** passant par les trompes libérerait du sang dans la cavité abdominale. Ces reflux seraient donc la cause de la **migration de cellules endométriales** qui seraient ensuite à l'origine des lésions d'endométrioses. <a href="#3" class="inside-notes">[3]</a>
-Cependant,**90% des femmes** sont sujettes à ces reflux sanguins mais seules 10% d'entres elles sont atteintes d'endométriose. Serait-ce alors un défaut du système immunitaire ou bien un facteur génétique qui différencie les patientes atteintes d'endométriose des autres ?
+Cette théorie suggère que lors des règles, un **reflux sanguin** passant par les trompes libérerait du sang dans la cavité abdominale. Ces reflux seraient donc la cause de la **migration de cellules endométriales** qui seraient ensuite à l'origine des lésions d'endométrioses[^reflux].
+Cependant, **90% des femmes** sont sujettes à ces reflux sanguins mais seules 10% d'entres elles sont atteintes d'endométriose. Serait-ce alors un défaut du système immunitaire ou bien un facteur génétique qui différencie les patientes atteintes d'endométriose des autres ?
 
 ### Théorie métaplasique
-Cette théorie postule que le péritoine - enveloppe qui englobe les viscères de la cavité abdominale - contiendrait des **cellules indifférenciées** - cellules non spécialisées en un "type" cellulaire, qui peuvent se transformer en n'importe quelle cellule - qui pourraient dès lors se **transformer** en cellules endométriales. Cette théorie peut expliquer les très rares cas **d'endométrioses masculine** <a href="#4" class="inside-notes">[4]</a> chez des hommes - non transgenres - qui généralement prenaient des traitements à base d'œstrogènes pour lutter contre un cancer de la prostate par exemple.
+Cette théorie postule que le péritoine - enveloppe qui englobe les viscères de la cavité abdominale - contiendrait des **cellules indifférenciées** - cellules non spécialisées en un "type" cellulaire, qui peuvent se transformer en n'importe quelle cellule - qui pourraient dès lors se **transformer** en cellules endométriales. Cette théorie peut expliquer les très rares cas **d'endométrioses masculine**[^masculine] chez des hommes - non transgenres - qui généralement prenaient des traitements à base d'œstrogènes pour lutter contre un cancer de la prostate par exemple.
 
 ## Facteurs
 Les chercheurs mettent en avant quelques facteurs pouvant causer la maladie, mais rien n'a été encore vraiment prouvé, suggérant qu'un ensemble de causes pourraient en être à l'origine.
 
 ### Facteurs immunitaires
-Les cellules d'endométrioses sont dysfonctionnelles, de ce fait comment ces cellules parviennent à échapper au système d'**immuno-surveillance** du corps ? Dans les cas de femmes touchées par l'endométriose un déséquilibre est observé avec une **activité réduite** de certains **lymphocytes T** - globules blancs impliqués dans l'immunité à médiation cellulaire - ainsi que la sécrétion par les cellules d'endométriose d'une enzyme **inhibant la phagocytose** - phénomène de destruction aidant à la défense de l'organisme - par les macrophages péritonéaux - cellules du système immunitaire présentes dans le péritoine. <a href="#5" class="inside-notes">[5]</a>
+Les cellules d'endométrioses sont dysfonctionnelles, de ce fait comment ces cellules parviennent à échapper au système d'**immuno-surveillance** du corps ? Dans les cas de femmes touchées par l'endométriose un déséquilibre est observé avec une **activité réduite** de certains **lymphocytes T** - globules blancs impliqués dans l'immunité à médiation cellulaire - ainsi que la sécrétion par les cellules d'endométriose d'une enzyme **inhibant la phagocytose** - phénomène de destruction aidant à la défense de l'organisme - par les macrophages péritonéaux - cellules du système immunitaire présentes dans le péritoine[^immu].
 
 <img src="/assets/images/articles/c-est-quoi/dioxine.png" alt="Dessin dioxine" class="center">
 
@@ -90,20 +91,19 @@ Perturbateurs endocriniens, pollution, produits chimiques,… autant de causes q
 <img src="/assets/images/articles/c-est-quoi/roundhop.png" alt="Dessin roundhop" class="center little">
 
 ### Facteurs génétiques
-Depuis quelques années, la recherche s'est penchée sur **l'identification de gènes** pouvant être impliqués dans l'apparition de l'endométriose. Les études ont pu identifier plusieurs familles de gènes candidats dont les variations génétiques sont associées à cette maladie. Parmi ces familles, on retrouve les gènes impliqués dans l’inflammation, la régulation des hormones stéroïdes, le métabolisme, la biosynthèse, la détoxification, la fonction vasculaire et le remodelage tissulaire.<a href="#5" class="inside-notes">[5]</a> Pour chaque variation à "risque", une femme aura 10 à 30% de probabilité de développer cette maladie. <a href="#6" class="inside-notes">[6]</a>
+Depuis quelques années, la recherche s'est penchée sur **l'identification de gènes** pouvant être impliqués dans l'apparition de l'endométriose. Les études ont pu identifier plusieurs familles de gènes candidats dont les variations génétiques sont associées à cette maladie. Parmi ces familles, on retrouve les gènes impliqués dans l’inflammation, la régulation des hormones stéroïdes, le métabolisme, la biosynthèse, la détoxification, la fonction vasculaire et le remodelage tissulaire[^immu]. Pour chaque variation à "risque", une femme aura 10 à 30% de probabilité de développer cette maladie[^maladie].
 
-Pour aller plus loin des chercheurs de l'INSERM ont mis en place une étude concernant exclusivement des patientes présentant des **endométriomes ovariens** - kystes d'endométriose. L’ADN des cellules d'endométriomes des patientes a été comparé avec l’ADN des cellules de leur endomètre. Les deux ADN comportent des différences qui associées à des **variations de l'enzyme DNMT3L**. Une de ces variations de l'enzyme DNMT3L **multiplie par sept** le risque de développer de l'endométriose. La présence de cette variation de l’enzyme pourraient à l'avenir fournir des **outils de diagnostic** pour détecter plus efficacement cette affection chronique. <a href="#6" class="inside-notes">[6]</a>
+Pour aller plus loin des chercheurs de l'INSERM ont mis en place une étude concernant exclusivement des patientes présentant des **endométriomes ovariens** - kystes d'endométriose. L’ADN des cellules d'endométriomes des patientes a été comparé avec l’ADN des cellules de leur endomètre. Les deux ADN comportent des différences qui associées à des **variations de l'enzyme DNMT3L**. Une de ces variations de l'enzyme DNMT3L **multiplie par sept** le risque de développer de l'endométriose. La présence de cette variation de l’enzyme pourraient à l'avenir fournir des **outils de diagnostic** pour détecter plus efficacement cette affection chronique[^maladie].
 
 <img src="/assets/images/articles/c-est-quoi/sav.png" alt="Dessin sav" class="center">
 
 ## Endométriose et cancer ?
-Le mécanisme de fonctionnement de l'endométriose de par son **invasion** de certains organes par des cellules dysfonctionnelles rappelle énormément le mécanisme du cancer. Bien que l'endométriose ne soit pas létale, le rapprochement de ces deux maladies peut inquiéter. Une recherche datant de 2010 a mis en évidence la régulation de la division cellulaire pour les lésions d’endométriose à l’inverse des cellules cancéreuses dont la division est anarchique. Dans les faits pour une patiente atteinte d'endométriose le risque de déclencher un cancer de l'ovaire est **inférieur à 1%**. <a href="#6" class="inside-notes">[6]</a>
+Le mécanisme de fonctionnement de l'endométriose de par son **invasion** de certains organes par des cellules dysfonctionnelles rappelle énormément le mécanisme du cancer. Bien que l'endométriose ne soit pas létale, le rapprochement de ces deux maladies peut inquiéter. Une recherche datant de 2010 a mis en évidence la régulation de la division cellulaire pour les lésions d’endométriose à l’inverse des cellules cancéreuses dont la division est anarchique. Dans les faits pour une patiente atteinte d'endométriose le risque de déclencher un cancer de l'ovaire est **inférieur à 1%**[^maladie].
 
-<div class="footnotes">
-[^1]: Test, [Link](https://google.com/).
-<p><a id="2">[2]</a> : <a class="link-note" target="_blank" href="http://www.ensemblecontrelendometriose.fr/pages/l-endometriose/les-atteintes/adenomyose.html">Ensemble contre l'endométriose</a></p>
-<p><a id="3">[3]</a> : <a class="link-note" target="_blank" href="https://qu-est-ce-que-l-endometriose.webnode.fr/quest-ce-que-lendometriose-/theories%2c-hypoth%C3%A8ses-soutenues%2c-pesticides-/">Endométriose et médecines douces</a></p>
-<p><a id="4">[4]</a> : <a class="link-note" target="_blank" href="https://defi-endometriose-articles.webnode.fr/endometriose-chez-lhomme/">Défi endométriose</a></p>
-<p><a id="5">[5]</a> : <a class="link-note" target="_blank" href="https://orbi.uliege.be/bitstream/2268/142313/1/Beliard%20A%20Ref%20en%20G%20et%20Obst.pdf">Endométriose : pourquoi se développe-telle ?</a></p>
-<p><a id="6">[6]</a> : <a class="link-note" target="_blank" href="https://www.inserm.fr/information-en-sante/dossiers-information/endometriose">INSERM : Endométriose</a></p>
-</div>
+[^affection]: PMA fertilité, [Lien](https://pmafertilite.com/adenomyose/">PMA fertilité).
+[^endométriose]: Ensemble contre l'endométriose, [Lien](http://www.ensemblecontrelendometriose.fr/pages/l-endometriose/les-atteintes/adenomyose.html).
+[^reflux]: Endométriose et médecines douces, [Lien](https://qu-est-ce-que-l-endometriose.webnode.fr/quest-ce-que-lendometriose-/theories%2c-hypoth%C3%A8ses-soutenues%2c-pesticides-/)
+[^masculine]: Défi endométriose, [Lien](https://defi-endometriose-articles.webnode.fr/endometriose-chez-lhomme/).
+[^immu]: Endométriose : pourquoi se développe-telle ?, [Lien](https://orbi.uliege.be/bitstream/2268/142313/1/Beliard%20A%20Ref%20en%20G%20et%20Obst.pdf).
+[^maladie]: INSERM : Endométriose, [Lien](https://www.inserm.fr/information-en-sante/dossiers-information/endometriose).
+
