@@ -65,6 +65,16 @@ a:hover{text-decoration: none;}
 .center{width: 90%; margin:0 auto;}
 .little{width: 30%; margin:0 auto;}
 .middle{width: 60%;margin: 0 auto;}
+.profil{
+  display: flex;
+  font-size: 0.9em;
+  line-height: 1.7em;
+  margin-top: 5em;
+  background-color: $gray-1;
+  padding: 1.5em 0.6em 0.6em 0.6em;
+}
+.profil img{width: 150px;height: 100px;}
+.profil span{color: $link-color;font-weight: 500; text-decoration: underline;}
 
 abbr {
   font-size: 85%;

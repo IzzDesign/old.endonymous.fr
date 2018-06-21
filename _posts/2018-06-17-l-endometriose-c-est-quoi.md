@@ -100,6 +100,8 @@ Pour aller plus loin des chercheurs de l'INSERM ont mis en place une étude conc
 ## Endométriose et cancer ?
 Le mécanisme de fonctionnement de l'endométriose de par son **invasion** de certains organes par des cellules dysfonctionnelles rappelle énormément le mécanisme du cancer. Bien que l'endométriose ne soit pas létale, le rapprochement de ces deux maladies peut inquiéter. Une recherche datant de 2010 a mis en évidence la régulation de la division cellulaire pour les lésions d’endométriose à l’inverse des cellules cancéreuses dont la division est anarchique. Dans les faits pour une patiente atteinte d'endométriose le risque de déclencher un cancer de l'ovaire est **inférieur à 1%**[^maladie].
 
+{% include profil.html %}
+
 [^affection]: PMA fertilité, [Lien](https://pmafertilite.com/adenomyose/">PMA fertilité).
 [^endométriose]: Ensemble contre l'endométriose, [Lien](http://www.ensemblecontrelendometriose.fr/pages/l-endometriose/les-atteintes/adenomyose.html).
 [^reflux]: Endométriose et médecines douces, [Lien](https://qu-est-ce-que-l-endometriose.webnode.fr/quest-ce-que-lendometriose-/theories%2c-hypoth%C3%A8ses-soutenues%2c-pesticides-/)
