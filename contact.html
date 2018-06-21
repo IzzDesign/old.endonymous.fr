@@ -1,0 +1,21 @@
+---
+layout: page
+title: Contact
+sidebar_link: true
+---
+
+<form action="https://formspree.io/contact@endonymous.fr"
+      method="POST">
+    <!-- <input type="text" name="name">
+    <input type="email" name="_replyto"> -->
+    <p><label for="nom">Nom :</label><input type="text" id="nom" name="nom" tabindex="1" /></p>
+    <p><label for="email">Email :</label><input type="text" id="email" name="email" tabindex="2" /></p>
+    <p><label for="message">Message :</label></p>
+    <textarea id="message" name="message" tabindex="4" cols="80" rows="20"></textarea>
+    <p><input type="submit" value="Envoyer"></p>
+</form>
+
+<h3>Retrouvez-moi sur les réseaux sociaux</h3>
+<div class="contact">
+    {% include custom-icon-links.html %}
+</div>

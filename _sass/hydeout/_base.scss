@@ -78,10 +78,19 @@ tbody tr:nth-child(odd) th {
   background-color: $gray-1;
 }
 
-input[type="text"], input[type="search"], input[type="submit"], button {
+input[type="text"], input[type="search"], input[type="submit"], button,textarea {
   padding: $padding-v $padding-h;
   border: 1px solid $border-color;
   border-radius: $border-radius;
+  margin-left: 0.7em;
+}
+
+input[type="submit"]{
+  margin: 2em 0;
+}
+textarea{
+  font-family:"Segoe UI", "Roboto", "Oxygen", "Droid Sans", Arial, sans-serif;
+  font-size: 0.9em;
 }
 
 button, input[type="submit"] {
