@@ -60,7 +60,7 @@ Maintenant qu'on a compris l'endométriose, parlons d'Adénomyose.
 
 <img src="/assets/images/articles/c-est-quoi/adenomyose.png" alt="Dessin adénomyose" class="center">
 
-Ces cellules réagissent encore une fois aux hormones du cycle et entraînent des douleurs et saignements importants pendant les règles, ces saignements ne peuvent pas sortir du muscle utérin, causant des douleurs. L'adénomyose est souvent associée dans 30% des cas à la présence de **fibromes utérins** et dans 20% des cas à de **l'endométriose**[^endométriose], autrement dit une femme souffrant d'adénomyose peut ne pas souffrir d'endométriose et inversement.
+Ces cellules réagissent encore une fois aux hormones du cycle et entraînent des douleurs et saignements importants pendant les règles, ces saignements ne peuvent pas sortir du muscle utérin, causant des douleurs. L'adénomyose est souvent associée dans 30% des cas à la présence de **fibromes utérins** et dans 20% des cas à de **l'endométriose**[^endometriose], autrement dit une femme souffrant d'adénomyose peut ne pas souffrir d'endométriose et inversement.
 
 ## Quelles sont les causes ?
 Après avoir étudié le fonctionnement de l'endométriose, j'ai eu très vite besoin de comprendre à quoi était due cette maladie, quelles étaient les causes.
@@ -103,7 +103,7 @@ Le mécanisme de fonctionnement de l'endométriose de par son **invasion** de ce
 {% include profil.html %}
 
 [^affection]: PMA fertilité, [Lien](https://pmafertilite.com/adenomyose/">PMA fertilité).
-[^endométriose]: Ensemble contre l'endométriose, [Lien](http://www.ensemblecontrelendometriose.fr/pages/l-endometriose/les-atteintes/adenomyose.html).
+[^endometriose]: Ensemble contre l'endométriose, [Lien](http://www.ensemblecontrelendometriose.fr/pages/l-endometriose/les-atteintes/adenomyose.html).
 [^reflux]: Endométriose et médecines douces, [Lien](https://qu-est-ce-que-l-endometriose.webnode.fr/quest-ce-que-lendometriose-/theories%2c-hypoth%C3%A8ses-soutenues%2c-pesticides-/)
 [^masculine]: Défi endométriose, [Lien](https://defi-endometriose-articles.webnode.fr/endometriose-chez-lhomme/).
 [^immu]: Endométriose : pourquoi se développe-telle ?, [Lien](https://orbi.uliege.be/bitstream/2268/142313/1/Beliard%20A%20Ref%20en%20G%20et%20Obst.pdf).
