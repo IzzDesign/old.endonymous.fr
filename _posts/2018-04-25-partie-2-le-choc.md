@@ -4,9 +4,9 @@ subtitle: Deux ans plus tard
 title: Partie 2 - Le choc
 categories:
   - histoire
-og_image: http://endonymous.fr/assets/images/partie2/fb-lien.png
+og_image: https://endonymous.fr/assets/images/partie2/fb-lien.png
 og_description: Deux ans plus tard est un roman graphique autobiographique sur l'endométriose.
-og_twitter_img : http://endonymous.fr/assets/images/partie2/twitter-lien.png
+og_twitter_img : https://endonymous.fr/assets/images/partie2/twitter-lien.png
 excerpt: <a href="/histoire/2018/04/25/partie-2-le-choc.html"><img src="/assets/images/partie2/fb-lien.png" class="center" alt="partie 2 deux ans plus tard d'endonymous"></a>
 
 ---
