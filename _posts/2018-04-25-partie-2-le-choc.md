@@ -12,8 +12,8 @@ excerpt: <a href="/histoire/2018/04/25/partie-2-le-choc.html"><img src="/assets/
 ---
 
 <h3>Attention</h3>
-<div><p>Ceci est la partie 2 de <em>Deux ans plus tard</em>, pour lire la <a href="http://endonymous.fr/histoire/2018/03/22/partie-1-le-deni.html" class="link">partie 1</a> cliquez sur l'image !</p>
-<a href="https://endonymous.fr/histoire/2018/03/22/partie-1-le-deni.html"><img src="/assets/images/partie1/fb-lien.png" class="center" alt=""></a>
+<div><p>Ceci est la partie 2 de <em>Deux ans plus tard</em>, pour lire la <a href="/histoire/2018/03/22/partie-1-le-deni.html" class="link">partie 1</a> cliquez sur l'image !</p>
+<a href="/histoire/2018/03/22/partie-1-le-deni.html"><img src="/assets/images/partie1/fb-lien.png" class="center" alt=""></a>
 <img src="/assets/images/partie2/02- (1).png" alt="">
 <img src="/assets/images/partie2/02- (2).png" alt="">
 <img src="/assets/images/partie2/02- (3).png" alt="">
@@ -26,3 +26,6 @@ excerpt: <a href="/histoire/2018/04/25/partie-2-le-choc.html"><img src="/assets/
 <img src="/assets/images/partie2/02- (10).png" alt="">
 <img src="/assets/images/partie2/02- (11).png" alt="">
 <img src="/assets/images/partie2/02- (12).png" alt=""></div>
+
+<h3>À suivre</h3>
+<a href="/histoire/2018/05/28/partie-3-la-colere.html"><img src="/assets/images/partie3/fb-lien.png" class="center" alt="partie 2 deux ans plus tard d'endonymous"></a>

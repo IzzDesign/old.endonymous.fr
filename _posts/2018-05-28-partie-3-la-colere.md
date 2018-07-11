@@ -12,8 +12,8 @@ excerpt: <a href="/histoire/2018/05/28/partie-3-la-colere.html"><img src="/asset
 
 <h3>Attention</h3>
 <div><p>Ceci est la partie 3 de <em>Deux ans plus tard</em>, pour lire les parties précédentes, cliquez sur les images.</p>
-<a href="http://endonymous.fr/histoire/2018/03/22/partie-1-le-deni.html"><img src="/assets/images/partie1/fb-lien.png" class="center" alt="partie 1 deux ans plus tard d'endonymous"></a>
-<a href="http://endonymous.fr/histoire/2018/04/25/partie-2-le-choc.html"><img src="/assets/images/partie2/fb-lien.png" class="center" alt="partie 2 deux ans plus tard d'endonymous"></a>
+<a href="/histoire/2018/03/22/partie-1-le-deni.html"><img src="/assets/images/partie1/fb-lien.png" class="center" alt="partie 1 deux ans plus tard d'endonymous"></a>
+<a href="/histoire/2018/04/25/partie-2-le-choc.html"><img src="/assets/images/partie2/fb-lien.png" class="center" alt="partie 2 deux ans plus tard d'endonymous"></a>
 <img src="/assets/images/partie3/03- (1).png" alt="">
 <img src="/assets/images/partie3/03- (2).png" alt="">
 <img src="/assets/images/partie3/03- (3).png" alt="">

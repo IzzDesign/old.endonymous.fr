@@ -1,6 +1,6 @@
 ---
 layout: post
-subtitle: L'endométriose c'est quoi ?
+subtitle: Article sur l'endométriose
 title: L'endométriose c'est quoi ?
 categories:
   - article
