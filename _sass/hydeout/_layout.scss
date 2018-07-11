@@ -32,20 +32,48 @@
 }
 
 body {
-  color: rgba(0,0,0,.75);
-  background-color: $gray-1;
+/*   color: rgba(0,0,0,.75);
+  background-color: $gray-1; */
   display: block;
   /* flex-direction: column;
    min-width: 100vw;
   min-height: 100vh; */
 }
 
-.logo{max-height: 140px;margin: 0 auto;}
+div#bg{
+  background-image: url("../images/");
+  background-repeat: no-repeat;
+  background-color: $yellow;
+  background-position: center;
+  min-height: 20em;
+  width: 100%;
+  margin: 0 auto;
+  padding: 1em;
+    > p.lead{
+      width: 40%;
+      text-align: center;
+      margin: 0 auto;
+      text-decoration: surligne
+    }
+
+    div.titre a { color: $yellow; background-color: white; padding: 0.2em; margin-top: 5em; }
+}
+
+@media (min-width: $large-breakpoint) {
+  div#bg{width: 90%}
+  #sidebar img.fresque{width: 67%; margin: 0 auto;}
+}
+
+@media (min-width: $medium-breakpoint) {
+  div#bg{width: 67%}
+}
+
+
+.logo{max-height: 200px;margin: 0 auto;}
 h1,h2,h3{ font-family: "helvetihandmedium", serif;}
 
 #sidebar {
   flex: 0 0 auto;
-  padding: $section-spacing;
 
   .site-title {
     font-family: "helvetihandmedium", serif;
@@ -55,18 +83,18 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
     margin-top: 0;
     margin-bottom: $heading-spacing;
 
-    a {
-      color: inherit;
-      &:hover { color: $yellow; }
-    }
-
     .back-arrow { margin-right: 0.5rem; }
   }
 }
 
 // Container is flexbox as well -- we want content div to stretch and fill
+#sidebar nav {display: flex; justify-content:center;}
+
 .container {
   flex: 1 1 auto;
+  width: 100%;
+  margin: 0 auto;
+  padding-top: $section-spacing * 2;
 
 /*   > .content {
     flex-grow: 1;
@@ -178,7 +206,6 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
     .site-title {
       font-size: 2rem;
 
-      a { color: black; }
       .back-arrow { display: none; }
     }
 
@@ -199,6 +226,7 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
     background: $body-bg;
     color: $body-color;
     padding: $section-spacing * 2;
+    width: 60%;
 
     > header {
       color: inherit;
@@ -218,26 +246,24 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
   }
 }
 
-@media (min-width: $medium-breakpoint){
-  .container{
-    padding-left:10rem;
-  }
-}
-
-
 /* -----------------------------------------------------------
   Sidebar links + nav
 ----------------------------------------------------------- */
+#sidebar img{
+  width: 100%;
+}
 
 #sidebar a {
-  color: #000;
+  color: $yellow;
+  font-weight: 500;
 
   svg {
-    fill: rgba(0, 0, 0, 0.85);
+    fill: rgba(250, 250, 250, 0.8);
   }
 
+
   &:hover, &:focus, &.active {
-    svg { fill: $yellow; }
+    svg { fill: $gray-1; }
   }
 
   &:hover, &:focus {
@@ -248,16 +274,19 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
   }
 
   &.active {
-    font-weight: bold;
+    text-decoration: underline;
   }
 }
 
-#sidebar nav {
-  /* display: flex; */
-}
-
-#sidebar-nav-links {
+#sidebar-nav-links a{
   /* flex-flow: column nowrap; */
+  background-color: $yellow;
+  text-transform: uppercase;
+  padding: 0.4em 0.7em 0.2em 0.7em;
+  margin-right: 0.7em;
+  margin-top: 2em;
+  color: white;
+  font-family: 'helvetihandmedium'
 }
 
 #sidebar-icon-links {
@@ -265,6 +294,7 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
  /*  flex-flow: row wrap; */
   justify-content: center;
   margin-top: 1rem;
+  color: white;
 
   @media (min-width: $large-breakpoint) {
     margin-left: -0.25em;

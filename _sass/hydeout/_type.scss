@@ -135,8 +135,8 @@ a svg, .icon svg {
   height: 1em;
   width: auto;
 }
-a svg { fill: $yellow; }
-.icon { vertical-align: middle; }
+/* a svg { fill: $yellow; }
+ */.icon { vertical-align: middle; }
 
 @media (max-width: 65em) {
     img{width: 100%;}

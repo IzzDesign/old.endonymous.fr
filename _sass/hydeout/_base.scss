@@ -85,6 +85,11 @@ input[type="text"], input[type="search"], input[type="submit"]{
 
 footer{
   height: 10px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: $gray-1;
+  height: auto;
+  padding-top: 2em;
 }
 
 /* button, input[type="submit"] {
