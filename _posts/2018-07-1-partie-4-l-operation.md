@@ -38,4 +38,8 @@ excerpt: <a href="/histoire/2018/07/12/partie-4-l-operation.html"><img src="/ass
 <img src="/assets/images/partie4/04- (21).png" alt="">
 <img src="/assets/images/partie4/04- (22).png" alt="">
 <img src="/assets/images/partie4/04- (23).png" alt="">
+<img src="/assets/images/partie4/04- (24).png" alt="">
+<img src="/assets/images/partie4/04- (25).png" alt="">
+<img src="/assets/images/partie4/04- (26).png" alt="">
+<img src="/assets/images/partie4/04- (27).png" alt="">
 </div>
