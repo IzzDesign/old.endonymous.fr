@@ -18,7 +18,7 @@ La contrefaçon est un délit civil (passible de dommages et intérêts), et un 
 
 # Technologie Web
 
-La technologie du site est inspirée du template Hydeout qui est soumis à la license MIT.
+### La technologie du site est inspirée du template Hydeout qui est soumis à la license MIT.
 
 The Software website is inspired from Hydeout template and released under MIT License.
 
