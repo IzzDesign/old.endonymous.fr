@@ -7,9 +7,9 @@ categories:
 og_image: https://endonymous.fr/assets/images/partie1/fb-lien.png
 og_description: Deux ans plus tard est un roman graphique autobiographique sur l'endométriose.
 og_twitter_img : https://endonymous.fr/assets/images/partie1/twitter-lien.png
-excerpt: Voici la partie 1 de ma BD Deux ans plus tard. Je parle de mon diagnostic de la maladie chronique l'endométriose.
+excerpt: Bonjour, je m'appelle Isa mais je me cache sous l'identité secrète d'Endonymous. Tu vois, il m'est arrivé 2-3 petites bricoles ces dernières années, et comme je sais un peu gribouiller j'ai voulu en faire une BD ! Pour la lire tu es au bon endroit, c'est la première partie de Deux ans plus tard ! Bonne lecture !
 img: /assets/images/partie1/article.png
-type: Deux ans plus tard
+type: BD
 ---
 
 <img src="/assets/images/partie1/01- (1).png" alt="Tu te souviens de ces films américains super niais qui te font croire que quand une fille a ses premières règles, c'est le plus beau jour de sa vie ? Bravo ma chérie, Oh, je suis enfin une vraie femme Je suis tellement fière de toi ! Ce cliché est sponsorisé par Tampox.
@@ -119,4 +119,4 @@ Symptômes :– douleurs pelviennes pendant et en dehors des règles – fatigue
 <img src="/assets/images/partie1/01- (29).png" alt="Puis le jour J arriva. Lors du rendez-vous j'avais décidé de ne pas parler d'endométriose. J'ai parlé de ma fatigue chronique, de mes douleurs mais je ne voulais pas biaiser la consultation en parlant directement de la maladie. Mais très vite : L'échographe qui ressemble à une console de jeu. Ça c'est le boss du jeu ! Ah… Bon il y a quelque chose. Un alien ?  Un kyste sanguin signe d'endométriose Ah… Je sais ce que c'est… Fin de la partie 1 - À suivre…">
 
 <h3>À suivre</h3>
-<a href="/histoire/2018/04/25/partie-2-le-choc.html"><img src="/assets/images/partie2/fb-lien.png" class="center" alt="partie 2 deux ans plus tard d'endonymous"></a>
+{% include liens/partie2.html %}

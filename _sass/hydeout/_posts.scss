@@ -13,6 +13,7 @@ article + *, .post-body ~ section {
 }
 
 .post-body{flex-basis:900px;}
+.body{width: 900px;}
 @media (min-width: 1150px) {
   .post-body{flex-basis:450px;}
   .post-body:first-child{

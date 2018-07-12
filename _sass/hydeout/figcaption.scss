@@ -21,11 +21,17 @@
 
 .post-body figure figcaption {
   position: absolute;
-  background-color: rgba(250,250,250,1);
+  background-color: white;
   width:auto;
-  padding: 0 1em 0 1em;
-  right: 0;
-  bottom: 0;
+  padding: 1em 0.5em 1em 0.5em;
+  border-bottom-right-radius: 5px;
+  left: 0;
+  top: 0;
+  color: $gray-5;
+  font-weight: bold;
+  width: 100px;
+  text-align: center;
+  font-size: 1.2em;
 }
 
 .post-body figcaption svg{
@@ -33,6 +39,48 @@
 }
 
 .post-body figure img{width: 100%;}
+
+.flex-link{
+  flex-direction:column;
+  flex-wrap:wrap;
+  @media (min-width: $tablet-breakpoint) {flex-direction:row;}
+}
+figure.rappel{
+  display: inline-flex;
+  padding: 0;
+  margin: 0 0 0 1em;
+  position: relative;
+  justify-content:center;
+  max-width: 30%;
+  min-width: 270px;
+  img{width: 100%;}
+  figcaption{
+    position: absolute;
+    background-color: white;
+    padding: 1em;
+    width: 100%;
+    bottom: 0;
+    border-top: 2px solid $gray-5;
+    h3{padding: 0; margin: 0; line-height: 0.5em;}
+    p{padding: 0; margin: 0;}
+  }
+}
+
+.overlay{
+  position: relative;
+    &:before{
+    position: absolute;
+    content:" ";
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    display: none;
+    z-index:0;
+    background-color: rgba(250,250,250,0.2);
+    }
+    &:hover:before{display: block;}
+}
 
 /* figure {
   display: inline-block;

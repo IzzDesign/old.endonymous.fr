@@ -7,16 +7,18 @@ categories:
 og_image: https://endonymous.fr/assets/images/partie4/fb-lien.png
 og_description: Deux ans plus tard est un roman graphique autobiographique sur l'endométriose.
 og_twitter_img : https://endonymous.fr/assets/images/partie4/twitter-lien.png
-excerpt: Blablabla
+excerpt: Et voilà, c'est le jour J, le jour de l'opération ! Bon, d'accord je n'ai fait que dormir pendant cette opération ! On pourrait alors croire que je n'ai pas grand chose à raconter mais détrompe-toi très cher lecteur car il m'arrive toujours des crasses ! Voici la partie 4 de Deux ans plus tard !
 img: /assets/images/partie4/article.png
-type: Deux ans plus tard
+type: BD
 ---
 
-<h3>Attention</h3>
-<div><p>Ceci est la partie 3 de <em>Deux ans plus tard</em>, pour lire les parties précédentes, cliquez sur les images.</p>
-<a href="/histoire/2018/03/22/partie-1-le-deni.html"><img src="/assets/images/partie1/fb-lien.png" class="center" alt="partie 1 deux ans plus tard d'endonymous"></a>
-<a href="/histoire/2018/04/25/partie-2-le-choc.html"><img src="/assets/images/partie2/fb-lien.png" class="center" alt="partie 2 deux ans plus tard d'endonymous"></a>
-<a href="/histoire/2018/05/28/partie-3-la-colère.html"><img src="/assets/images/partie3/fb-lien.png" class="center" alt="partie 3 deux ans plus tard d'endonymous"></a>
+{% include rappel.html %}
+<div class="flex-link">
+{% include liens/partie1.html %}
+{% include liens/partie2.html %}
+{% include liens/partie3.html %}
+</div>
+
 <img src="/assets/images/partie4/04- (1).png" alt="">
 <img src="/assets/images/partie4/04- (2).png" alt="">
 <img src="/assets/images/partie4/04- (3).png" alt="">
@@ -44,4 +46,3 @@ type: Deux ans plus tard
 <img src="/assets/images/partie4/04- (25).png" alt="">
 <img src="/assets/images/partie4/04- (26).png" alt="">
 <img src="/assets/images/partie4/04- (27).png" alt="">
-</div>

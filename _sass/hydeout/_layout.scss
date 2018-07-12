@@ -59,14 +59,10 @@ div#bg{
     div.titre a { color: $yellow; background-color: white; padding: 0.2em; margin-top: 5em; }
 }
 
-@media (min-width: $large-breakpoint) {
-  div#bg{width: 90%}
+@media (min-width: $tablet-breakpoint) {
+  div#bg{width: 67%}
   #sidebar img.fresque{width: 67%; margin: 0 auto;}
   .container{width: 60%;}
-}
-
-@media (min-width: $medium-breakpoint) {
-  div#bg{width: 67%}
 }
 
 
@@ -84,12 +80,22 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
     margin-top: 0;
     margin-bottom: $heading-spacing;
 
-    .back-arrow { margin-right: 0.5rem; }
+    .back-arrow { margin-right: 0.5rem;
+      svg{fill:$yellow;}
+    }
   }
 }
 
 // Container is flexbox as well -- we want content div to stretch and fill
-#sidebar nav {display: flex; justify-content:center;}
+#sidebar nav {
+  display: flex;
+  justify-content:center;
+}
+
+#sidebar nav#sidebar-nav-links{
+  flex-flow: column wrap;
+  @media (min-width: 650px) {flex-flow:row nowrap;}
+}
 
 .container {
   flex: 1 1 auto;
@@ -111,6 +117,7 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
   max-width: 900px;
   margin: 0 auto;
 }
+
 
 /* -----------------------------------------------------------
   Mobile view
@@ -227,7 +234,7 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
     background: $body-bg;
     color: $body-color;
     padding: $section-spacing * 2;
-    width: 95%;
+    /* width: 95%; */
 
     > header {
       color: inherit;
@@ -281,7 +288,6 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
 }
 
 #sidebar-nav-links a{
-  /* flex-flow: column nowrap; */
   background-color: $yellow;
   text-transform: uppercase;
   padding: 0.4em 0.7em 0.2em 0.7em;

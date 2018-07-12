@@ -50,6 +50,7 @@ a {
 img {
   display: block;
   margin: 0 0 1rem;
+  width: 100%;
   height: auto; // Fix to keep max-width from squishing images with defined
                 // height in HTML
 }
@@ -89,7 +90,9 @@ footer{
   text-align: center;
   background-color: $gray-1;
   height: auto;
-  padding-top: 2em;
+  padding-top: 0.1em;
+  width: 100%;
+  @media (min-width: $tablet-breakpoint) {width: 67%;}
 }
 
 /* button, input[type="submit"] {

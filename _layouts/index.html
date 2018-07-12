@@ -15,9 +15,9 @@ layout: default
       </h2>
     </a>
     <a href="{{ site.baseurl }}{{ post.url }}">
-      <figure>
-        <div class="cut"><img src="{{ post.img }}"></div>
-      <figcaption>{{ post.type }} {% include svg/lire.svg %}</figcaption>
+      <figure class="overlay">
+        <img src="{{ post.img }}">
+      <figcaption>{{ post.type }}</figcaption>
       </figure>
     </a>
     <div>
@@ -47,4 +47,4 @@ layout: default
   {% endfor %}
 
   {% include pagination-older.html %}
-</div>
+  </div>
