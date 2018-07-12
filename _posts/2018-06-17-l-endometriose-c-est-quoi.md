@@ -1,12 +1,14 @@
 ---
 layout: post
-subtitle: L'endométriose c'est quoi ?
-title: L'endométriose c'est quoi ?
+subtitle: Comment fonctionne l'endométriose.
+title: L'endométriose c'est quoi&nbsp;?
 categories:
   - article
 og_image: /assets/images/articles/c-est-quoi/fb.png
 og_description: Je suis une statistique. Cette femme sur dix qui a de l’endométriose. Je suis ce qu’on appelle une endo-girl. Quand j’ai appris que j’avais cette maladie chronique j’ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors j'ai décidé d'expliquer cette maladie intime qu’est l’endométriose.
 og_twitter_img : /assets/images/articles/c-est-quoi/twitt.png
+img: /assets/images/articles/c-est-quoi/article.png
+type: Article
 ---
 
 Je suis une statistique. Cette femme sur dix qui a de l'endométriose. Je suis ce qu'on appelle une [*endo-girl*](/histoire/2018/03/22/partie-1-le-deni.html "BD Endonymous partie 1 le déni"). Quand j'ai appris que j'avais cette maladie chronique j'ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors pour expliquer cette maladie intime qu'est l'endométriose, regardons d'abord comment fonctionnent l'utérus et l'endomètre.
@@ -32,23 +34,23 @@ On classe l’endométriose en **cinq stades** qui sont calculés en fonction de
 
 <figure>
   <img src="/assets/images/articles/c-est-quoi/stade1.png" alt="stade 1" class="center middle">
-  <figcaption>Stade 1 : endométriose minime.<br> Présence de lésions légères isolées.</figcaption>
+  <figcaption><h5>Stade 1 : endométriose minime.</h5> Présence de lésions légères isolées.</figcaption>
 </figure>
 <figure>
   <img src="/assets/images/articles/c-est-quoi/stade2.png" alt="stade 2" class="center middle">
-  <figcaption>Stade 2 : endométriose légère.<br> Présence de lésions légères.</figcaption>
+  <figcaption><h5>Stade 2 : endométriose légère.</h5> Présence de lésions légères.</figcaption>
 </figure>
 <figure>
   <img src="/assets/images/articles/c-est-quoi/stade3.png" alt="stade 3" class="center middle">
-  <figcaption> Stade 3 : endométriose modérée.<br> Présence de lésions superficielles et profondes, adhérence.</figcaption>
+  <figcaption><h5>Stade 3 : endométriose modérée.</h5> Présence de lésions superficielles et profondes, adhérence.</figcaption>
 </figure>
 <figure>
   <img src="/assets/images/articles/c-est-quoi/stade4.png" alt="stade 4" class="center middle">
-  <figcaption>Stade 4 : endométriose sévère.<br> Présence d'endométriomes - kystes sanguins ; lésions superficielles et profondes</figcaption>
+  <figcaption><h5>Stade 4 : endométriose sévère.</h5> Présence d'endométriomes - kystes sanguins ; lésions superficielles et profondes</figcaption>
 </figure>
 <figure>
   <img src="/assets/images/articles/c-est-quoi/stade5.png" alt="stade 5" class="center middle">
-  <figcaption>Stade 5 : endométriose extensive.<br> Présence de lésions pulmonaires / thoracique ou de lésions cérébrales (rare)</figcaption>
+  <figcaption><h5>Stade 5 : endométriose extensive.</h5> Présence de lésions pulmonaires / thoracique ou de lésions cérébrales (rare)</figcaption>
 </figure>
 
 Ces stades ne prennent pas en compte la douleur : même une lésion légère placée près d'un nerf par exemple pourra entraîner de très fortes douleurs. Chez certaines femmes leur endométriose de stade 1 peut être plus douloureuse qu’un stade 4 par exemple.

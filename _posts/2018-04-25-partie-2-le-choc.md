@@ -9,7 +9,7 @@ og_description: Deux ans plus tard est un roman graphique autobiographique sur l
 og_twitter_img : http://endonymous.fr/assets/images/partie2/twitter-lien.png
 excerpt: <img href="/assets/images/blank.png">
 img : /assets/images/partie2/article.png
-
+type: Deux ans plus tard
 ---
 
 <h3>Attention</h3>

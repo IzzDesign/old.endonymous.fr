@@ -1,0 +1,68 @@
+.body figcaption{
+  text-align: center;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.post-body figure {
+  display: block;
+  position: relative;
+  padding: 0;
+  margin: 0;
+}
+
+.post-body figure a {
+  display: block;
+}
+
+ figure figcaption:hover {
+
+}
+
+.post-body figure figcaption {
+  position: absolute;
+  background-color: rgba(250,250,250,1);
+  width:auto;
+  padding: 0 1em 0 1em;
+  right: 0;
+  bottom: 0;
+}
+
+.post-body figcaption svg{
+  fill: $yellow;
+}
+
+.post-body figure img{width: 100%;}
+
+/* figure {
+  display: inline-block;
+  overflow:hidden;
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+figure a {
+  display: block;
+}
+
+figure:hover {
+  opacity: 0.3;
+}
+
+figcaption {
+  position: relative;
+  width: 10px;
+  margin: 0 auto;
+  opacity: 1;
+  transition: all 0.5s ease;
+}
+
+figcaption svg{
+  fill: $yellow;
+  font-size: 2em;
+}
+
+figure:hover figcaption {
+  display: block;
+}
+ */

@@ -62,6 +62,7 @@ div#bg{
 @media (min-width: $large-breakpoint) {
   div#bg{width: 90%}
   #sidebar img.fresque{width: 67%; margin: 0 auto;}
+  .container{width: 60%;}
 }
 
 @media (min-width: $medium-breakpoint) {
@@ -226,11 +227,12 @@ h1,h2,h3{ font-family: "helvetihandmedium", serif;}
     background: $body-bg;
     color: $body-color;
     padding: $section-spacing * 2;
-    width: 60%;
+    width: 95%;
 
     > header {
       color: inherit;
-      margin: 0;
+      max-width: 900px;
+      margin: 0 auto;
       h1, h2 {
         color: inherit;
 

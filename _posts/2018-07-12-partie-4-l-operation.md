@@ -7,7 +7,9 @@ categories:
 og_image: https://endonymous.fr/assets/images/partie4/fb-lien.png
 og_description: Deux ans plus tard est un roman graphique autobiographique sur l'endométriose.
 og_twitter_img : https://endonymous.fr/assets/images/partie4/twitter-lien.png
-excerpt: <a href="/histoire/2018/07/12/partie-4-l-operation.html"><img src="/assets/images/partie4/fb-lien.png" class="center" alt="partie 4 deux ans plus tard d'endonymous"></a>
+excerpt: Blablabla
+img: /assets/images/partie4/article.png
+type: Deux ans plus tard
 ---
 
 <h3>Attention</h3>

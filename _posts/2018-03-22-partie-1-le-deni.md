@@ -7,8 +7,9 @@ categories:
 og_image: https://endonymous.fr/assets/images/partie1/fb-lien.png
 og_description: Deux ans plus tard est un roman graphique autobiographique sur l'endométriose.
 og_twitter_img : https://endonymous.fr/assets/images/partie1/twitter-lien.png
-excerpt: <img href="/assets/images/blank.png">
+excerpt: Voici la partie 1 de ma BD Deux ans plus tard. Je parle de mon diagnostic de la maladie chronique l'endométriose.
 img: /assets/images/partie1/article.png
+type: Deux ans plus tard
 ---
 
 <img src="/assets/images/partie1/01- (1).png" alt="Tu te souviens de ces films américains super niais qui te font croire que quand une fille a ses premières règles, c'est le plus beau jour de sa vie ? Bravo ma chérie, Oh, je suis enfin une vraie femme Je suis tellement fière de toi ! Ce cliché est sponsorisé par Tampox.
