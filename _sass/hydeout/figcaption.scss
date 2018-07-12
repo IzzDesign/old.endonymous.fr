@@ -23,14 +23,13 @@
   position: absolute;
   background-color: white;
   width:auto;
-  padding: 1em 0.5em 1em 0.5em;
-  border-bottom-right-radius: 5px;
+  padding: 0.5em 0.5em 0.7em 0.7em;
+  border-bottom-right-radius: 60px;
   left: 0;
   top: 0;
-  color: $gray-5;
+  color: $yellow;
   font-weight: bold;
   width: 100px;
-  text-align: center;
   font-size: 1.2em;
 }
 
@@ -40,11 +39,6 @@
 
 .post-body figure img{width: 100%;}
 
-.flex-link{
-  flex-direction:column;
-  flex-wrap:wrap;
-  @media (min-width: $tablet-breakpoint) {flex-direction:row;}
-}
 figure.rappel{
   display: inline-flex;
   padding: 0;

@@ -6,17 +6,36 @@ layout: page
   {{ content }}
 {% endunless %}
 
-<ul class="posts-list">
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
-    <li>
-      <h2>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-          <span>{{ post.subtitle }}</span>
-          <small>- {{ post.date | date_to_string }}</small>
-        </a>
+  <article class="post-body">
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      <figure class="overlay">
+        <img src="{{ post.img }}">
+      </figure>
+    </a>
+    <figcaption>
+      <h2 class="post-title">
+        {{ post.title }}
       </h2>
-    </li>
+    </figcaption>
+<!--     {% if post.excerpt %}
+      {{ post.excerpt }}
+    {% else %}
+      {{ post.content }}
+    {% endif %}
+
+    {% if post.excerpt %}
+      {% comment %}Excerpt may be equal to content. Check.{% endcomment %}
+      {% capture content_words %}
+        {{ post.content | number_of_words }}
+      {% endcapture %}
+      {% capture excerpt_words %}
+        {{ post.excerpt | number_of_words }}
+      {% endcapture %}
+
+      {% if content_words != excerpt_words %}
+      {% endif %}
+    {% endif %} -->
+  </article>
   {% endfor %}
-</ul>
