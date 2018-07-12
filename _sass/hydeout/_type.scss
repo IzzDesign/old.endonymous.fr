@@ -145,3 +145,24 @@ a svg, .icon svg {
 @media (max-width: 570px){
 .center{width: 90%; text-align: center; margin:0 auto;}
 }
+
+.profil{
+  display: flex;
+  font-size: 1.1em;
+  line-height: 1.7em;
+  margin-top: 5em;
+  background-color: $gray-1;
+  padding: 1.5em 0.6em 0.6em 0.6em;
+  width: 75%;
+  margin: 0 auto;
+}
+.profil img{width: 300px;height: 100px;padding-right: 2em;}
+.profil span{color: $link-color;font-weight: 700;}
+
+input[type="submit"]{
+ margin: 2em 0;
+}
+-textarea{
+  font-family:"Segoe UI", "Roboto", "Oxygen", "Droid Sans", Arial, sans-serif;
+  font-size: 0.9em;
+}
