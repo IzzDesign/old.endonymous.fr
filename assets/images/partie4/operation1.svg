@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 720 1103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-3080,-32)">
+        <g id="Plan-de-travail5" serif:id="Plan de travail5" transform="matrix(1,0,0,0.94193,0,32)">
+            <rect x="3080" y="0" width="720" height="1171" style="fill:none;"/>
+            <g transform="matrix(1,0,0,1.06165,2307.55,-69.7818)">
+                <path d="M826,94C819.333,119.667 823,137.333 823,214C823,280.281 822.874,686.066 821,739C818.333,814.333 808,1138 825,1136C864.838,1131.31 1414,1148.67 1437,1131C1460,1113.33 1434,953.333 1441,868C1446.77,797.695 1443.33,656.333 1443,615C1442.78,587.82 1432,238.667 1440,164C1439.24,98.758 1442.33,96.667 1429,94C1399.67,94.333 861.769,88.729 826,94Z" style="fill:none;"/>
+                <clipPath id="_clip1">
+                    <path d="M826,94C819.333,119.667 823,137.333 823,214C823,280.281 822.874,686.066 821,739C818.333,814.333 808,1138 825,1136C864.838,1131.31 1414,1148.67 1437,1131C1460,1113.33 1434,953.333 1441,868C1446.77,797.695 1443.33,656.333 1443,615C1442.78,587.82 1432,238.667 1440,164C1439.24,98.758 1442.33,96.667 1429,94C1399.67,94.333 861.769,88.729 826,94Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g transform="matrix(1,0,0,2.97654,-1.55102,-2209.76)">
+                        <path d="M814,1130C814,1130 792.881,789.125 814,772C835.119,754.875 1379.88,740.605 1460,780.937C1480.12,833.812 1477.55,1127.53 1440,1127.31C1381.12,1139.19 814,1130 814,1130Z" style="fill:rgb(20,20,20);"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(-1,0,0,1.06165,6099,-33.9728)">
+                <g>
+                    <path d="M2369,555.602C2369,555.602 2512.17,502.519 2652,552.301C2527.83,589.615 2369,555.602 2369,555.602ZM2961,555.602C2961,555.602 2817.83,502.519 2678,552.301C2802.17,589.615 2961,555.602 2961,555.602Z" style="fill:white;"/>
+                    <clipPath id="_clip2">
+                        <path d="M2369,555.602C2369,555.602 2512.17,502.519 2652,552.301C2527.83,589.615 2369,555.602 2369,555.602ZM2961,555.602C2961,555.602 2817.83,502.519 2678,552.301C2802.17,589.615 2961,555.602 2961,555.602Z"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip2)">
+                        <g transform="matrix(1.18692,0,1.46604,1.44151,-1994.03,-111.721)">
+                            <g transform="matrix(1,0,-0.31,0.29,188.07,282.87)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,160.598,312.87)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,128.737,342.203)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,83.4033,282.87)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,53.4033,312.87)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,24.07,342.203)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,292.737,282.87)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,265.264,312.87)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,233.403,342.203)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,397.403,282.87)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,369.931,312.87)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,338.07,342.203)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,500.737,282.87)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,473.264,312.87)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(1,0,-0.31,0.29,441.403,342.203)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(80,121,172);stroke-width:3.85px;"/>
+                            </g>
+                            <g transform="matrix(0.196325,0,-0.31,0.29,3003.35,327.73)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(91,91,91);stroke-width:9.92px;"/>
+                            </g>
+                            <g transform="matrix(0.196325,0,-0.31,0.29,2689.37,326.805)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:rgb(211,243,247);stroke:rgb(91,91,91);stroke-width:9.92px;"/>
+                            </g>
+                            <g transform="matrix(0.116789,0,-0.296624,0.277487,2940.28,332.929)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:white;stroke:rgb(91,91,91);stroke-width:11.37px;"/>
+                            </g>
+                            <g transform="matrix(0.116789,0,-0.296624,0.277487,3255.38,332.929)">
+                                <rect x="3185" y="397" width="104" height="100" style="fill:white;stroke:rgb(91,91,91);stroke-width:11.37px;"/>
+                            </g>
+                            <g transform="matrix(-0.842516,0,-0.856852,0.693717,6698.97,80.2775)">
+                                <path d="M3233,560C3233,560 3245.5,559 3249,555C3252.5,551 3255.16,550 3262,546C3268.84,542 3274.16,536 3275,529C3275.84,522 3288.5,514 3280,512C3271.5,510 3174.83,503 3172,513C3169.17,523 3164.5,521.333 3167,529C3169.5,536.667 3151.5,540 3171,541C3190.5,542 3233,560 3233,560Z" style="fill:rgb(220,220,220);stroke:black;stroke-width:0.9px;"/>
+                                <g transform="matrix(1.22138,0,0,1.30272,-722.803,-158.926)">
+                                    <path d="M3273,525C3273,525 3275.83,532.333 3272,535C3268.17,537.667 3265,536 3265,536" style="fill:rgb(253,230,212);stroke:black;stroke-width:0.71px;"/>
+                                </g>
+                                <path d="M3183,552C3183,552 3185.16,561.333 3178,563C3170.84,564.667 3196.5,580.333 3199,576C3201.5,571.667 3199.64,573.667 3206.81,562" style="fill:rgb(253,230,212);stroke:black;stroke-width:0.9px;"/>
+                                <path d="M3283,507C3283,507 3257.5,574 3205,561C3152.5,548 3172,513 3172,513" style="fill:rgb(253,230,212);stroke:black;stroke-width:0.9px;"/>
+                                <g transform="matrix(1,0,0,1,-1.40711,-3)">
+                                    <path d="M3197,538C3197,538 3219.5,541.667 3219,547C3218.5,552.333 3192.16,544 3197,538Z" style="fill:none;stroke:black;stroke-width:0.9px;"/>
+                                </g>
+                                <path d="M3233,523C3233,523 3237.5,531.333 3241,532" style="fill:none;stroke:black;stroke-width:0.9px;"/>
+                                <path d="M3208,515C3208,515 3194.5,519.667 3191,517" style="fill:none;stroke:black;stroke-width:0.9px;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1.06165,3160.75,819.82)">
+                <g>
+                    <text x="82.847px" y="91.9px" style="font-family:'HelvetiHand';font-weight:500;font-size:22px;fill:white;">Allez, on dit «bye-bye, bon voyage» aux</text>
+                    <text x="65.841px" y="115.88px" style="font-family:'HelvetiHand';font-weight:500;font-size:22px;fill:white;">petits kystes et on compte jusqu&apos;à 1, 2, 3,</text>
+                    <text x="470.663px" y="115.88px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:22px;fill:white;">…</text>
+                    <text x="221.458px" y="139.86px" style="font-family:'HelvetiHand';font-weight:500;font-size:22px;fill:white;">Bonne nuit !</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1.06165,3173.58,45.8769)">
+                <g>
+                    <text x="71.64px" y="91.9px" style="font-family:'HelvetiHand';font-weight:500;font-size:22px;fill:white;">Une fois dans la salle d&apos;opération on m&apos;a</text>
+                    <text x="100.801px" y="115.88px" style="font-family:'HelvetiHand';font-weight:500;font-size:22px;fill:white;">installée sur une table et très vite :</text>
+                </g>
+            </g>
+            <g transform="matrix(0.93908,-0.0456682,0.0531031,1.23075,3051.16,99.1168)">
+                <path d="M308.41,278.539C308.41,278.539 271.904,318.165 331,329C390.096,339.835 491.452,341.163 498.454,319.829C505.623,297.984 509.097,284.029 475.192,278.864C441.288,273.699 325.314,258.704 308.41,278.539Z" style="fill:rgb(255,252,252);"/>
+            </g>
+            <g transform="matrix(1,0,0,1.06165,-2.27374e-13,-33.9728)">
+                <g>
+                    <text x="3372.15px" y="444.45px" style="font-family:'HelvetiHand';font-weight:500;font-size:17px;">Vous me donnerez</text>
+                    <text x="3361.49px" y="462.98px" style="font-family:'HelvetiHand';font-weight:500;font-size:17px;">des nouvelles de mon</text>
+                    <text x="3386.3px" y="481.51px" style="font-family:'HelvetiHand';font-weight:500;font-size:17px;">Mojito maison !</text>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1.06165,0,-33.9728)">
+                <path d="M3351,471C3351,471 3289.5,480.333 3268,507C3277.58,495.115 3308,485.333 3354,480" style="fill:rgb(255,252,252);"/>
+            </g>
+        </g>
+    </g>
+</svg>

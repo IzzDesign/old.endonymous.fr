@@ -41,8 +41,9 @@ body {
 }
 
 div#bg{
-  background-image: url("../images/");
+/*   background-image: url("../images/couv2.png");
   background-repeat: no-repeat;
+  background-size:cover; */
   background-color: $yellow;
   background-position: center;
   min-height: 20em;
@@ -64,10 +65,6 @@ div#bg{
   #sidebar img.fresque{width: 67%; margin: 0 auto;}
   .container{width: 60%;}
 }
-
-
-.logo{max-height: 200px;margin: 0 auto;}
-h1,h2,h3{ font-family: "helvetihandmedium", serif;}
 
 #sidebar {
   flex: 0 0 auto;

@@ -10,6 +10,8 @@ h1, h2, h3, h4, h5, h6, .site-title {
   text-rendering: optimizeLegibility;
 }
 
+h1,h2,h3{ font-family: "helvetihandmedium", serif;}
+
 h1 {
   font-size: 2rem;
 }
@@ -137,6 +139,7 @@ a svg, .icon svg {
 /* a svg { fill: $yellow; }
  */.icon { vertical-align: middle; }
 
+.logo{max-height: 220px;margin: 0 auto;}
 @media (max-width: 65em) {
     img{width: 100%;}
     img.logo{width: auto;}
@@ -148,13 +151,22 @@ a svg, .icon svg {
 
 .profil{
   display: flex;
+  flex-direction:row;
+  flex-wrap:wrap;
   font-size: 1.1em;
   line-height: 1.7em;
   margin-top: 5em;
   background-color: $gray-1;
   padding: 1.5em 0.6em 0.6em 0.6em;
-  width: 75%;
   margin: 0 auto;
+  width: 75%;
+  .droite{width: 70%;
+    @media (max-width: 800px){width: 100%;}
+  }
 }
-.profil img{width: 300px;height: 100px;padding-right: 2em;}
+.profil .gauche{
+  justify-content:left;
+  @media (max-width: 800px){margin: 0 auto;}
+  img{width:150px;padding-right: 2em;}
+}
 .profil span{color: $link-color;font-weight: 700;}
