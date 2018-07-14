@@ -4,14 +4,26 @@
 // page is wrapped in `.page` and is only used on the page layout.
 
 article + *, .post-body ~ section {
-  padding: $section-spacing;
-  border-top: 1px solid $border-color;
+  padding-right: 10px;
   margin-top: $section-spacing;
 
   > h2:first-child, > h3:first-child {
     margin-top: 0;
   }
 }
+
+.post-body{flex-basis:900px;}
+.body{width: 900px;}
+@media (min-width: 1150px) {
+  .post-body{flex-basis:450px;}
+  .post-body:first-child{
+    flex-basis:900px;
+  }
+}
+
+/* @media (min-width: 1992px) and (max-width:800px) {
+  .post-body{flex-basis:250px;}
+} */
 
 .post, .page {
   .content {
@@ -30,6 +42,11 @@ article + *, .post-body ~ section {
 .page-title,
 .post-title {
   margin-top: 0;
+}
+
+div.article-title{
+  width: 70%;
+  padding-left: 5em;
 }
 
 // h1-size h2

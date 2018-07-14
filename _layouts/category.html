@@ -9,15 +9,17 @@ layout: page
   {% assign category = page.category | default: page.title %}
   {% for post in site.categories[category] %}
   <article class="post-body">
-    <h3 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      <figure class="overlay">
+        <img src="{{ post.img }}">
+      </figure>
+    </a>
+    <figcaption>
+      <h2 class="post-title">
         {{ post.title }}
-      </a>
-    </h3>
-    <h4>{{ post.subtitle }}</h4>
-    {% include post-meta.html post=post %}
-
-    {% if post.excerpt %}
+      </h2>
+    </figcaption>
+<!--     {% if post.excerpt %}
       {{ post.excerpt }}
     {% else %}
       {{ post.content }}
@@ -33,9 +35,7 @@ layout: page
       {% endcapture %}
 
       {% if content_words != excerpt_words %}
-        <a href="{{ site.baseurl }}{{ post.url }}">Lire &hellip;</a>
       {% endif %}
-    {% endif %}
+    {% endif %} -->
   </article>
   {% endfor %}
-</ul>

@@ -9,14 +9,21 @@ layout: default
 
   {% for post in paginator.posts %}
   <article class="post-body">
-    <h2 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      <h2 class="post-title">
         {{ post.title }}
-      </a>
-    </h2>
-    <h3>{{ post.subtitle }}</h3>
-    {% include post-meta.html post=post %}
-
+      </h2>
+    </a>
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      <figure class="overlay">
+        <img src="{{ post.img }}">
+      <figcaption>{{ post.type }}</figcaption>
+      </figure>
+    </a>
+    <div>
+      <h3>{{ post.subtitle }}</h3>
+      {% include post-meta.html post=post %}
+    </div>
     {% if post.excerpt %}
       {{ post.excerpt }}
     {% else %}
@@ -33,11 +40,11 @@ layout: default
       {% endcapture %}
 
       {% if content_words != excerpt_words %}
-        <a href="{{ site.baseurl }}{{ post.url }}">Lire &hellip;</a>
+        <!-- <a href="{{ site.baseurl }}{{ post.url }}">Lire</a> -->
       {% endif %}
     {% endif %}
   </article>
   {% endfor %}
 
   {% include pagination-older.html %}
-</div>
+  </div>

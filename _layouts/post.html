@@ -10,13 +10,12 @@ layout: default
   {% include post-meta.html post=page %}
   <div class="addthis_inline_share_toolbox"></div>
 
-  <div class="post-body">
+  <div class="body">
     {{ content }}
     {% include post-tags.html post=page %}
-    {% include profil.html %}
   </div>
 
-  <div class="addthis_inline_share_toolbox"></div>
   <!-- {% include comments.html %} -->
+  {% include profil.html %}
   {% include related_posts.html %}
 </div>

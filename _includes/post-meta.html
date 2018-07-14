@@ -1,21 +1,19 @@
 <div class="post-meta">
   <span class="post-date">{% assign m = include.post.date | date: "%-m" %}
-{{ include.post.date | date: "%-d" }}
-{% case m %}
-  {% when '1' %}Janvier
-  {% when '2' %}Février
-  {% when '3' %}Mars
-  {% when '4' %}Avril
-  {% when '5' %}Mai
-  {% when '6' %}Juin
-  {% when '7' %}Juillet
-  {% when '8' %}Août
-  {% when '9' %}Septembre
-  {% when '10' %}Octobre
-  {% when '11' %}Novembre
-  {% when '12' %}Décembre
-{% endcase %}
-{{ include.post.date | date: "%Y" }}</span>
+{{ include.post.date | date: "%-d" }}-{% case m %}
+  {% when '1' %}01
+  {% when '2' %}02
+  {% when '3' %}03
+  {% when '4' %}04
+  {% when '5' %}05
+  {% when '6' %}06
+  {% when '7' %}07
+  {% when '8' %}08
+  {% when '9' %}09
+  {% when '10' %}10
+  {% when '11' %}11
+  {% when '12' %}12
+{% endcase %}-{{ include.post.date | date: "%Y" }}</span>
   <span class="post-categories">
     {% for category in include.post.categories %}
       &bull;

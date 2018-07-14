@@ -1,18 +1,19 @@
 <div id="sidebar">
   <header>
-    <a href="{{ site.baseurl }}/"><img class="logo" src="/assets/images/logo2.svg"></a>
+    <div id="bg">
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
-      <a href="{{ site.baseurl }}/">
+      <div class="titre"><a href="{{ site.baseurl }}/">
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
         {{ site.title }}
-      </a>
+      </a></div>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
     <p class="lead">{{ site.description }}</p>
+      <a href="{{ site.baseurl }}/"><img src="/assets/images/logo2.svg" class="logo"></a>
+      {% include custom-icon-links.html %}
+    </div>
+      <img src="/assets/images/fresque.svg" class="fresque">
+    {% include sidebar-nav-links.html %}
   </header>
-  {% include sidebar-nav-links.html %}
-
-  {% include custom-icon-links.html %}
-  {% include copyright.html %}
 </div>
