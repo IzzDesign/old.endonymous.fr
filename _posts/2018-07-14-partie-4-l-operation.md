@@ -7,7 +7,7 @@ categories:
 og_image: https://endonymous.fr/assets/images/partie4/fb-lien.png
 og_description: Deux ans plus tard est un roman graphique autobiographique sur l'endométriose.
 og_twitter_img : https://endonymous.fr/assets/images/partie4/twitter-lien.png
-excerpt: Et voilà, c'est le jour J, le jour de l'opération ! Bon, d'accord je n'ai fait que dormir pendant cette opération ! On pourrait alors croire que je n'ai pas grand chose à raconter mais détrompe-toi très cher lecteur car il m'arrive toujours des crasses ! Voici la partie 4 de Deux ans plus tard !
+excerpt: Et voilà, c'est le jour J, le jour de l'opération ! Bon, d'accord je n'ai fait que dormir pendant cette opération. On pourrait alors croire que je n'ai pas grand chose à raconter mais détrompe-toi très cher lecteur car il m'arrive toujours des crasses ! Voici la partie 4 de <em>Deux ans plus tard<em>.
 img: /assets/images/partie4/article.png
 type: BD
 ---
