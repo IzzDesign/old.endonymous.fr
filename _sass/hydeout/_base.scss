@@ -90,6 +90,9 @@ form{
   textarea{
     font-family:"Segoe UI", "Roboto", "Oxygen", "Droid Sans", Arial, sans-serif;
     font-size: 1.1em;
+    width: 100%;
+    @media (min-width: 839px){width: 80%;}
+
   }
   input[type="submit"]{
     background-color: $yellow;
