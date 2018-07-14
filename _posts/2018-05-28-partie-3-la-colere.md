@@ -7,7 +7,7 @@ categories:
 og_image: https://endonymous.fr/assets/images/partie3/fb-lien.png
 og_description: Deux ans plus tard est un roman graphique autobiographique sur l'endométriose.
 og_twitter_img : https://endonymous.fr/assets/images/partie3/twitter-lien.png
-excerpt: Tu trouves que ce monde est juste toi ? Moi jamais ! Et ça me met terriblement en colère ! Viens t'énerver avec moi que je me sente moins seule en lisant la partie trois de Deux ans plus tard ! Grrr…
+excerpt: Tu trouves que ce monde est juste toi ? Moi jamais ! Et ça me met terriblement en colère ! Viens t'énerver avec moi que je me sente moins seule en lisant la partie trois de <em>Deux ans plus tard</em> ! Grrr…
 img : /assets/images/partie3/article.png
 type: BD
 ---
