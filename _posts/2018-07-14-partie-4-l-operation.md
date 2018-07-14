@@ -46,6 +46,9 @@ type: BD
 <img src="/assets/images/partie4/04- (25).png" alt="">
 <img src="/assets/images/partie4/04- (26).png" alt="">
 <img src="/assets/images/partie4/04- (27).png" alt="">
+<div class="bd">
+    <p class="asuivre">Fin de la partie 4 - À suivre…</p>
+</div>
 
 
 
