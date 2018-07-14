@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: Deux ans plus tard
-title: Partie 1 - Le déni
+title: Partie 1 — Le déni
 categories:
   - histoire
 og_image: https://endonymous.fr/assets/images/partie1/fb-lien.png

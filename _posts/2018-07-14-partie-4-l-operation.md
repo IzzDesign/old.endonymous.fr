@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: Deux ans plus tard
-title: Partie 4 - L'opération
+title: Partie 4 — L'opération
 categories:
   - histoire
 og_image: https://endonymous.fr/assets/images/partie4/fb-lien.png
