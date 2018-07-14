@@ -16,7 +16,9 @@ layout: page
     </a>
     <figcaption>
       <h2 class="post-title">
-        {{ post.title }}
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+        </a>
       </h2>
     </figcaption>
 <!--     {% if post.excerpt %}
