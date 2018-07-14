@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: Deux ans plus tard
-title: Partie 3 - La colère
+title: Partie 3 — La colère
 categories:
   - histoire
 og_image: https://endonymous.fr/assets/images/partie3/fb-lien.png

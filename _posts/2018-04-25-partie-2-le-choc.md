@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: Deux ans plus tard
-title: Partie 2 - Le choc
+title: Partie 2 — Le choc
 categories:
   - histoire
 og_image: http://endonymous.fr/assets/images/partie2/fb-lien.png
