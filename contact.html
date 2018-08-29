@@ -9,13 +9,15 @@ sidebar_link: true
       <p><label for="email">Email :</label><input type="text" id="email" name="email" tabindex="2" /></p>
       <p><label for="message">Message :</label></p>
       <textarea id="message" name="message" tabindex="4" rows="15"></textarea>
-      <p><input type="submit" value="Envoyer"></p>
+      <input type="submit" value="Envoyer">
   </form>
 
   {% include twitter-embed.html %}
 </div>
 
-<h3>Retrouvez-moi sur les réseaux sociaux</h3>
 <div class="contact">
+  <h3>Retrouvez-moi sur les réseaux sociaux</h3>
   {% include custom-icon-links.html %}
+  <h3>Inscrivez-vous à la newsletter</h3>
+  {% include mailchimp.html %}
 </div>
