@@ -16,7 +16,7 @@ layout: default
     </a>
     <a href="{{ site.baseurl }}{{ post.url }}">
       <figure class="overlay">
-        <img src="{{ post.img }}">
+        <img src="{% if forloop.first %}{{ post.banner_large }}{% else %}{{ post.banner }}{% endif %}">
       <figcaption>{{ post.type }}</figcaption>
       </figure>
     </a>
