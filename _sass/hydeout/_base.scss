@@ -102,13 +102,11 @@ form{
   }
 }
 
-input[type="text"], input[type="search"], input[type="submit"],  input[type="email"]{
+input[type="text"], input[type="search"], input[type="submit"]{
   padding: 0.7em 1.5em;
   border: 1px solid $border-color;
   border-radius: 10px;
 }
-
-input[type="submit"]{margin-top: 20px;}
 
 footer{
   height: 10px;
@@ -130,7 +128,7 @@ footer{
   justify-content:center;
 }
 
-.contact{display: block;width: 100%; padding: 0 10px 0 10px;}
+.contact{display: block;width: 100%;}
 /* button, input[type="submit"] {
   cursor: pointer;
   background: transparent;
