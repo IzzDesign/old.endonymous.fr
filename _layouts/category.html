@@ -11,7 +11,7 @@ layout: page
   <article class="post-body">
     <a href="{{ site.baseurl }}{{ post.url }}">
       <figure class="overlay">
-        <img src="{{ post.img }}">
+        <img src="{% if forloop.first %}{{ post.banner_large }}{% else %}{{ post.banner }}{% endif %}">
       </figure>
     </a>
     <figcaption>

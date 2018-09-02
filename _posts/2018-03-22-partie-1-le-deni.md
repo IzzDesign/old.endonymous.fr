@@ -8,7 +8,8 @@ og_image: https://endonymous.fr/assets/images/partie1/fb-lien.png
 og_description: Deux ans plus tard est un roman graphique autobiographique sur l'endométriose.
 og_twitter_img : https://endonymous.fr/assets/images/partie1/twitter-lien.png
 excerpt: Bonjour, je m'appelle Isa mais je me cache sous l'identité secrète d'Endonymous. Tu vois, il m'est arrivé 2-3 petites bricoles ces dernières années, et comme je sais un peu gribouiller j'ai voulu en faire une BD ! Pour la lire tu es au bon endroit, c'est la première partie de Deux ans plus tard ! Bonne lecture !
-img: /assets/images/partie1/article.png
+banner: /assets/images/partie1/article.png
+banner_large: /assets/images/partie1/article.png
 type: BD
 ---
 
