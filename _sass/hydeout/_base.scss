@@ -94,7 +94,7 @@ form{
     @media (min-width: 839px){width: 80%;}
 
   }
-  input[type="submit"]{
+  input[type="submit"],{
     background-color: $yellow;
     color: white;
     font-family: "helvetihandmedium";
@@ -102,10 +102,17 @@ form{
   }
 }
 
-input[type="text"], input[type="search"], input[type="submit"]{
+input[type="text"], input[type="search"], input[type="submit"], .button{
   padding: 0.7em 1.5em;
   border: 1px solid $border-color;
   border-radius: 10px;
+}
+
+.button{
+  background-color: $yellow;
+  color: white;
+  font-family: "helvetihandmedium";
+  text-transform: uppercase;
 }
 
 footer{
