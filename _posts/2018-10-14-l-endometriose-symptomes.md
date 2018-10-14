@@ -7,7 +7,8 @@ categories:
 og_image: /assets/images/articles/symptomes/fblien.png
 og_description: L'endométriose est une maladie féminine qui touche une femme sur dix. En France, cela représente 2 à 4 millions de malades. Malgré un nombre important de patientes atteintes, le diagnostic reste encore long notamment parce qu'il existe un manque sévère de communication autour de cette maladie entraînant un manque de connaissance du grand public. Quels sont les symptômes de l'endométriose ?
 og_twitter_img : /assets/images/articles/twitt.png
-img: /assets/images/articles/articleprincipal.png
+banner: /assets/images/articles/article-mini.png
+banner_large: /assets/images/articles/article.png
 type: Article
 ---
 
@@ -19,7 +20,7 @@ Vous l’aurez compris, il y a de très fortes probabilités qu’au moins une f
 <img src="/assets/images/articles/symptomes/endo-sophie.png" alt="parler d'endométriose" class="center">
 
 ## En résumé, les symptômes qui doivent alerter :
-> Note importante : Évidemment, si vous avez l’impression de reconnaître chez vous les symptômes qui suivent, ceci ne veut pas forcément dire que vous avez une endométriose, aucun article ne remplacera un rendez-vous médical et des examens médicaux lors d’une recherche de diagnostic. En revanche, connaître ses symptômes et en parler à votre médecin lui permettra d’établir au mieux un diagnostic.
+> **Note importante :** Évidemment, si vous avez l’impression de reconnaître chez vous les symptômes qui suivent, ceci ne veut pas forcément dire que vous avez une endométriose, aucun article ne remplacera un rendez-vous médical et des examens médicaux lors d’une recherche de diagnostic. En revanche, connaître ses symptômes et en parler à votre médecin lui permettra d’établir au mieux un diagnostic.
 
 * Les douleurs pelviennes pendant les règles, notamment si ces douleurs entraînent un handicap professionnel ou social (absences répétées…).
 * Les douleurs pelviennes hors des règles notamment avec une corrélation lors du cycle (ovulation, avant les règles, après les règles…).
@@ -108,7 +109,7 @@ L'asthénie intense ou fatigue chronique est une sensation d'épuisement persist
 <img src="/assets/images/articles/symptomes/dodo.png" alt="dessin fatigue chronique" class="center">
 
 Des recherches[^fatigue] ont été faites dans le cas de fatigue chronique pour des patientes avec de l'endométriose. Des tests ont démontré que 50,7% des femmes malades d'endométriose de l'étude souffrent de fatigue chronique contre 22,4% de femmes « témoins ». Les chercheurs avancent qu'une des raisons possibles de la fatigue causée par l'endométriose -- en dehors de certains facteurs tels que l'insomnie ou la douleur -- pourrait être l'activation des cytokines (cellules du système immunitaire) lors des phénomènes inflammatoires pendant les crises d'endométriose. Ces protéines, les cytokines, permettent l'activation du système immunitaire et jouent un rôle lors de la fatigue chronique. De plus, une autre explication pourrait être que les forts stress causés par la maladie résulteraient en une fatigue surrénale -- provoquée par une trop grande sollicitation des glandes surrénales, qui aident le corps à réguler le stress[^fatigue2].
-Je vous invite à lire un article intéressant qui explique très bien la fatigue ressentie lors d'une maladie chronique : [la théorie des cuillières](http://cdn.totalcomputersusa.com/butyoudontlooksick.com/uploads/2010/09/La-Theorie-des-cuilleres.pdf) écrite par Christine Miserandino sur son site butyoudontlooksick.com.
+Je vous invite à lire un article intéressant qui explique très bien la fatigue ressentie lors d'une maladie chronique : [la théorie des cuillières](http://cdn.totalcomputersusa.com/butyoudontlooksick.com/uploads/2010/09/La-Theorie-des-cuilleres.pdf) écrite par Christine Miserandino sur son site [But your don't look sick](http://butyoudontlooksick.com).
 
 ## Conclusion
 Vous l'aurez compris, aucune endométriose n'est identique, il existe autant d'endométrioses que de femmes atteintes. En cas de doute, n'hésitez pas à consulter un spécialiste qui pourra effectuer un diagnostic et proposer un suivi le cas échéant.
