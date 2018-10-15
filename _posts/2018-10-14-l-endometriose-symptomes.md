@@ -22,20 +22,21 @@ Vous l’aurez compris, il y a de très fortes probabilités qu’au moins une f
 ## En résumé, les symptômes qui doivent alerter :
 > **Note importante :** Évidemment, si vous avez l’impression de reconnaître chez vous les symptômes qui suivent, ceci ne veut pas forcément dire que vous avez une endométriose, aucun article ne remplacera un rendez-vous médical et des examens médicaux lors d’une recherche de diagnostic. En revanche, connaître ses symptômes et en parler à votre médecin lui permettra d’établir au mieux un diagnostic.
 
+Voici les principaux symptômes qui pourraient faire penser à une endométriose, mais chaque femme est différente, et il en est de même pour les symptômes d’endométriose.
+
 * Les douleurs pelviennes pendant les règles, notamment si ces douleurs entraînent un handicap professionnel ou social (absences répétées…).
-* Les douleurs pelviennes hors des règles notamment avec une corrélation lors du cycle (ovulation, avant les règles, après les règles…).
+* Les douleurs pelviennes hors des règles notamment corrélées au cycle (ovulation, avant les règles, après les règles…).
 * Les douleurs lors des rapports sexuels avec pénétration.
 * La fatigue chronique.
 * La difficulté à tomber enceinte.
 * Des saignements hors des règles.
-
-Voici les principaux symptômes qui pourraient faire penser à une endométriose, mais chaque femme est différente, et il en est de même pour les symptômes d’endométriose.
 
 ## Pour aller plus loin
 Pour aller plus loin voici une liste de symptômes détaillés causés par l’endométriose et pour quelles raisons ils peuvent apparaître en cas de maladie.
 
 ### La douleur
 Toutes les endométrioses ne sont pas forcément douloureuses, tout va dépendre de la localisation des lésions, mais **la douleur est néanmoins l'un des principaux symptômes de l'endométriose.** Ces douleurs peuvent être ponctuelles, et peuvent apparaître suite à un effort, être dépendantes du cycle -- règles ou ovulation ; ou bien elles peuvent être continues dans le cas de douleurs chroniques. L'intensité de la douleur va être variable, allant de la gêne à l'évanouissement en passant par les vomissements.
+
 <img src="/assets/images/articles/symptomes/douleurs.png" alt="douleur endométriose" class="center">
 
 La douleur apparaît dans différents cas :
@@ -56,6 +57,14 @@ Même en dehors des règles, les patientes atteintes d'endométriose peuvent res
 
 #### Dyspareunie profonde
 La dyspareunie profonde est une douleur ressentie dans le bas-ventre **lors de rapports sexuels avec pénétration**[^dyspareunie]. La présence de lésions d'endométrioses peut, si elles sont mal placées, entraîner une gêne sexuelle plus ou moins importante, ces douleurs pouvant varier en intensité en fonction de la position.
+
+### Asthénie intense ou Fatigue Chronique
+L'asthénie intense ou fatigue chronique est une sensation d'épuisement persistant malgré le repos[^asthenie]. Cet état peut entraîner un handicap social et professionnel, de l'isolement, de la dépression, une fragilité immunitaire, un sentiment de malaise après un effort, un sommeil non réparateur, des douleurs musculaires, des maux de tête, des troubles digestifs…
+
+<img src="/assets/images/articles/symptomes/dodo.png" alt="dessin fatigue chronique" class="center">
+
+Des recherches[^fatigue] ont été faites dans le cas de fatigue chronique pour des patientes avec de l'endométriose. Des tests ont démontré que 50,7% des femmes malades d'endométriose de l'étude souffrent de fatigue chronique contre 22,4% de femmes « témoins ». Les chercheurs avancent qu'une des raisons possibles de la fatigue causée par l'endométriose -- en dehors de certains facteurs tels que l'insomnie ou la douleur -- pourrait être l'activation des cytokines (cellules du système immunitaire) lors des phénomènes inflammatoires pendant les crises d'endométriose. Ces protéines, les cytokines, permettent l'activation du système immunitaire et jouent un rôle lors de la fatigue chronique. De plus, une autre explication pourrait être que le fort stress causé par la maladie résulterait en une fatigue surrénale -- provoquée par une trop grande sollicitation des glandes surrénales, qui aident le corps à réguler le stress[^fatigue2].
+Je vous invite à lire un article intéressant qui explique très bien la fatigue ressentie lors d'une maladie chronique : [la théorie des cuillères](http://cdn.totalcomputersusa.com/butyoudontlooksick.com/uploads/2010/09/La-Theorie-des-cuilleres.pdf) écrite par Christine Miserandino sur son site [But you don't look sick](https://butyoudontlooksick.com).
 
 ### Difficultés à tomber enceinte
 **30 à 50% des patientes atteintes d’une endométriose** seront confrontées à des problèmes de stérilité et d'infertilité[^fertile]. L'endométriose peut altérer tout un tas de mécanismes reproductifs, ce qui peut empêcher que bébé arrive à bord.
@@ -102,14 +111,6 @@ Saignement de l'utérus en dehors des périodes de règles.
 
 #### Spotting
 Petits saignements utérins, discontinus, survenant entre les règles.
-
-### Asthénie intense ou Fatigue Chronique
-L'asthénie intense ou fatigue chronique est une sensation d'épuisement persistant malgré le repos[^asthenie]. Cet état peut entraîner un handicap social et professionnel, de l'isolement, de la dépression, une fragilité immunitaire, un sentiment de malaise après un effort, un sommeil non réparateur, des douleurs musculaires, des maux de tête, des troubles digestifs…
-
-<img src="/assets/images/articles/symptomes/dodo.png" alt="dessin fatigue chronique" class="center">
-
-Des recherches[^fatigue] ont été faites dans le cas de fatigue chronique pour des patientes avec de l'endométriose. Des tests ont démontré que 50,7% des femmes malades d'endométriose de l'étude souffrent de fatigue chronique contre 22,4% de femmes « témoins ». Les chercheurs avancent qu'une des raisons possibles de la fatigue causée par l'endométriose -- en dehors de certains facteurs tels que l'insomnie ou la douleur -- pourrait être l'activation des cytokines (cellules du système immunitaire) lors des phénomènes inflammatoires pendant les crises d'endométriose. Ces protéines, les cytokines, permettent l'activation du système immunitaire et jouent un rôle lors de la fatigue chronique. De plus, une autre explication pourrait être que les forts stress causés par la maladie résulteraient en une fatigue surrénale -- provoquée par une trop grande sollicitation des glandes surrénales, qui aident le corps à réguler le stress[^fatigue2].
-Je vous invite à lire un article intéressant qui explique très bien la fatigue ressentie lors d'une maladie chronique : [la théorie des cuillères](http://cdn.totalcomputersusa.com/butyoudontlooksick.com/uploads/2010/09/La-Theorie-des-cuilleres.pdf) écrite par Christine Miserandino sur son site [But you don't look sick](https://butyoudontlooksick.com).
 
 ## Conclusion
 Vous l'aurez compris, aucune endométriose n'est identique, il existe autant d'endométrioses que de femmes atteintes. En cas de doute, n'hésitez pas à consulter un spécialiste qui pourra effectuer un diagnostic et proposer un suivi le cas échéant.
