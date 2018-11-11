@@ -1,5 +1,5 @@
 ---
 layout: category
-title: En savoir plus
+title: Annecdotes
 category: annecdote
 ---

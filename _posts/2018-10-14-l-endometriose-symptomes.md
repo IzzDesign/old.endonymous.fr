@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: Les symptômes de l'endométriose.
-title: Est-ce-que j'ai de l'endométriose&nbsp;?
+title: Ai-je de l'endométriose&nbsp;?
 categories:
   - article
 og_image: /assets/images/articles/symptomes/fblien.png
