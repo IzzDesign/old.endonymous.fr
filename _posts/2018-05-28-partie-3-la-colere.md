@@ -13,8 +13,10 @@ banner_large : /assets/images/partie3/article.png
 type: BD
 ---
 {% include rappel.html %}
-{% include liens/partie1.html %}
-{% include liens/partie2.html %}
+<div class="flex-link">
+    {% include liens/partie1.html %}
+    {% include liens/partie2.html %}
+</div>
 
 <img src="/assets/images/partie3/03- (1).png" alt="">
 <img src="/assets/images/partie3/03- (2).png" alt="">
@@ -41,4 +43,4 @@ type: BD
 <img src="/assets/images/partie3/03- (23).png" alt="">
 
 <h3>À suivre</h3>
-{% include liens/partie4.html %}
+<div class="flex-link">{% include liens/partie4.html %}</div>

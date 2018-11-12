@@ -15,10 +15,6 @@
   display: block;
 }
 
- figure figcaption:hover {
-
-}
-
 .post-body figure figcaption {
   position: absolute;
   background-color: white;
@@ -39,23 +35,34 @@
 
 .post-body figure img{width: 100%;}
 
-figure.rappel{
+.flex-link{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content:space-around;
+  width: 95%;
+  @media (max-width: 965px) {width: 70%; margin: 0 auto;}
+}
+
+.part1{background-color: $part1;}
+.part2{background-color: $part2;}
+.part3{background-color: $part3;}
+.part4{background-color: $part4;}
+
+div.rappel{
   display: inline-flex;
   padding: 0;
   margin: 0 0 0 1em;
   position: relative;
-  justify-content:center;
-  max-width: 30%;
-  min-width: 270px;
-  img{width: 100%;}
-  figcaption{
-    position: absolute;
-    background-color: white;
+  justify-content:space-arround;
+  max-height: 110px;
+  img{width: 100px; display: block;}
+  div{
     padding: 1em;
     width: 100%;
-    bottom: 0;
-    border-top: 2px solid $gray-5;
-    h3{padding: 0; margin: 0; line-height: 0.5em;}
+    color: white;
+    display: block;
+    padding-top: 2.2em;
+    h3{padding: 0; margin: 0; line-height: 0.5em; color: white;}
     p{padding: 0; margin: 0;}
   }
 }
@@ -75,36 +82,3 @@ figure.rappel{
     }
     &:hover:before{display: block;}
 }
-
-/* figure {
-  display: inline-block;
-  overflow:hidden;
-  opacity: 1;
-  transition: opacity 0.5s ease;
-}
-
-figure a {
-  display: block;
-}
-
-figure:hover {
-  opacity: 0.3;
-}
-
-figcaption {
-  position: relative;
-  width: 10px;
-  margin: 0 auto;
-  opacity: 1;
-  transition: all 0.5s ease;
-}
-
-figcaption svg{
-  fill: $yellow;
-  font-size: 2em;
-}
-
-figure:hover figcaption {
-  display: block;
-}
- */

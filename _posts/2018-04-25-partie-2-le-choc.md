@@ -14,7 +14,10 @@ type: BD
 ---
 
 {% include rappel.html %}
+<div class="flex-link">
 {% include liens/partie1.html %}
+</div>
+
 <img src="/assets/images/partie2/02- (1).png" alt="">
 <img src="/assets/images/partie2/02- (2).png" alt="">
 <img src="/assets/images/partie2/02- (3).png" alt="">
@@ -29,4 +32,5 @@ type: BD
 <img src="/assets/images/partie2/02- (12).png" alt="">
 
 <h3>À suivre</h3>
-{% include liens/partie3.html %}
+
+<div class="flex-link">{% include liens/partie3.html %}</div>

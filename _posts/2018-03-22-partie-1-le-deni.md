@@ -120,4 +120,4 @@ Symptômes :– douleurs pelviennes pendant et en dehors des règles – fatigue
 <img src="/assets/images/partie1/01- (29).png" alt="Puis le jour J arriva. Lors du rendez-vous j'avais décidé de ne pas parler d'endométriose. J'ai parlé de ma fatigue chronique, de mes douleurs mais je ne voulais pas biaiser la consultation en parlant directement de la maladie. Mais très vite : L'échographe qui ressemble à une console de jeu. Ça c'est le boss du jeu ! Ah… Bon il y a quelque chose. Un alien ?  Un kyste sanguin signe d'endométriose Ah… Je sais ce que c'est… Fin de la partie 1 - À suivre…">
 
 <h3>À suivre</h3>
-{% include liens/partie2.html %}
+<div class="flex-link">{% include liens/partie2.html %}</div>
