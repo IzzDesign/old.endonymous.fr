@@ -237,18 +237,16 @@ div#bg{
   font-weight: 500;
 
   svg {
-    fill: rgba(250, 250, 250, 0.8);
+    fill: rgba(250, 250, 250, 1);
+    position: relative;
   }
-
-
-  &:hover, &:focus, &.active {
-    svg { fill: $gray-1; }
-  }
+  &:hover, &:focus, &.active {svg {}}
 
   &:hover, &:focus {
     text-decoration: underline;
     &.icon {
       text-decoration: none;
+      bottom:2px;
     }
   }
 
@@ -264,15 +262,15 @@ div#bg{
   margin-top: 1em;
   color: white;
   font-family: 'helvetihandmedium';
-  margin-right:0.7em
-   {
-      }
+  margin-right:0.7em;
+  border: 1px solid $border-color;
+  border-radius: 5px;
   @media (max-width: 850px) {margin-right: 0;margin-top: 0;}
 }
 
 #sidebar-nav-links a:last-child{@media (min-width: 850px){margin-right:0em}}
 
-#sidebar-icon-links {
+.sidebar-icon-links {
   max-width: 100%;
   justify-content: center;
   margin-top: 1rem;

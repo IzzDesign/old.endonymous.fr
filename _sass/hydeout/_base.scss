@@ -94,7 +94,7 @@ form{
     @media (min-width: 839px){width: 80%;}
 
   }
-  input[type="submit"],{
+  input[type="submit"]{
     background-color: $yellow;
     color: white;
     font-family: "helvetihandmedium";
@@ -113,6 +113,13 @@ input[type="text"], input[type="search"], input[type="submit"], .button{
   color: white;
   font-family: "helvetihandmedium";
   text-transform: uppercase;
+  position: relative;
+}
+
+.foot-custom{
+  display: block;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 footer{
@@ -139,4 +146,11 @@ footer{
 
 .comments{
   width: 100%;
+}
+
+.animate{
+  position: relative;
+  bottom: 0px;
+  transition: bottom 0.2s;
+  &:hover{bottom: 3px;}
 }

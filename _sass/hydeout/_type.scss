@@ -2,7 +2,7 @@
 //
 // Headings, body text, lists, and other misc typographic elements.
 
-h1, h2, h3, h4, h5, h6, .site-title {
+h1, h2, h3, h4, h5, h6, .site-title, strong {
   margin-bottom: $heading-spacing;
   font-weight: 600;
   line-height: 1.25;
@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6, .site-title {
   text-rendering: optimizeLegibility;
 }
 
-h1,h2,h3,h4{ font-family: "helvetihandmedium", serif;}
+h1,h2,h3,h4,.strong{ font-family: "helvetihandmedium", serif;}
 
 h1 {
   font-size: 2.3rem;
@@ -20,7 +20,7 @@ h2 {
   font-size: 1.8rem;
 }
 
-h3 {
+h3,.strong {
   margin-top: 1.4rem;
   font-size: 1.6rem;
 }
@@ -39,7 +39,6 @@ h5, h6 {
 }
 
 p {
-  margin-top: 0;
   margin-bottom: 1rem;
 }
 
@@ -137,7 +136,8 @@ a[href^="#fnref:"] {
 
 .lead {
   font-size: 1.25rem;
-  font-weight: 300;
+  font-weight: 700;
+  color: white;
 }
 
 // SVG Icons
