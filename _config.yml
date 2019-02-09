@@ -34,6 +34,6 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/Izou/endonymous.fr/
+  repo:             https://github.com/IzzDesign/endonymous.fr/
 disqus:
   shortname: endonymous
