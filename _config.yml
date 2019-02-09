@@ -23,7 +23,6 @@ paginate:         10
 
 plugins:
   - jekyll-feed
-  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
 
