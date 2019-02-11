@@ -149,11 +149,7 @@ a svg, .icon svg {
  */.icon { vertical-align: middle; }
 
 .logo{max-height: 220px;margin: 0 auto;}
-@media (max-width: 65em) {
-    img{width: 100%;}
-    img.logo{width: auto;}
-    .center{margin: 0 auto;padding-bottom: 5px;}
-  }
+
 @media (max-width: 570px){
 .center{width: 90%; text-align: center; margin:0 auto;}
 }
