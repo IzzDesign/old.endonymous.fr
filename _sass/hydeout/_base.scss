@@ -78,6 +78,18 @@ th {
   text-align: left;
 }
 
+ul.sommaire{
+  list-style: none;
+  font-family: "helvetihandmedium";
+  text-align: center;
+  a{
+    color: black;
+    text-decoration: underline;
+    font-size: 1.2em;
+
+  }
+}
+
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: $gray-1;

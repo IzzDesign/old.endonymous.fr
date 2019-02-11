@@ -34,6 +34,18 @@ Voici les principaux symptômes qui pourraient faire penser à une endométriose
 ## Pour aller plus loin
 Pour aller plus loin voici une liste de symptômes détaillés causés par l’endométriose et pour quelles raisons ils peuvent apparaître en cas de maladie.
 
+<ul class="sommaire">
+    <li><a href="#douleur">Douleur (règles, rapports,…)</a></li>
+    <li><a href="#fatigue">Fatigue chronique</a></li>
+    <li><a href="#enceinte">Difficultés à tomber enceinte</a></li>
+    <li><a href="#digestifs">Troubles digestifs</a></li>
+    <li><a href="#urinaire">Troubles urinaires</a></li>
+    <li><a href="#thoraciques">Troubles thoraciques et céphaliques</a></li>
+    <li><a href="#saignements">Saignements</a></li>
+
+</ul>
+
+<div id="douleur"></div>
 ### La douleur
 Toutes les endométrioses ne sont pas forcément douloureuses, tout va dépendre de la localisation des lésions, mais **la douleur est néanmoins l'un des principaux symptômes de l'endométriose.** Ces douleurs peuvent être ponctuelles, et peuvent apparaître suite à un effort, être dépendantes du cycle -- règles ou ovulation ; ou bien elles peuvent être continues dans le cas de douleurs chroniques. L'intensité de la douleur va être variable, allant de la gêne à l'évanouissement en passant par les vomissements.
 
@@ -58,6 +70,7 @@ Même en dehors des règles, les patientes atteintes d'endométriose peuvent res
 #### Dyspareunie profonde
 La dyspareunie profonde est une douleur ressentie dans le bas-ventre **lors de rapports sexuels avec pénétration**[^dyspareunie]. La présence de lésions d'endométrioses peut, si elles sont mal placées, entraîner une gêne sexuelle plus ou moins importante, ces douleurs pouvant varier en intensité en fonction de la position.
 
+<div id="fatigue"></div>
 ### Asthénie intense ou Fatigue Chronique
 L'asthénie intense ou fatigue chronique est une sensation d'épuisement persistant malgré le repos[^asthenie]. Cet état peut entraîner un handicap social et professionnel, de l'isolement, de la dépression, une fragilité immunitaire, un sentiment de malaise après un effort, un sommeil non réparateur, des douleurs musculaires, des maux de tête, des troubles digestifs…
 
@@ -66,6 +79,7 @@ L'asthénie intense ou fatigue chronique est une sensation d'épuisement persist
 Des recherches[^fatigue] ont été faites dans le cas de fatigue chronique pour des patientes avec de l'endométriose. DDes tests ont démontré que 50,7% des femmes malades d'endométriose souffrent de fatigue contre 22,4% de femmes non touchées par de l'endométriose. Les chercheurs avancent qu'une des raisons possibles de la fatigue causée par l'endométriose -- en dehors de certains facteurs tels que l'insomnie ou la douleur -- pourrait être l'activation des cytokines (cellules du système immunitaire) lors des phénomènes inflammatoires pendant les crises d'endométriose. Ces protéines, les cytokines, permettent l'activation du système immunitaire et jouent un rôle lors de la fatigue chronique. De plus, une autre explication pourrait être que le fort stress causé par la maladie résulterait en une fatigue surrénale -- provoquée par une trop grande sollicitation des glandes surrénales, qui aident le corps à réguler le stress[^fatigue2].
 Je vous invite à lire un article intéressant qui explique très bien la fatigue ressentie lors d'une maladie chronique : [la théorie des cuillères](http://cdn.totalcomputersusa.com/butyoudontlooksick.com/uploads/2010/09/La-Theorie-des-cuilleres.pdf) écrite par Christine Miserandino sur son site [But you don't look sick](https://butyoudontlooksick.com).
 
+<div id="enceinte"></div>
 ### Difficultés à tomber enceinte
 **30 à 50% des patientes atteintes d’une endométriose** seront confrontées à des problèmes de stérilité et d'infertilité[^fertile]. L'endométriose peut altérer tout un tas de mécanismes reproductifs, ce qui peut empêcher que bébé arrive à bord.
 #### Les endométriomes
@@ -82,12 +96,14 @@ L'endométriose peut également créer un environnement défavorable à l'implan
 Les lésions d'endométriose peuvent également sécréter des substances toxiques pouvant affecter ovocyte et spermatozoïdes[^fertile].
 Pour avoir une chance de tomber enceinte, certaines patientes doivent se tourner vers des techniques de PMA -- Procréation Médicalement Assistée.
 
+<div id="digestifs"></div>
 ### Trouble digestifs et Dyschésie
 Parmi les organes digestifs les plus fréquemment atteints par des lésions on compte le rectum, le côlon (sigmoïde) et l’intestin grêle, mais l'endométriose peut être également présente sur l'appendice, le foie, la rate, l'estomac, le péritoine… [^digestif]
 La présence de ces nodules peut causer des troubles gastro-intestinaux se manifestant par des ballonnements douloureux, des crises de constipation, d’intense diarrhées[^intestin] ainsi que de la dyschésie -- douleurs en allant à la selle[^dyschesie].
 
 <img src="/assets/images/articles/symptomes/caca.png" alt="dessin troubles digestifs" class="center">
 
+<div id="urinaire"></div>
 ### Troubles urinaires
 #### Endométriose urétérale
 Les **nodules d'endométrioses** se forment au niveau des uretères -- conduits situés entre les reins et la vessie -- et peuvent les obstruer, entraînant une symptomatologie de **type colique néphrétique voire une hyponéphrose**[^hypo] qui sont des symptômes douloureux dus à la présence d'un obstacle dans les voies urinaires causant l'augmentation de pression dans les voies urinaires et dans le rein.
@@ -95,6 +111,7 @@ Les **nodules d'endométrioses** se forment au niveau des uretères -- conduits 
 #### Endométriose vésicale
 La présence de tissu endométrial au niveau de la vessie est relativement rare (5% des endométrioses) mais entraîne de fortes douleurs pelviennes ainsi que des **dysuries (douleurs à la miction)** ou une **pollakiurie (envie d’uriner fréquente)** ainsi que parfois du sang dans les urines[^digestif].
 
+<div id="thoraciques"></div>
 ### Douleurs thoraciques et/ou céphaliques
 Les nodules d'endométriose se situent généralement dans l'abdomen mais dans de rares cas il se situent près des poumons ou, encore plus rare, dans le cerveau. Il existe même dans le monde quelques cas d'endométriose lacrymale (1 cas en France).[^lacrymal] 
 
@@ -105,6 +122,7 @@ Les douleurs interviennent alors dans ces zones avec comme symptômes dans le ca
 * Toux persistantes, pouvant engendrer la présence de sang dans votre bouche.
 Ces lésions peuvent entraîner un pneumothorax qui est un décollement de la plèvre --  membrane thoracique très fine située entre la cage thoracique et les poumons.
 
+<div id="saignements"></div>
 ### Saignements
 #### Métrorragie
 Saignement de l'utérus en dehors des périodes de règles.
