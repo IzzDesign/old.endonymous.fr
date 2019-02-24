@@ -5,10 +5,10 @@ title: Un roman graphique sur l'endométriose.
 categories:
   - article
 og_image: /assets/images/articles/symptomes/fblien.png
-og_description: 
-og_twitter_img : /assets/images/articles/twitt.png
-banner: /assets/images/articles/article-mini.png
-banner_large: /assets/images/articles/article.png
+og_description: Si vous vous demandez comment se passe le processus de création de mon roman graphique, Deux ans plus tard, sur l'endométriose.
+og_twitter_img : /assets/images/bd/articles/twitt.png
+banner: /assets/images/articles/bd/article-mini.png
+banner_large: /assets/images/articles/bd/article.png
 type: Article
 ---
 
