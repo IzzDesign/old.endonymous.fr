@@ -9,9 +9,12 @@ og_description: Si vous vous demandez comment se passe le processus de création
 og_twitter_img : /assets/images/bd/articles/twitt.png
 banner: /assets/images/articles/bd/article-mini.png
 banner_large: /assets/images/articles/bd/article.png
+excerpt: En avril 2016, on me diagnostiquait une endométriose de stade 4. Je pensais alors pouvoir être prise en charge et en finir avec cette errance médicale que je vivais depuis des années, mais malheureusement ce n'était que le début d'une longue galère, de beaucoup de douleurs et de désillusions notamment envers le monde médical.
 type: Article
 ---
-
+<div>
+    {% include bandeau.html %}
+</div>
 En avril 2016, on me diagnostiquait une **endométriose de stade 4.** Je pensais alors pouvoir être prise en charge et en finir avec cette errance médicale que je vivais depuis des années, mais malheureusement ce n'était que le début d'une longue galère, de **beaucoup de douleurs et de désillusions** notamment envers le monde médical.
 
 En août 2017, inspirée par de nombreux blogs d'endogirls, me vient alors l'idée de raconter mon parcours, et d'alarmer sur la mauvaise prise en charge de cette maladie chronique qui touche une femme sur dix. Graphiste de formation, passer par **le dessin et la bande-dessinée** pour m'exprimer était pour moi une évidence.
