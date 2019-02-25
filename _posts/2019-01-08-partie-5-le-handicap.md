@@ -14,11 +14,13 @@ type: BD
 ---
 
 {% include rappel.html %}
-<div class="flex-link">
-{% include liens/partie1.html %}
-{% include liens/partie2.html %}
-{% include liens/partie3.html %}
-{% include liens/partie4.html %}
+<div>
+    {% include bandeau.html %}
+    <div class="flex-link">
+        {% include liens/partie2.html %}
+        {% include liens/partie3.html %}
+        {% include liens/partie4.html %}
+    </div>
 </div>
 
 <div class="graph">
@@ -61,4 +63,3 @@ type: BD
     <img src="/assets/images/partie5/05- (37).png" alt="">
     <img src="/assets/images/partie5/05- (38).png" alt="">
 </div>
-

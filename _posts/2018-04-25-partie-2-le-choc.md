@@ -14,8 +14,8 @@ type: BD
 ---
 
 {% include rappel.html %}
-<div class="flex-link">
-{% include liens/partie1.html %}
+<div>
+    {% include bandeau.html %}
 </div>
 
 <div class="graph">

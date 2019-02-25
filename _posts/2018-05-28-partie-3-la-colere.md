@@ -13,9 +13,11 @@ banner_large : /assets/images/partie3/article.png
 type: BD
 ---
 {% include rappel.html %}
-<div class="flex-link">
-    {% include liens/partie1.html %}
-    {% include liens/partie2.html %}
+<div>
+    {% include bandeau.html %}
+    <div class="flex-link">
+        {% include liens/partie2.html %}
+    </div>
 </div>
 <div class="graph">
     <img src="/assets/images/partie3/03- (1).png" alt="">

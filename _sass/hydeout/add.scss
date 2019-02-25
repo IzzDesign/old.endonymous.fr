@@ -4,9 +4,12 @@
   justify-content: center;
   max-width: 900px;
   margin: 0 auto;
-  min-height: 212px;
-  margin-bottom: $section-spacing*2;
-  background-color: $part1;
+  margin-bottom: $section-spacing;
+  @media (max-width: 760px) {margin-bottom: $section-spacing*0.5;}
+
+    .big{
+      min-height: 212px;
+    }
     .ut{
       width: 150px;
       height: 150px;
@@ -20,12 +23,17 @@
       max-width: 210px;
       margin: 0;
     }
+    .rappel{
+      min-height: auto;
+      width: 100%;
+      margin-bottom: $section-spacing;
+    }
     .texte{
       display: inline-block;
-      margin-right: 3em;
+      padding: 2em;
+      @media (max-width: 1049px) {padding: 0.5em;}
       div{background-color: white;}
       h2,h3{
-        color: $part1;
         padding: 0.2em;
         margin: 0 0 10px 0;
         text-align: center;
@@ -59,4 +67,5 @@
   img{display: none;}
   .texte{margin-right: 0;}
  }
+ .rappel{width: 100%;}
 }

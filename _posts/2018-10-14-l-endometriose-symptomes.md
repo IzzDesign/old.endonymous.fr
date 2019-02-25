@@ -6,12 +6,15 @@ categories:
   - article
 og_image: /assets/images/articles/symptomes/fblien.png
 og_description: L'endométriose est une maladie féminine qui touche une femme sur dix. En France, cela représente 2 à 4 millions de malades. Malgré un nombre important de patientes atteintes, le diagnostic reste encore long notamment parce qu'il existe un manque sévère de communication autour de cette maladie entraînant un manque de connaissance du grand public. Quels sont les symptômes de l'endométriose ?
+excerpt: L'endométriose est une maladie féminine qui touche une femme sur dix. En France, cela représente 2 à 4 millions de malades. Malgré un nombre important de patientes atteintes, le diagnostic reste encore long notamment parce qu'il existe un manque sévère de communication autour de cette maladie entraînant un manque de connaissance du grand public. Quels sont les symptômes de l'endométriose ?
 og_twitter_img : /assets/images/articles/twitt.png
 banner: /assets/images/articles/article-mini.png
 banner_large: /assets/images/articles/article.png
 type: Article
 ---
-
+<div>
+    {% include bandeau.html %}
+</div>
 [L'endométriose](/article/2018/06/17/l-endometriose-c-est-quoi.html) est une maladie féminine qui touche une femme sur dix. En France, cela représente **2 à 4 millions de malades.** Malgré un nombre important de patientes atteintes, le diagnostic reste encore long notamment parce qu'il existe un manque sévère de communication autour de cette maladie entraînant un manque de connaissance du grand public. Quels sont les symptômes de l'endométriose ?
 
 ## Symptômes
