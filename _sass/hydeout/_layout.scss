@@ -233,7 +233,7 @@ div#bg{
 }
 
 #sidebar a {
-  color: $yellow;
+  /* color: $yellow; */
   font-weight: 500;
 
   svg {
@@ -255,7 +255,7 @@ div#bg{
   }
 }
 
-#sidebar-nav-links a{
+#sidebar-nav-links a, .menu-link{
   background-color: $yellow;
   text-transform: uppercase;
   padding: 0.4em 0.7em 0.2em 0.7em;
@@ -267,6 +267,8 @@ div#bg{
   border-radius: 5px;
   @media (max-width: 850px) {margin-right: 0;margin-top: 0;}
 }
+
+.menu-link{display: block;width: 100%;}
 
 #sidebar-nav-links a:last-child{@media (min-width: 850px){margin-right:0em}}
 

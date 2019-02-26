@@ -1,0 +1,14 @@
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+  document.body.classList.add('js');
+  var menu = document.getElementById('sidebar-nav-links');
+  var menuLink = document.getElementsByClassName('menu-link')[0];
+  console.log(menu, menuLink)
+  menuLink.addEventListener('click', function(e) {
+    menu.classList.toggle('active');
+    menuLink.classList.toggle('active');
+
+    e.preventDefault();
+  });
+});
+</script>
