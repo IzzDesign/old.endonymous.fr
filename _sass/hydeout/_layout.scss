@@ -92,6 +92,7 @@ div#bg{
   flex-flow:row wrap;
   max-width: 900px;
   margin: 0 auto;
+  @media (max-width: $large-breakpoint) {width: 95%;}
 }
 
 
