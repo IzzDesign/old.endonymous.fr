@@ -2,6 +2,8 @@
 layout: page
 title: À propos
 sidebar_link: true
+redirect_from:
+  - /a-propos.html
 ---
 <div class="message">
     <p>

@@ -25,6 +25,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Custom vars
 version:            3.5.3
