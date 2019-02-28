@@ -8,7 +8,7 @@ og_image: /assets/images/articles/c-est-quoi/fb.png
 og_description: Je suis une statistique. Cette femme sur dix qui a de l’endométriose. Je suis ce qu’on appelle une endo-girl. Quand j’ai appris que j’avais cette maladie chronique j’ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors j'ai décidé d'expliquer cette maladie intime qu’est l’endométriose.
 excerpt: Je suis une statistique. Cette femme sur dix qui a de l'endométriose. Je suis ce qu'on appelle une endo-girl. Quand j'ai appris que j'avais cette maladie chronique j'ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors pour expliquer cette maladie intime qu'est l'endométriose, regardons d'abord comment fonctionnent l'utérus et l'endomètre.
 og_twitter_img : /assets/images/articles/twitt.png
-banner: /assets/images/articles/article-mini.png
+banner: /assets/images/articles/c-est-quoi/article-mini.png
 banner_large: /assets/images/articles/article.png
 type: Article
 ---
