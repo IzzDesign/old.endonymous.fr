@@ -43,7 +43,7 @@ div#bg{
     div.titre a { color: $yellow; background-color: white; padding: 0.2em; margin-top: 5em; }
 }
 
-@media (min-width: $tablet-breakpoint) {
+ @media (min-width: $tablet-breakpoint) {
   div#bg{width: 67%}
   #sidebar img.fresque{width: 67%; margin: 0 auto;}
   .container{width: 60%;}
@@ -74,7 +74,7 @@ div#bg{
 
 #sidebar nav#sidebar-nav-links{
   flex-flow: column wrap;
-  @media (min-width: 850px) {flex-flow:row nowrap;}
+  @media (min-width: 1048px) {flex-flow:row nowrap;}
 }
 
 .container {
