@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: Faire un roman graphique.
-title: Un roman graphique sur l'endométriose.
+title: Une BD sur l'endométriose.
 categories:
   - article
 og_image: /assets/images/articles/symptomes/fblien.png
