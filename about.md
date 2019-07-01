@@ -44,7 +44,7 @@ redirect_from:
     </p>
     <img src="/assets/images/articles/a-propos/supercrayon.png">
     <p>
-      Et voilà, ça donne <a href="">ça</a>! J'espère que ça vous plaira !
+      Et voilà, ça donne <a href="https://endonymous.fr/histoire/2018/03/22/partie-1-le-deni.html">ça</a>! J'espère que ça vous plaira !
     </p>
     <img src="/assets/images/articles/a-propos/fin.png">
 </div>
