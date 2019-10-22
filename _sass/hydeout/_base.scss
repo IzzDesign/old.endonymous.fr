@@ -170,6 +170,13 @@ footer{
   transition: bottom 0.2s;
   &:hover{bottom: 3px;}
 }
-
+.info{
+  font-family:"helvetihandmedium", sans-serif;
+  font-size: 1.5em;
+}
 .error{color: red;display: none;}
 .success{color:green;display: none;}
+form:focus{
+  border-color: #ffbd80;
+  box-shadow :0 0 0 0.05rem #ffbd80;
+}
