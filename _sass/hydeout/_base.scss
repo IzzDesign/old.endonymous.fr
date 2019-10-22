@@ -170,3 +170,6 @@ footer{
   transition: bottom 0.2s;
   &:hover{bottom: 3px;}
 }
+
+.error{color: red;display: none;}
+.success{color:green;display: none;}
