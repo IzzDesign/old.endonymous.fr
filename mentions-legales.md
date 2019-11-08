@@ -17,7 +17,7 @@ Est également un délit de contrefaçon toute reproduction, représentation ou 
 La contrefaçon est un délit civil (passible de dommages et intérêts), et un délit pénal (passible d’un emprisonnement de trois ans et d’une amende de 300 000 euros). Le Code de la propriété intellectuelle n’autorise, aux termes des alinéas 1 et 2 de l’art. L. 122-5, que les représentations privées et gratuites effectuées exclusivement dans un cercle de famille, les copies ou reproductions strictement réservées à l’usage privé du copiste et non destinées à une utilisation collective.
 
 # Police de caractères
-La police utilisée dans le roman graphique est **Helvetihand**, libre d'utilisation, elle a été conçue par <a href="https://www.dafont.com/billy-snyder.d4452">Billy Snyder</a>.
+La police utilisée dans le roman graphique sont **Helvetihand**, libre d'utilisation, elle a été conçue par <a href="https://www.dafont.com/billy-snyder.d4452">Billy Snyder</a> et **Helsinki**, libre d'utilisation, conçue par <a href="https://www.dafont.com/vic-fieger.d852">Vic Fieger</a>.
 
 # Technologie Web
 
