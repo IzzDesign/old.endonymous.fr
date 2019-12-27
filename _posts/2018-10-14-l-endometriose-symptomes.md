@@ -65,7 +65,7 @@ La douleur apparaît dans différents cas :
 Même en dehors des règles, les patientes atteintes d'endométriose peuvent ressentir des **douleurs pelviennes et lombaires**. Ces douleurs vont dépendre de :
 * la localisation des lésions, par exemple dans des endroits sensibles : système urinaire, système digestif, nerfs -- notamment sur le trajet du nerf sciatique ;
 * la présence de kystes d'endométrioses pouvant entraîner des douleurs vers les ovaires ;
-* l'épaississement de l'endomètre avant les règles ;
+* l'épaississement des lésions d'endométriose avant les règles ;
 * des phénomènes inflammatoires causés par le saignement des lésions d'endométriose.
 
 <img src="/assets/images/articles/symptomes/douleur2.png" alt="dessin police ne pas franchir douleur" class="center">

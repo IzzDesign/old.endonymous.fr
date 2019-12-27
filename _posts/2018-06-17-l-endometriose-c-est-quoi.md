@@ -23,13 +23,11 @@ Je suis une statistique. Cette femme sur dix qui a de l'endométriose. Je suis c
 
 <img src="/assets/images/articles/c-est-quoi/regles-tunnel.png" alt="tunnel règle" class="center">
 
-Pour certaines femmes en revanche, on retrouve des cellules de l'endomètre **en dehors de la cavité utérine** : trompes, ovaires, extérieur de l'utérus, système digestif, système urinaire,... Les lésions se situent généralement sur les organes situés dans le péritoine, c'est-à-dire dans le ventre, mais peuvent dans de rares cas être présentes sur les poumons, le cerveau,… C'est ça **l'endométriose**.
+Pour certaines femmes en revanche, on retrouve des cellules semblables à de l'endomètre et de se comportant comme telles **en dehors de la cavité utérine** : trompes, ovaires, extérieur de l'utérus, système digestif, système urinaire,... Les lésions se situent généralement sur les organes situés dans le péritoine, c'est-à-dire dans le ventre, mais peuvent dans de rares cas être présentes sur les poumons, le cerveau,… C'est ça **l'endométriose**.
 
 <img src="/assets/images/articles/c-est-quoi/tindeur.png" alt="tindeur" class="center">
 
-L'endomètre qui réagit en fonction des hormones va donc s'épaissir pendant le cycle, même l'endomètre situé dans des endroits anormaux dans le cas de l'endométriose. En fonction de là où sont placés ces groupements de cellules d'endomètre, d'horribles **douleurs** peuvent apparaître. Ces phénomènes peuvent créer des **réactions inflammatoires**.
-Et pour finir, une fois le cycle menstruel terminé, l'endomètre qui se transforme en saignements est piégé, le sang ne pouvant pas s'écouler par les voies naturelles.
-Vous comprenez à quel point tout ça peut vite dégénérer.
+L'endomètre qui réagit en fonction des hormones va donc s'épaissir pendant le cycle, de même que ce tissu semblable à de l'endomètre situé dans des endroits anormaux dans le cas de l'endométriose. Ces lésions qui gonflent vont créer des **réactions inflammatoires**, entrainant douleurs et adhérences, voilà pourquoi la plupart des douleurs ont lieu pendant les règles.
 
 <img src="/assets/images/articles/c-est-quoi/ventre-endo.png" alt="Dessin endométriose abdominale" class="center">
 
