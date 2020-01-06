@@ -102,7 +102,7 @@ Pour avoir une chance de tomber enceinte, certaines patientes doivent se tourner
 <div id="digestifs"></div>
 ### Trouble digestifs et Dyschésie
 Parmi les organes digestifs les plus fréquemment atteints par des lésions on compte le rectum, le côlon (sigmoïde) et l’intestin grêle, mais l'endométriose peut être également présente sur l'appendice, le foie, la rate, l'estomac, le péritoine… [^digestif]
-La présence de ces nodules peut causer des troubles gastro-intestinaux se manifestant par des ballonnements douloureux, des crises de constipation, d’intense diarrhées[^intestin] ainsi que de la dyschésie -- douleurs en allant à la selle[^dyschesie].
+La présence de ces nodules peut causer des troubles gastro-intestinaux se manifestant par des ballonnements douloureux, des crises de constipation, d’intense diarrhées[^intestin], des douleurs en allant à la selle[^dyschesie] ainsi que des rectorragies -- saignements rectaux.
 
 <img src="/assets/images/articles/symptomes/caca.png" alt="dessin troubles digestifs" class="center">
 
