@@ -1,6 +1,6 @@
 ---
 layout: post
-subtitle: Comment fonctionne l'endométriose.
+subtitle: Comment fonctionne l'endométriose
 title: L'endométriose c'est quoi&nbsp;?
 categories:
   - article

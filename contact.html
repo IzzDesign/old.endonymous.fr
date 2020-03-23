@@ -3,28 +3,36 @@ layout: page
 title: Contact
 sidebar_link: true
 ---
-<div class="assemble">
+<div class="content">
   <form action="https://neamar.fr/email.php" accept-charset="utf-8" onsubmit="document.getElementById('protection').value = 2" method="POST" id="contactform">
-      <p><label for="nom">Nom :</label><input type="text" id="nom" name="nom" tabindex="1" /></p>
-      <p><label for="mail">Email :</label><input type="text" id="email" name="_replyto" id="mail" autofocus required/></p>
-      <input type="hidden" name="_to" value="contact@endonymous.fr" />
-      <input type="hidden" name="protection" id="protection" value="1" />
-      <p><label for="titre">Titre :</label>
-      <input type="text" name="_subject" id="titre" value="" /></p>
-      <p><label for="message">Message :</label></p>
-      <textarea id="message" name="message" tabindex="4" rows="10"></textarea>
-      <p><input type="submit" value="Envoyer" class="animate button"></p>
-      <div class="info success">
-        Votre message a bien été envoyé
+    <div class="top">
+      <div class="inside">
+        <label for="nom">Nom :</label>
+        <input type="text" id="nom" name="nom" tabindex="1" />
       </div>
-      <div class="info error">
-        Une erreur s'est produite.
+      <div class="inside">
+        <label for="mail">Email :</label>
+        <input type="text" id="email" name="_replyto" id="mail" autofocus required/>
+        <input type="hidden" name="_to" value="contact@endonymous.fr" />
+        <input type="hidden" name="protection" id="protection" value="1" />
       </div>
+    </div>
+    <label for="titre">Titre :</label>
+    <input type="text" name="_subject" id="titre" value="" />
+    <label for="message">Message :</label>
+    <textarea id="message" name="message" tabindex="4" rows="10"></textarea>
+    <input type="submit" value="Envoyer" class="animate button">
+    <div class="info success">
+      Votre message a bien été envoyé
+    </div>
+    <div class="info error">
+      Une erreur s'est produite.
+    </div>
   </form>
-</div>
 
-<div class="contact">
-  {% include mailchimp.html %}
+  <div class="contact">
+    {% include mailchimp.html %}
+  </div>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>

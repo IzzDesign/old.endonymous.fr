@@ -29,7 +29,7 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
-main, article, section { display: block;}
+main, article, section{display: block;}
 
 // No `:visited` state is required by default (browsers will use `a`)
 a {
@@ -50,7 +50,6 @@ a {
 img {
   display: block;
   margin: 0 0 1rem;
-  width: 80%;
   margin: 0 auto;
   height: auto; // Fix to keep max-width from squishing images with defined
                 // height in HTML
@@ -80,13 +79,34 @@ th {
 
 ul.sommaire{
   list-style: none;
-  font-family: "helvetihandmedium";
+  font-family: "helsinkiregular";
   text-align: center;
   a{
-    color: black;
+    background:
+     linear-gradient(
+       to bottom, #fff 0%,
+       #fff 100%
+     );
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-size: 4px 4px;
+    transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
+    padding: 0.4em 0.7em 0.2em 0.7em;
+    margin-top: 1em;
+    color: $gray-6;
     text-decoration: underline;
-    font-size: 1.2em;
-
+    font-size: 1em;
+    &:hover,&:focus{
+      color: #fff;
+      background:
+         linear-gradient(
+           to bottom, $maincolor 0%,
+           $maincolor 100%
+         );
+      background-position: 0 100%;
+      background-repeat: repeat-x;
+      background-size: 4px 50px;
+    }
   }
 }
 
@@ -96,87 +116,47 @@ tbody tr:nth-child(odd) th {
 }
 
 form{
-  width: 100%;
-  margin-right: 1em;
+  margin:0 auto;
+  flex: auto;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
   justify-content:center;
-  @media (min-width: 700px){
-    width: 60%;
+  align-content: center;
+  flex: auto;
+  .top{
+    display: inline-flex;
+    .inside{
+      display:flex;
+      flex-direction: column;
+      label{width: 275px;}
+      &:last-child{
+      margin-left: 1em;
+      }
+    }
   }
-  label{margin-right: 1em;}
+  label{
+    margin-right: 1em;
+    font-family: "helsinkiregular";
+  }
   textarea{
     font-family:"Segoe UI", "Roboto", "Oxygen", "Droid Sans", Arial, sans-serif;
     font-size: 1.1em;
     width: 100%;
-    @media (min-width: 839px){width: 80%;}
-
   }
   input[type="submit"]{
-    background-color: $yellow;
+    margin: 0 auto;
+    background-color: $maincolor;
     color: white;
-    font-family: "helvetihandmedium";
-    text-transform: uppercase;
+    font-family: "helsinkiregular";
+    border:none;
+    width: 150px;
+    margin-top: 1em;
+    font-size: 1em;
   }
 }
 
 input[type="text"], input[type="search"], input[type="submit"], .button{
   padding: 0.7em 1.5em;
-  border: 1px solid $border-color;
-  border-radius: 10px;
-}
-
-.button{
-  background-color: $yellow;
-  color: white;
-  font-family: "helvetihandmedium";
-  text-transform: uppercase;
-  position: relative;
-}
-
-.foot-custom{
-  display: block;
-  max-width: 900px;
-  margin: 0 auto;
-}
-
-footer{
-  height: 10px;
-  margin: 0 auto;
-  text-align: center;
-  background-color: $gray-1;
-  height: auto;
-  padding-top: 0.1em;
-  width: 100%;
-  @media (min-width: $tablet-breakpoint) {width: 67%;}
-}
-
-/* Contact */
-.assemble{
-  display: flex;
-  flex-wrap:wrap;
-  flex-direction:row;
-  width: 100%;
-  justify-content:center;
-}
-
-.contact{display: block;width: 100%;}
-
-.comments{
-  width: 100%;
-}
-
-.animate{
-  position: relative;
-  bottom: 0px;
-  transition: bottom 0.2s;
-  &:hover{bottom: 3px;}
-}
-.info{
-  font-family:"helvetihandmedium", sans-serif;
-  font-size: 1.5em;
-}
-.error{color: red;display: none;}
-.success{color:green;display: none;}
-form:focus{
-  border-color: #ffbd80;
-  box-shadow :0 0 0 0.05rem #ffbd80;
+  max-width: 600px;
 }

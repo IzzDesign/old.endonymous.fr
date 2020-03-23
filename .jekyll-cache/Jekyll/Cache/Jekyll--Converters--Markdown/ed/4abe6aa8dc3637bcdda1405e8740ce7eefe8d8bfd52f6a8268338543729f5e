@@ -1,0 +1,44 @@
+I"@<h3>Attention ce n'est pas le début !</h3>
+<p>Si tu veux lire les premières parties de Deux ans plus tard, clique sur les liens. Bonne lecture !</p>
+
+<div>
+    <a href="/histoire/2018/03/22/partie-1-le-deni.html">
+  <div class="bandeau part1 big overlay">
+    <img src="/assets/images/rappel/uterus.svg" class="ut" />
+    <div class="texte">
+      <div><h2>Deux ans plus tard</h2></div>
+      <div><h3>Roman graphique</h3></div>
+      <h4>Partie 1 : Le déni</h4>
+    </div>
+    <img src="/assets/images/rappel/partie1.svg" />
+  </div>
+</a>
+
+</div>
+
+<div class="graph">
+    <img src="/assets/images/partie2/02- (1).png" alt="" />
+    <img src="/assets/images/partie2/02- (2).png" alt="" />
+    <img src="/assets/images/partie2/02- (3).png" alt="" />
+    <img src="/assets/images/partie2/02- (4).png" alt="" />
+    <img src="/assets/images/partie2/02- (5).png" alt="" />
+    <img src="/assets/images/partie2/02- (6).png" alt="" />
+    <img src="/assets/images/partie2/02- (7).png" alt="" />
+    <img src="/assets/images/partie2/02- (8).png" alt="" />
+    <img src="/assets/images/partie2/02- (9).png" alt="" />
+    <img src="/assets/images/partie2/02- (10).png" alt="" />
+    <img src="/assets/images/partie2/02- (11).png" alt="" />
+    <img src="/assets/images/partie2/02- (12).png" alt="" />
+</div>
+<h3>À suivre</h3>
+
+<div class="flex-link"><a href="/histoire/2018/05/28/partie-3-la-colere.html" class="overlay">
+  <div class="bandeau part3 rappel overlay">
+    <div class="texte">
+      <div><h3>Deux ans plus tard</h3></div>
+      <h4>Partie 3 : La colère</h4>
+    </div>
+  </div>
+</a>
+</div>
+:ET

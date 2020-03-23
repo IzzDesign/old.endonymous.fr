@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Endonymous
 tagline:          "Deux ans plus tard"
-description:      "<em>Deux ans plus tard</em> est un roman graphique autobiographique sur l'endométriose."
+description:      "<u>Deux ans plus tard</u> est un roman graphique autobiographique sur l'endométriose."
 url:              http://endonymous.fr
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

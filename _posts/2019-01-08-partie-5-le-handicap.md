@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: Deux ans plus tard
-title: Partie 5 – Le handicap
+title: Partie 5 &#x3A; Le handicap
 categories:
   - histoire
 og_image: https://endonymous.fr/assets/images/partie5/fb-lien.png
@@ -10,7 +10,7 @@ og_twitter_img : https://endonymous.fr/assets/images/partie5/twitter-lien.png
 excerpt: On m'avait dit que j'en avais pour vingt-cinq années de souffrance, évidemment ce n'était pas dans mes projets mais force est de constater que je ne vraiment plus faire tout ce dont j'avais l'habitude. Handicap social, physique, professionnel, voici la partie 5 de Deux ans plus tard !
 banner: /assets/images/partie5/article-mini.png
 banner_large: /assets/images/partie5/article.png
-type: BD
+type: Roman graphique
 ---
 
 {% include rappel.html %}

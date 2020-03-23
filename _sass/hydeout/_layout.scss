@@ -27,8 +27,6 @@ body {
 }
 
 div#bg{
-  background-color: $yellow;
-  background-position: center;
   min-height: 20em;
   width: 100%;
   margin: 0 auto;
@@ -40,7 +38,7 @@ div#bg{
       text-decoration: surligne
     }
 
-    div.titre a { color: $yellow; background-color: white; padding: 0.2em; margin-top: 5em; }
+    div.titre a { color: black; background-color: white; padding: 0.2em; margin-top: 5em; }
 }
 
  @media (min-width: $tablet-breakpoint) {
@@ -51,18 +49,14 @@ div#bg{
 
 #sidebar {
   flex: 0 0 auto;
-
   .site-title {
-    font-family: "helvetihandmedium", serif;
+    font-family: "helsinkiregular", serif;
+    font-variant-caps: small-caps;
     font-weight: normal;
     font-size: $large-font-size;
     color: rgba(0,0,0,.75);
     margin-top: 0;
     margin-bottom: $heading-spacing;
-
-    .back-arrow { margin-right: 0.5rem;
-      svg{fill:$yellow;}
-    }
   }
 }
 
@@ -74,11 +68,11 @@ div#bg{
 
 #sidebar nav#sidebar-nav-links{
   flex-flow: column wrap;
+  font-size: 1.2em;
   @media (min-width: 1048px) {flex-flow:row nowrap;}
 }
 
 .container {
-  flex: 1 1 auto;
   width: 100%;
   margin: 0 auto;
   padding-top: $section-spacing;
@@ -185,8 +179,6 @@ div#bg{
   #sidebar {
     .site-title {
       font-size: 2rem;
-
-      .back-arrow { display: none; }
     }
 
     p.lead, header ~ * {
@@ -234,38 +226,56 @@ div#bg{
 }
 
 #sidebar a {
-  /* color: $yellow; */
-  font-weight: 500;
-
   svg {
-    fill: rgba(250, 250, 250, 1);
     position: relative;
   }
-  &:hover, &:focus, &.active {svg {}}
-
   &:hover, &:focus {
-    text-decoration: underline;
     &.icon {
       text-decoration: none;
       bottom:2px;
     }
   }
-
   &.active {
-    text-decoration: underline;
+    color: #fff;
+      text-decoration: none;
+      background:
+         linear-gradient(
+           to bottom, $maincolor 0%,
+           $maincolor 100%
+         );
+      background-position: 0 100%;
+      background-repeat: repeat-x;
+      background-size: 4px 50px;
   }
 }
 
 #sidebar-nav-links a, .menu-link{
-  background-color: $yellow;
-  text-transform: uppercase;
+  background:
+     linear-gradient(
+       to bottom, #fff 0%,
+       #fff 100%
+     );
+  background-position: 0 100%;
+  background-repeat: repeat-x;
+  background-size: 4px 4px;
+  transition: all cubic-bezier(0.215, 0.61, 0.355, 1) 0.5s;
   padding: 0.4em 0.7em 0.2em 0.7em;
   margin-top: 1em;
-  color: white;
-  font-family: 'helvetihandmedium';
+  color: $gray-6;
+  font-family: 'helsinkiregular', serif;
   margin-right:0.7em;
-  border: 1px solid $border-color;
-  border-radius: 5px;
+  &:hover, &:focus{
+    color: #fff;
+      text-decoration: none;
+      background:
+         linear-gradient(
+           to bottom, $maincolor 0%,
+           $maincolor 100%
+         );
+      background-position: 0 100%;
+      background-repeat: repeat-x;
+      background-size: 4px 50px;
+  }
   @media (max-width: 850px) {margin-right: 0;margin-top: 0;}
 }
 
@@ -277,7 +287,7 @@ div#bg{
   max-width: 100%;
   justify-content: center;
   margin-top: 1rem;
-  color: white;
+  color: $gray-6;
 
   @media (min-width: $large-breakpoint) {
     margin-left: -0.25em;

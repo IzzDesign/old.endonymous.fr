@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6, .site-title, strong {
   text-rendering: optimizeLegibility;
 }
 
-h1,h2,h3,h4,.strong{ font-family: "helvetihandmedium", serif;}
+h1,h2,h3,h4,.strong{ font-family: "helsinkiregular", serif;font-variant-caps: small-caps;}
 
 h1 {
   font-size: 2.3rem;
@@ -91,7 +91,7 @@ abbr {
 blockquote {
   padding: .5rem .5rem;
   color: #7a7a7a;
-  border-left: .25rem solid $yellow;
+  border-left: .25rem solid $maincolor;
   p {
     margin-bottom: 0;
   }
@@ -137,7 +137,8 @@ a[href^="#fnref:"] {
 .lead {
   font-size: 1.25rem;
   font-weight: 700;
-  color: white;
+  color: #565656;
+  font-family: "helsinkiregular", sans-serif;
 }
 
 // SVG Icons
@@ -145,8 +146,7 @@ a svg, .icon svg {
   height: 1em;
   width: auto;
 }
-/* a svg { fill: $yellow; }
- */.icon { vertical-align: middle; }
+.icon { vertical-align: middle; }
 
 .logo{max-height: 220px;margin: 0 auto;}
 
@@ -164,7 +164,6 @@ a svg, .icon svg {
   background-color: $gray-1;
   padding: 1.5em 0.6em 0.6em 0.6em;
   margin: 0 auto;
-  width: 75%;
   .droite{width: 70%;
     @media (max-width: 800px){width: 100%;}
   }

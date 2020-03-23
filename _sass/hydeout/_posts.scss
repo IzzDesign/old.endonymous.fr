@@ -3,6 +3,36 @@
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
 // page is wrapped in `.page` and is only used on the page layout.
 
+/* Index */
+.post-body{
+  flex-basis:900px;
+  h3{margin-top: 0.2em;}
+}
+.body{width: 900px;}
+
+.post-body figure {
+  display: block;
+  position: relative;
+  padding: 0;
+  margin: 0;
+  a{display: block;}
+  img{width: 100%;}
+}
+
+.post-body span.type{
+  color: $gray-4;
+  font-size: 1.2em;
+  font-family: "helsinkiregular", serif;
+  background-color: $gray-2;
+  padding: 0.2em;
+  &:before{
+    content: url("/assets/images/bulle.svg");
+    width: 20px;
+    display: inline-block;
+    margin-right: 0.3em;
+  }
+}
+
 article + *, .post-body ~ section {
   padding-right: 10px;
   margin-top: $section-spacing;
@@ -12,18 +42,12 @@ article + *, .post-body ~ section {
   }
 }
 
-.post-body{flex-basis:900px;}
-.body{width: 900px;}
 @media (min-width: 1150px) {
   .post-body{flex-basis:450px;}
   .post-body:first-child{
     flex-basis:900px;
   }
 }
-
-/* @media (min-width: 1992px) and (max-width:800px) {
-  .post-body{flex-basis:250px;}
-} */
 
 .post, .page {
   .content {
@@ -60,12 +84,8 @@ div.article-title{
 }
 
 // h1-size h2
-h2.post-title, h2.page-title {
-  font-size: 1.8rem;
-}
-
+h2.post-title, h2.page-title {font-size: 1.8rem;}
 h2.page-title{margin-top: 5rem;}
-
 h3.page-title,{margin-top: 2em;margin-bottom: 0.5em;}
 // Meta data line below post title
 .post-meta {
@@ -75,7 +95,7 @@ h3.page-title,{margin-top: 2em;margin-bottom: 0.5em;}
 }
 
 .post-meta a{
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .post-tags a {

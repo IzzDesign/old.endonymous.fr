@@ -1,0 +1,87 @@
+.flex-link{
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin-bottom: 0.5em;
+  margin: 0 auto;
+}
+
+.part1{background-color: $part1;h2,h3{color: $part1;}}
+.part2{background-color: $part2;h2,h3{color: $part2;}}
+.part3{background-color: $part3;h2,h3{color: $part3;}}
+.part4{background-color: $part4;h2,h3{color: $part4;}}
+.part5{background-color: $part5;h2,h3{color: $part5;}}
+
+.overlay{
+  position: relative;
+    &:before{
+    position: absolute;
+    content:" ";
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    display: none;
+    z-index:0;
+    background-color: rgba(250,250,250,0.2);
+    }
+    &:hover:before{display: block;}
+}
+
+/* Contact */
+.contact{display: block;width: 100%;}
+
+.comments{
+  width: 100%;
+}
+
+.animate{
+  position: relative;
+  bottom: 0px;
+  transition: bottom 0.2s;
+  &:hover{bottom: 3px;}
+}
+.info{
+  font-family:"helsinkiregular", sans-serif;
+  font-size: 1.5em;
+}
+.error{color: red;display: none;}
+.success{color:green;display: none;}
+form:focus{
+  border-color: #ffbd80;
+  box-shadow :0 0 0 0.05rem #ffbd80;
+}
+
+.reseaux img{
+  width: 47%;
+  display: inline-block;
+  margin: 0.4em;
+  @media (max-width: 839px){width: 100%; margin:0.4em 0;}
+}
+
+.button{
+  background-color: $maincolor;
+  color: white;
+  font-family: "helsinkiregular", serif;
+  position: relative;
+}
+
+.foot-custom{
+  display: block;
+  max-width: 900px;
+  margin: 0 auto;
+  height: auto;
+  img{max-width: 150px;}
+  .strong{margin-top: 0;}
+}
+
+footer{
+  height: 10px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: $gray-1;
+  height: auto;
+  padding-top: 0.1em;
+  width: 100%;
+  @media (min-width: $tablet-breakpoint) {width: 67%;}
+}

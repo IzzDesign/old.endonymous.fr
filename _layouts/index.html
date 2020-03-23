@@ -10,6 +10,7 @@ layout: default
 
   {% for post in paginator.posts %}
   <article class="post-body">
+    <span class="type">{{ post.type }}</span>
     <a href="{{ site.baseurl }}{{ post.url }}">
       <h2 class="post-title">
         {{ post.title }}
@@ -18,7 +19,6 @@ layout: default
     <a href="{{ site.baseurl }}{{ post.url }}">
       <figure class="overlay">
         <img src="{% if forloop.first %}{{ post.banner_large }}{% else %}{{ post.banner }}{% endif %}">
-      <figcaption>{{ post.type }}</figcaption>
       </figure>
     </a>
     <div>
