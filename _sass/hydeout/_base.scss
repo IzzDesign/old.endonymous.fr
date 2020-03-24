@@ -140,7 +140,7 @@ form{
     font-family: "helsinkiregular";
   }
   textarea{
-    font-family:"Segoe UI", "Roboto", "Oxygen", "Droid Sans", Arial, sans-serif;
+    font-family:$root-font-family;
     font-size: 1.1em;
     width: 100%;
   }
