@@ -72,7 +72,8 @@ form:focus{
 .foot-custom{
   display: block;
   max-width: 900px;
-  margin: 0 auto;
+  flex-basis: 900px;
+  text-align: center;
   height: auto;
   img{max-width: 150px;}
   .strong{margin-top: 0;}
