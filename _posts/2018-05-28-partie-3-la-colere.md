@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: Deux ans plus tard
-title: Partie 3 – La colère
+title: Partie 3 &#x3A; La colère
 categories:
   - histoire
 og_image: https://endonymous.fr/assets/images/partie3/fb-lien.png
@@ -10,7 +10,7 @@ og_twitter_img : https://endonymous.fr/assets/images/partie3/twitter-lien.png
 excerpt: Après le choc, j'ai pris un peu de temps pour réfléchir à ma situation et je me suis rapidement rendu compte à quel poin j'étais en colère contre mes médecins. Comment avaient-ils pu laisser passer cette maladie alors que plus de 10% des femmes sont touchées ? Voici la partie 3 de Deux ans plus tard, la colère.
 banner : /assets/images/partie3/article.png
 banner_large : /assets/images/partie3/article.png
-type: BD
+type: Roman graphique
 ---
 {% include rappel.html %}
 <div>

@@ -1,6 +1,6 @@
 ---
 layout: post
-subtitle: Les symptômes de l'endométriose.
+subtitle: Les symptômes de l'endométriose
 title: Ai-je de l'endométriose&nbsp;?
 categories:
   - article
@@ -38,7 +38,7 @@ Voici les principaux symptômes qui pourraient faire penser à une endométriose
 Pour aller plus loin voici une liste de symptômes détaillés causés par l’endométriose et pour quelles raisons ils peuvent apparaître en cas de maladie.
 
 <ul class="sommaire">
-    <li><a href="#douleur">Douleur (règles, rapports,…)</a></li>
+    <li><a href="#douleur">La douleur</a></li>
     <li><a href="#fatigue">Fatigue chronique</a></li>
     <li><a href="#enceinte">Difficultés à tomber enceinte</a></li>
     <li><a href="#digestifs">Troubles digestifs</a></li>

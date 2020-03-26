@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: Deux ans plus tard
-title: Partie 1 – Le déni
+title: Partie 1 &#x3A; Le déni
 categories:
   - histoire
 og_image: https://endonymous.fr/assets/images/partie1/fb-lien.png
@@ -10,7 +10,7 @@ og_twitter_img : https://endonymous.fr/assets/images/partie1/twitter-lien.png
 excerpt: Bonjour, je m'appelle Isa mais je me cache sous l'identité secrète d'Endonymous. Tu vois, il m'est arrivé 2-3 petites bricoles ces dernières années, et comme je sais un peu gribouiller j'ai voulu en faire une BD ! Pour la lire tu es au bon endroit, c'est la première partie de Deux ans plus tard ! Bonne lecture !
 banner: /assets/images/partie1/article.png
 banner_large: /assets/images/partie1/article.png
-type: BD
+type: Roman graphique
 ---
 <div class="graph">
     <img src="/assets/images/partie1/01- (1).png" alt="Tu te souviens de ces films américains super niais qui te font croire que quand une fille a ses premières règles, c'est le plus beau jour de sa vie ? Bravo ma chérie, Oh, je suis enfin une vraie femme Je suis tellement fière de toi ! Ce cliché est sponsorisé par Tampox.
@@ -62,7 +62,7 @@ type: BD
     <img src="/assets/images/partie1/01- (11).png" alt="Le pire c'est qu'une fois la douleur passée, je ne me suis pas du tout alarmée.
     Aha, je suis trop bête d'avoir fait du vélo pendant mes règles ! Ceci est le visage du déni. C'est à partir de cet événement que les choses ont commencé à se complexifier. Les douleurs que j'avais uniquement en faisant du sport ont commencé à arriver irrégulièrement alors que je marchais tranquillement en ville. Marcher du métro à ma fac pendant quinze minutes devenait extrêmement désagréable. Pourquoi j'ai mal au ventre ? J'ai pas le temps de m'arrêter je suis trop à la bourre en plus.
     Sur le chemin des cours Àpartir de là, ça devenait trop étrange pour que je ne me pose pas de questions, je suis donc allée consulter ma généraliste.">
-    <img src="/assets/images/partie1/01- (12).png" alt="Ah ça vous fait mal quand j'appuie là ? Non mais ça c'est rien. Ouch, oui affreusement Je suis sûre que vous êtes constipée ! Je suis quand même rentrée chez moi avec des médicaments contre la constipation après que la pharmacienne m'ait expliquée que pour ne pas être constipée il fallait faire du sport. Çan'a rien donné et je suis retournée voir magénéraliste, j'y allais quasiment tous les mois pour des maux de ventre. À force, cette dernière a consenti à me prescrire une échographie pelvienne qui ne montrait pas grand chose. 
+    <img src="/assets/images/partie1/01- (12).png" alt="Ah ça vous fait mal quand j'appuie là ? Non mais ça c'est rien. Ouch, oui affreusement Je suis sûre que vous êtes constipée ! Je suis quand même rentrée chez moi avec des médicaments contre la constipation après que la pharmacienne m'ait expliquée que pour ne pas être constipée il fallait faire du sport. Çan'a rien donné et je suis retournée voir magénéraliste, j'y allais quasiment tous les mois pour des maux de ventre. À force, cette dernière a consenti à me prescrire une échographie pelvienne qui ne montrait pas grand chose.
     Bah y a rien.
     Mais j'ai mal…
     Oui mais l'échographie ne montre rien, donc je préfère croire un examen qui n'est pas 100% fiable plutôt que vous, ça me semble logique.
@@ -76,7 +76,7 @@ type: BD
     <img src="/assets/images/partie1/01- (15).png" alt="N'empêche, je ne peux pas m'empêcherde l'imaginer au concours de médecine…QCM
     Q: Un patient a mal
     A- Ce n'est rien
-    B- Faire un examen clinique poussé 
+    B- Faire un examen clinique poussé
     C- Il y a sûrement quelque chose
     D- Réponse B et C
     Trop facile ! Réponse A !
@@ -102,12 +102,12 @@ type: BD
     <img src="/assets/images/partie1/01- (19).png" alt="Haha, il est trop bien ce week-end à la montagne !
     Ouais… On sort ? Par là-bas c'est la chambre. Oui mais dans 10 min, je vais faire une sieste. Mais il est 14H et tu t'es réveillée à midi. … Isa ? Zzzz
     Isa, tu m'aides à ranger l'appart ? Ouais, j'arrive dans 5 min !">
-    <img src="/assets/images/partie1/01- (20).png" alt="J'avais tellement mal tout le temps que j'avais du mal à me laisser approcher. On fait un câlin ? Tu peux me tenir le pied si tu veux, j'ai pas mal. Mais ne franchis pas la ligne s'il-te-plaît. Avec tout ça, c'est diiffcile d'avoir une bonne opinion de soi-même. GLANDEUSE INTERNATIONALE 
+    <img src="/assets/images/partie1/01- (20).png" alt="J'avais tellement mal tout le temps que j'avais du mal à me laisser approcher. On fait un câlin ? Tu peux me tenir le pied si tu veux, j'ai pas mal. Mais ne franchis pas la ligne s'il-te-plaît. Avec tout ça, c'est diiffcile d'avoir une bonne opinion de soi-même. GLANDEUSE INTERNATIONALE
     Bonjour, je suis 'encore' en retard. Motif ?  Euh… j'ai pas le courage d'en inventer un, mettez 'Dormir'.">
     <img src="/assets/images/partie1/01- (21).png" alt="C'est difficile de se rendre compte que son corps dérive lentement, jusqu'à ce que l'on soit en incapacité de faire des choses auxquelles on ne pensait même pas comme juste rester debout ou monter des escaliers. D'un autre côté je sentais bien que quelque chose n'était pas normal mais mes demandes d'explication auprès de mon médecin étaient restées sans réponse. Je ressortais même de mes rendez-vous avec l'impression d'être une folle. J'avais donc pris sur moi au maximum jusqu'à ce que je n'y arrive plus et à partir de là je mesuis rendue compte à quel point les gens sont intransigeants. Ton entourage te fait comprendre que tu abuses un peu, que tu dors trop, que tu n'aides pas assez et je n'arrive même pas à leur en vouloir, ils préfèrent te croire flemmarde que malade.">
     <img src="/assets/images/partie1/01- (22).png" alt="Vous allez avoir envie de vous dire que c'est vraiment stupide, que j'aurais dû encore et encore aller chez le médecin, que c'est bizarre de se convaincre qu'on a rien avec tous ces symptômes. Sauf qu'au contraire après toutes ces visites qui n'avaient servi à rien, j'évitais d'y aller de peur de passer encore plus pour une folle. J'aurais également pu aller  chercher des réponses auprès d'un autre médecin mais au bout d'un moment j'ai vraiment cru que c'était moi qui avais un problème. Mais bon, la fatigue devenant de plus en plus présente, je commençais à ne plus du tout réussir à me réveiller pour aller en cours. J'ai dû me résoudre à retourner chez le médecin pour quémander un arrêt de travail.">
     <img src="/assets/images/partie1/01- (23).png" alt="Qu'est-ce qui vous amène ? J'aimerais un arrêt. Je ne suis pas allée en cours depuis 3 jours, j'en peux plus. Je suis en fatigue chronique depuis des mois, je ne sais pas ce que j'ai. Ah… Et vous êtes sûre que vous n'êtes pas allée en cours parce que vous aviez la flemme ? Bourreau remplaçant Euh… non, sinon je ne dormirais pas 15H par jour le week-end… Ah mais il y a un moment il faut arrêter de dormir sinon on s'en sort pas ! Cette personne a le meilleur remède contre la fatigue chronique : ne plus dormir ! On applaudit ! Pire médecin 2015">
-    <img src="/assets/images/partie1/01- (24).png" alt="Bon je vais vous faire votre arrêt pour 3 jours mais il faut me promettre d'aller en cours après. Bougez pas, je teste vos je rélfexes ! Après la tête, on passe aux genoux. La batte de  base-ball, je suis lyonnaise, on voit bien l'influence de Guignol. 
+    <img src="/assets/images/partie1/01- (24).png" alt="Bon je vais vous faire votre arrêt pour 3 jours mais il faut me promettre d'aller en cours après. Bougez pas, je teste vos je rélfexes ! Après la tête, on passe aux genoux. La batte de  base-ball, je suis lyonnaise, on voit bien l'influence de Guignol.
     … Merci bien…
     Je suis donc sortie avec mon arrêt parce que j'avais ifni par promettre trois fois de suite que j'irais en cours. J'ai adoré chaque moment de ce rendez-vous, les insultes, le manque de reconnaissance de ma souffrance, l'infantilisation et pour finir j'ai dû la payer. Vous êtes vous aviez pas la sûre que vous vous êtes flemme… Je t'en foutrais de la flemme ! Et vous ? Vous êtes sûre que vous vous êtes pas trompée de vocation ? Gardienne de prison à Guantánamo ça me parait plus judicieux.">
     <img src="/assets/images/partie1/01- (25).png" alt="Voilà, c'est ça que j'aurais dû dire… Tout sauf, 'Merci Bien'
