@@ -8,7 +8,7 @@ og_image: http://endonymous.fr/assets/images/partie2/fb-lien.png
 og_description: Ça y est, j'ai mon diagnostic… Voici la partie 2 de Deux ans plus tard, le choc.
 og_twitter_img : http://endonymous.fr/assets/images/partie2/twitter-lien.png
 excerpt: Ça y est, j'ai mon diagnostic… Voici la partie 2 de Deux ans plus tard, le choc.
-banner : /assets/images/partie2/article.png
+banner : /assets/images/partie2/article-mini.png
 banner_large : /assets/images/partie2/article.png
 type: Roman graphique
 ---

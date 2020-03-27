@@ -7,13 +7,16 @@
 */
 
 .pagination {
+  flex-basis: 900px;
   margin-bottom: $section-spacing;
   color: $gray-1;
+  display: flex;
+  justify-content: center;
 
   > a {
     padding: $padding-v $padding-h;
     max-width: $sidebar-width;
-    font-family: $font-comic;
+    font-family: $font-title;
     font-size: 1.5em;
 
     &:hover {
@@ -22,11 +25,11 @@
 }
 
 .pagination a .pagination-item .older{
-  float: right;
+  float: left;
 }
 
 a .pagination-item .newer{
-  float: left
+  float: right;
 }
 
 // Bottom -> margin-top;
