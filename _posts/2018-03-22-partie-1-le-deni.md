@@ -3,7 +3,8 @@ layout: post
 subtitle: Deux ans plus tard
 title: Partie 1 &#x3A; Le déni
 categories:
-  - histoire
+    - histoire
+image: /assets/images/partie1/partie1.svg
 og_image: https://endonymous.fr/assets/images/partie1/fb-lien.png
 og_description: Bonjour, je m'appelle Isa mais je me cache sous l'identité secrète d'Endonymous. Tu vois, il m'est arrivé 2-3 petites bricoles ces dernières années, et comme je sais un peu gribouiller j'ai voulu en faire une BD ! Pour la lire tu es au bon endroit, c'est la première partie de Deux ans plus tard ! Bonne lecture !
 og_twitter_img : https://endonymous.fr/assets/images/partie1/twitter-lien.png
@@ -119,6 +120,3 @@ type: Roman graphique
     <img src="/assets/images/partie1/01- (28).png" alt="Ça a été le choc. Tout ce que je ressentais depuis des années était clairement décrit sur le net. Moi qui cherchais des réponses à mon mal-être, j'en avais peut-être une sous mes yeux même si elle ne m’enchantait pas vraiment. Il me fallait absolument une confirmation rapidement, sinon j'allais vite devenir folle J'ai pris rendez-vous par internet avec le premier gynécologue disponible. J'avais fait quelques recherches pour trouver sur Lyon un chirurgien qui avait l'habitude d'opérer des patientes avec une endométriose et donc serait compétent pour me diagnostiquer et me prendre correctement en charge. Par chance, j'ai eu rapidement un rendez- vous. On était vendredi soir et il fallait maintenant que j'attende jusqu'à mardi 18H. En attendant, ce rendez-vous, c'était la déprime.">
     <img src="/assets/images/partie1/01- (29).png" alt="Puis le jour J arriva. Lors du rendez-vous j'avais décidé de ne pas parler d'endométriose. J'ai parlé de ma fatigue chronique, de mes douleurs mais je ne voulais pas biaiser la consultation en parlant directement de la maladie. Mais très vite : L'échographe qui ressemble à une console de jeu. Ça c'est le boss du jeu ! Ah… Bon il y a quelque chose. Un alien ?  Un kyste sanguin signe d'endométriose Ah… Je sais ce que c'est… Fin de la partie 1 - À suivre…">
 </div>
-
-<h3>À suivre</h3>
-<div class="flex-link">{% include liens/partie2.html %}</div>

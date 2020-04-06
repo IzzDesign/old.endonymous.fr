@@ -1,0 +1,218 @@
+---
+---
+
+$maincolor: #E2BD81!default;
+$gray-1: #F8F8F8;
+$gray-2: #C2C2C2;
+$gray-3: #5D5D5D;
+
+$part1: #7D9D74 !default;
+$part2: #CFBA4C !default;
+$part3: #DF3535 !default;
+$part4: #4AB1C2 !default;
+$part5: #2D426A !default;
+
+$font-family: "Arial", "Roboto", "Calibri", sans-serif !default;
+$font-comic:"helvetihandmedium", serif;
+$cursive:'pacifico';
+$font-title:"helsinkiregular",serif;
+
+body, .container{
+  display: flex;
+  flex-direction: column;
+  font-family: $font-family;
+}
+
+.default{
+  min-width: 100%;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand
+{border-bottom: 0.5em solid #f8f9fa;}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover{border-bottom: 0.5em solid $maincolor;}
+.reseaux{
+  display: inline-block;
+  margin-right: 1em;
+  svg{width: 20px;margin-right: 0.5em;}
+}
+
+h2,h3,h4, p.strong, span.button, .navbar-brand, .nav-item, .banner{font-family: $font-title;font-variant-caps: small-caps;}
+a, a:hover, a:focus{color: $gray-3;text-decoration: none;}
+
+.h1{
+  text-align: center;
+  line-height: 0.2em;
+  font-variant-caps: normal;
+  h1{
+  font-family: $font-title;
+  font-size: 1.2em;
+  padding: 0;
+  margin:0;
+  }
+  span{
+    font-size: 0.6em;
+    font-family: $font-title;
+  }
+  h2.endo{
+    font-family: $cursive;
+    color: $maincolor;
+    font-size: 1.5em;
+    transform: rotate(-5deg);
+    font-variant-caps: normal;
+  }
+}
+
+.title{
+  font-family: $cursive;
+  font-size: 1.5em;
+  font-variant-caps: normal;
+}
+
+.banner{
+  min-height: 170px;
+  text-align: center;
+  margin-top: 70px;
+  img{width: 70%;}
+  .texte{
+    align-self: center;
+    p{margin-top: 1em;}
+  }
+}
+
+.sidebar{
+  width: 50%;
+  left: 0;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 100px;
+  height: 100%;
+  line-height: 1;
+}
+
+.cta{
+  font-size: 1.2em;
+  padding: 0.5em;
+  background-color:$maincolor;
+  color: #fff;
+  text-align: center;
+  font-family: $font-title;
+  font-variant-caps: normal;
+  transition: all 0.6s cubic-bezier(0.215, 0.61, 0.355, 1);
+  &:hover{padding: 0.5em 1em;color: black;}
+}
+
+.content{width: 50%;top:70px;position: relative;height: auto;}
+
+figure{
+  border-radius: 25px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  align-items: center;
+  padding: 1em;
+  background-color: $gray-1;
+  text-align: center;
+  span{
+    font-family: $cursive;
+    font-size: 1.8em;
+    margin-bottom: 1em;
+  }
+  img{
+    width: 150px;
+    transition: all 0.6s cubic-bezier(0.215, 0.61, 0.355, 1);
+    background-color: #fff;
+    border-radius: 100px;
+    padding: 0;
+    margin: 0;
+  }
+  p{width: 90%; text-align: center;}
+  span.button{
+    font-size: 1.2em;
+    transition: all 1s cubic-bezier(0.215, 0.61, 0.355, 1);
+    background-color: $gray-2; padding: 0.5em 1em;}
+}
+a figure:hover{
+  img, span.button{background-color: $maincolor;}
+  span.button{color: #fff; padding: 0.5em 1.5em;}
+}
+
+a.button{
+  font-family: $font-title;
+  transition: all 1s cubic-bezier(0.215, 0.61, 0.355, 1);
+  background-color: $gray-2; padding: 0.5em 1em;
+  margin-bottom:1.5em;
+}
+a.button:hover{color: #fff; padding: 0.5em 1.5em;background-color: $maincolor;}
+
+form{
+  margin:0 auto;
+  flex: auto;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-content: center;
+  flex: auto;
+  .top{
+    display: inline-flex;
+    .inside{
+      display:flex;
+      flex-direction: column;
+      label{width: 275px;}
+      &:last-child{
+      margin-left: 1em;
+      }
+    }
+  }
+  label{
+    margin-right: 1em;
+    font-family: $font-title;
+  }
+  textarea{
+    font-family:$font-family;
+    font-size: 1.1em;
+    width: 100%;
+  }
+  input[type="submit"]{
+    margin: 0 auto;
+    background-color: $maincolor;
+    color: white;
+    font-family: $font-title;
+    border:none;
+    width: 150px;
+    margin-top: 1em;
+    font-size: 1em;
+  }
+}
+
+#contactform{height: calc(100vh - 70px);}
+
+input[type="text"], input[type="search"], input[type="submit"], .button{
+  padding: 0.7em 1.5em;
+  max-width: 600px;
+}
+
+p.strong{font-size: 1.5em;}
+
+footer{min-height: 3em; text-align: center;padding:1em;margin-top: 1em;}
+
+.articles-img img{
+  width: 47%;
+  display: inline-block;
+  margin: 0.4em;
+  @media (max-width: 839px){
+  width: 100%;
+  margin:0.4em 0;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .sidebar{
+  width: auto;
+  position: inherit;
+  height: auto;
+  margin-top: 3em;
+  }
+  .content{width: auto;position: inherit; margin-top: 1em;}
+}

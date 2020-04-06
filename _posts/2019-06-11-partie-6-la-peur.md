@@ -4,6 +4,7 @@ subtitle: Deux ans plus tard
 title: Partie 6 &#x3A; La peur
 categories:
   - histoire
+image: /assets/images/partie6/partie6.svg
 og_image: https://endonymous.fr/assets/images/partie6/fb-lien.png
 og_description: Après une journée de douleur, je me retrouve dans une ambulance direction les urgences. C'est la panique, je ne sais pas pourquoi j'ai aussi mal, est-ce l'endométriose la coupable ?
 og_twitter_img : https://endonymous.fr/assets/images/partie6/twitter-lien.png
@@ -12,21 +13,6 @@ banner: /assets/images/partie6/article-mini.png
 banner_large: /assets/images/partie6/article.png
 type: Roman graphique
 ---
-
-{% include rappel.html %}
-<div>
-    {% include bandeau.html %}
-    <div class="flex-link">
-        {% include liens/partie2.html %}
-        {% include liens/partie3.html %}
-        {% include liens/partie4.html %}
-        {% include liens/partie5.html %}
-    </div>
-</div>
-<div class="bd">
-        <p>Résumé de la partie 5 :</p>
-        <p>Après une journée de douleur, je me retrouve dans une ambulance direction les urgences. C'est la panique, je ne sais pas pourquoi j'ai aussi mal, est-ce l'endométriose la coupable ?</p>
-</div>
 <div class="graph">
     <img src="/assets/images/partie6/06- (1).png" alt="">
     <img src="/assets/images/partie6/06- (2).png" alt="">

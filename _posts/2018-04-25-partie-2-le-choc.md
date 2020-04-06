@@ -4,6 +4,7 @@ subtitle: Deux ans plus tard
 title: Partie 2 &#x3A; Le choc
 categories:
   - histoire
+image: /assets/images/partie2/partie2.svg
 og_image: http://endonymous.fr/assets/images/partie2/fb-lien.png
 og_description: Ça y est, j'ai mon diagnostic… Voici la partie 2 de Deux ans plus tard, le choc.
 og_twitter_img : http://endonymous.fr/assets/images/partie2/twitter-lien.png
@@ -12,11 +13,6 @@ banner : /assets/images/partie2/article-mini.png
 banner_large : /assets/images/partie2/article.png
 type: Roman graphique
 ---
-
-{% include rappel.html %}
-<div>
-    {% include bandeau.html %}
-</div>
 
 <div class="graph">
     <img src="/assets/images/partie2/02- (1).png" alt="">
@@ -32,6 +28,3 @@ type: Roman graphique
     <img src="/assets/images/partie2/02- (11).png" alt="">
     <img src="/assets/images/partie2/02- (12).png" alt="">
 </div>
-<h3>À suivre</h3>
-
-<div class="flex-link">{% include liens/partie3.html %}</div>

@@ -4,6 +4,7 @@ subtitle: Deux ans plus tard
 title: Partie 4 &#x3A; L'opération
 categories:
   - histoire
+image: /assets/images/partie4/partie4.svg
 og_image: https://endonymous.fr/assets/images/partie4/fb-lien.png
 og_description: Et voilà, c'est le jour J, le jour de l'opération ! Bon, d'accord je n'ai fait que dormir pendant cette opération. On pourrait alors croire que je n'ai pas grand chose à raconter mais détrompe-toi très cher lecteur car il m'arrive toujours des crasses ! Voici la partie 4 de Deux ans plus tard.
 og_twitter_img : https://endonymous.fr/assets/images/partie4/twitter-lien.png
@@ -13,14 +14,6 @@ banner_large: /assets/images/partie4/article.png
 type: Roman graphique
 ---
 
-{% include rappel.html %}
-<div>
-    {% include bandeau.html %}
-    <div class="flex-link">
-        {% include liens/partie2.html %}
-        {% include liens/partie3.html %}
-    </div>
-</div>
 <div class="graph">
     <img src="/assets/images/partie4/04- (1).png" alt="">
     <img src="/assets/images/partie4/04- (2).png" alt="">
@@ -53,6 +46,5 @@ type: Roman graphique
 <div class="bd">
     <p class="asuivre">Fin de la partie 4 - À suivre…</p>
 </div>
-<div class="flex-link">{% include liens/partie5.html %}</div>
 
 

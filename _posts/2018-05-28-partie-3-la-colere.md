@@ -4,21 +4,15 @@ subtitle: Deux ans plus tard
 title: Partie 3 &#x3A; La colère
 categories:
   - histoire
+image: /assets/images/partie3/partie3.svg
 og_image: https://endonymous.fr/assets/images/partie3/fb-lien.png
-og_description: Après le choc, j'ai pris un peu de temps pour réfléchir à ma situation et je me suis rapidement rendu compte à quel poin j'étais en colère contre mes médecins. Comment avaient-ils pu laisser passer cette maladie alors que plus de 10% des femmes sont touchées ? Voici la partie 3 de Deux ans plus tard, la colère.
+og_description: Après le choc, j'ai pris un peu de temps pour réfléchir à ma situation et je me suis rapidement rendu compte à quel point j'étais en colère contre mes médecins. Comment avaient-ils pu laisser passer cette maladie alors que plus de 10% des femmes sont touchées ? Voici la partie 3 de Deux ans plus tard, la colère.
 og_twitter_img : https://endonymous.fr/assets/images/partie3/twitter-lien.png
-excerpt: Après le choc, j'ai pris un peu de temps pour réfléchir à ma situation et je me suis rapidement rendu compte à quel poin j'étais en colère contre mes médecins. Comment avaient-ils pu laisser passer cette maladie alors que plus de 10% des femmes sont touchées ? Voici la partie 3 de Deux ans plus tard, la colère.
+excerpt: Après le choc, j'ai pris un peu de temps pour réfléchir à ma situation et je me suis rapidement rendu compte à quel point j'étais en colère contre mes médecins. Comment avaient-ils pu laisser passer cette maladie alors que plus de 10% des femmes sont touchées ? Voici la partie 3 de Deux ans plus tard, la colère.
 banner : /assets/images/partie3/article-mini.png
 banner_large : /assets/images/partie3/article.png
 type: Roman graphique
 ---
-{% include rappel.html %}
-<div>
-    {% include bandeau.html %}
-    <div class="flex-link">
-        {% include liens/partie2.html %}
-    </div>
-</div>
 <div class="graph">
     <img src="/assets/images/partie3/03- (1).png" alt="">
     <img src="/assets/images/partie3/03- (2).png" alt="">
@@ -44,6 +38,3 @@ type: Roman graphique
     <img src="/assets/images/partie3/03- (22).png" alt="">
     <img src="/assets/images/partie3/03- (23).png" alt="">
 </div>
-
-<h3>À suivre</h3>
-<div class="flex-link">{% include liens/partie4.html %}</div>

@@ -4,6 +4,7 @@ subtitle: Deux ans plus tard
 title: Partie 5 &#x3A; Le handicap
 categories:
   - histoire
+image: /assets/images/partie5/partie5.svg
 og_image: https://endonymous.fr/assets/images/partie5/fb-lien.png
 og_description: On m'avait dit que j'en avais pour vingt-cinq années de souffrance, évidemment ce n'était pas dans mes projets mais force est de constater que je ne vraiment plus faire tout ce dont j'avais l'habitude. Handicap social, physique, professionnel, voici la partie 5 de Deux ans plus tard !
 og_twitter_img : https://endonymous.fr/assets/images/partie5/twitter-lien.png
@@ -11,18 +12,8 @@ excerpt: On m'avait dit que j'en avais pour vingt-cinq années de souffrance, é
 banner: /assets/images/partie5/article-mini.png
 banner_large: /assets/images/partie5/article.png
 type: Roman graphique
+resum: Après une journée de douleur, je me retrouve dans une ambulance direction les urgences. C'est la panique, je ne sais pas pourquoi j'ai aussi mal, est-ce l'endométriose la coupable ?
 ---
-
-{% include rappel.html %}
-<div>
-    {% include bandeau.html %}
-    <div class="flex-link">
-        {% include liens/partie2.html %}
-        {% include liens/partie3.html %}
-        {% include liens/partie4.html %}
-    </div>
-</div>
-
 <div class="graph">
     <img src="/assets/images/partie5/05- (1).png" alt="">
     <img src="/assets/images/partie5/05- (2).png" alt="">
