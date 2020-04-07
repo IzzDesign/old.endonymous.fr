@@ -29,26 +29,25 @@ layout: default
 <div class="container">
   <div class="row">
       <div class="col-lg-8">
+        {% if page.categories contains 'histoire' %}
          {% for category in page.categories %}
             {% assign articles_by_date = site.categories[category] | sort: 'date' | reverse %}
             {% for p in articles_by_date %}
               {% if page.date > p.date %}
-                {% if p.out_of_history != true %}
-                  <div class="col-lg-8 offset-lg-2 text-center">
-                    <h4>Dans l'épisode précédent</h4>
-                    <p>
-                      {{ p.resum }}
-                    </p>
-                    <a href="{{ p.url }}" class="button">
-                      Pour lire la {{ p.title }}
-                    </a>
-                  </div>
-                  {% break %}
-                {% endif %}
+                <div class="col-lg-10 offset-lg-1 text-center previous">
+                  <h4>Dans l'épisode précédent</h4>
+                  <p>
+                    {{ p.resum }}
+                  </p>
+                  <a href="{{ p.url }}" class="button">
+                    Pour lire la {{ p.title }}
+                  </a>
+                </div>
+                {% break %}
               {% endif %}
             {% endfor %}
           {% endfor %}
-
+        {% endif %}
           <figure>
            <img src="{{ page.image }}">
             <h3>{{ page.title }}</h3>
@@ -60,19 +59,17 @@ layout: default
             {% assign articles_by_date = site.categories[category] | sort: 'date' %}
             {% for p in articles_by_date %}
               {% if page.date < p.date %}
-                {% if p.out_of_history != true %}
-                  <h3>À Suivre</h3>
-                  <a href="{{ p.url }}">
-                    <figure>
-                      <span>{{ p.type }}</span>
-                      <img src="{{ p.image }}">
-                      <h3>{{ p.title }}</h3>
-                      <p>{{ p.excerpt }}</p>
-                      <span class="button">Lire</span>
-                    </figure>
-                  </a>
-                  {% break %}
-                {% endif %}
+                <h3>À Suivre</h3>
+                <a href="{{ p.url }}">
+                  <figure>
+                    <span>{{ p.type }}</span>
+                    <img src="{{ p.image }}">
+                    <h3>{{ p.title }}</h3>
+                    <p>{{ p.excerpt }}</p>
+                    <span class="button">Lire</span>
+                  </figure>
+                </a>
+                {% break %}
               {% endif %}
             {% endfor %}
           {% endfor %}
@@ -99,29 +96,28 @@ layout: default
             {% endfor %}
           {% endfor %}
       </div>
+  </div>
 
   <div class="row">
-    <div class="col-lg-8">
+    <div class="col-lg-12">
       <div class="strong">Si vous avez aimé cet article, partagez-le !</div>
       <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ab41c1099be7007"></script>
       <div class="addthis_inline_share_toolbox_odn6"></div>
     </div>
   </div>
   <div class="row">
-    <div class="col-lg-8">
+    <div class="col-lg-12">
       <p class="strong">Inscrivez-vous à la newsletter</p>
       <p>Et recevez la suite de <b>Deux ans plus tard.</b></p>
       <a href="http://eepurl.com/dFxzmL" class="button" target="_blank"> S'inscrire</a>
     </div>
   </div>
   <div class="row">
-    <div class="col-lg-8">
+    <div class="col-lg-12">
       <p class="strong">Suivez les nouvelles sorties sur les réseaux sociaux !</p>
         <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ab41c1099be7007"></script>
         <div class="addthis_inline_follow_toolbox"></div>
     </div>
-  </div>
-
   </div>
 </div>
 

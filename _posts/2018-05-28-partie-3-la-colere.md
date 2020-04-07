@@ -12,6 +12,7 @@ excerpt: Après le choc, j'ai pris un peu de temps pour réfléchir à ma situat
 banner : /assets/images/partie3/article-mini.png
 banner_large : /assets/images/partie3/article.png
 type: Roman graphique
+resum: Je passe un IRM pré-opératoire pour que le chirurgien prenne connaissance de la taille et la localisation des lésions. Je commence à comprendre plus en détail ce qu'est l'endométriose. D'après la classification utilisée par les médecins, j'apprends que j'ai un stade 4 d'endométriose donc des lésions profondes. Je commence à être en colère auprès de mes anciens médecins, leur repprochant de ne pas avoir découvert cette maladie alors que j'ai une atteinte profonde.
 ---
 <div class="graph">
     <img src="/assets/images/partie3/03- (1).png" alt="">

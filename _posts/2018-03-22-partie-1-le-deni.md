@@ -12,6 +12,7 @@ excerpt: Bonjour, je m'appelle Isa mais je me cache sous l'identité secrète d'
 banner: /assets/images/partie1/article-mini.png
 banner_large: /assets/images/partie1/article.png
 type: Roman graphique
+resum: Cela faisait des années que je me sentais plus fatiguée que les autres, que j'ai des douleurs lors de mes règles ou pendant le cycle. L'année de mes 25 ans les douleurs deviennent de plus en plus insupportable et j'ai beau aller chez le médecin, elle ne me trouve rien de significatif, pourtant j'ai mal au ventre au point d'avoir du mal à marcher. Je prends finalement rendez-vous auprès d'un gynécologue et celui-ci me diagnostique une endométriose.
 ---
 <div class="graph">
     <img src="/assets/images/partie1/01- (1).png" alt="Tu te souviens de ces films américains super niais qui te font croire que quand une fille a ses premières règles, c'est le plus beau jour de sa vie ? Bravo ma chérie, Oh, je suis enfin une vraie femme Je suis tellement fière de toi ! Ce cliché est sponsorisé par Tampox.

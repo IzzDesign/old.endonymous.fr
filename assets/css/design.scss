@@ -23,6 +23,8 @@ body, .container{
   font-family: $font-family;
 }
 
+.row{margin-right: 0;}
+
 .default{
   min-width: 100%;
 }
@@ -102,7 +104,7 @@ a, a:hover, a:focus{color: $gray-3;text-decoration: none;}
 }
 
 .content{width: 50%;top:70px;position: relative;height: auto;}
-
+.previous{margin-bottom: 2em;}
 figure{
   border-radius: 25px;
   justify-content: center;
@@ -185,8 +187,19 @@ form{
     font-size: 1em;
   }
 }
+.info{
+  font-family:"helsinkiregular", sans-serif;
+  font-size: 1.5em;
+}
+.error{color: red;display: none;}
+.success{color:green;display: none;}
+form:focus{
+  border-color: #ffbd80;
+  box-shadow :0 0 0 0.05rem #ffbd80;
+}
 
-#contactform{height: calc(100vh - 70px);}
+.minimum{min-height: calc(100vh - 70px);}
+#contactform{margin-top: 2em;}
 
 input[type="text"], input[type="search"], input[type="submit"], .button{
   padding: 0.7em 1.5em;
@@ -205,6 +218,13 @@ footer{min-height: 3em; text-align: center;padding:1em;margin-top: 1em;}
   width: 100%;
   margin:0.4em 0;
   }
+}
+
+.animate{
+  position: relative;
+  bottom: 0px;
+  transition: bottom 0.2s cubic-bezier(0.215, 0.61, 0.355, 1);
+  &:hover{bottom: 3px;}
 }
 
 @media screen and (max-width: 800px) {

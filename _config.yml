@@ -40,3 +40,9 @@ github:
   repo:             https://github.com/IzzDesign/endonymous.fr/
 disqus:
   shortname: endonymous
+
+defaults:
+  - scope:
+      path: "assets/images/reseaux"
+    values:
+      reseaux: true

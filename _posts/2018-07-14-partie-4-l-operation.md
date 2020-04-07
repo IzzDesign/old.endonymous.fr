@@ -12,6 +12,7 @@ excerpt: Et voilà, c'est le jour J, le jour de l'opération ! Bon, d'accord je 
 banner: /assets/images/partie4/article-mini.png
 banner_large: /assets/images/partie4/article.png
 type: Roman graphique
+resum: J'avais enfin eu mon opération et malgré le temps passé les douleurs restaient. J'avais espéré qu'elle me permettre de retrouver une vie plus normale. Pleine d'interrogation j'étais retournée voir mon chirurgien gynécologue et ce dernier a trouvé le moyen de me faire comprendre le mot "chronique" dans maladie chronique de la plus douce des manières.
 ---
 
 <div class="graph">

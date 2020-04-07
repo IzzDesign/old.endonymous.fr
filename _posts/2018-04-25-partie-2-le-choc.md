@@ -12,6 +12,7 @@ excerpt: Ça y est, j'ai mon diagnostic… Voici la partie 2 de Deux ans plus ta
 banner : /assets/images/partie2/article-mini.png
 banner_large : /assets/images/partie2/article.png
 type: Roman graphique
+resum: Lors de mon dernier rendez-vous, le gynécologue me diagnostique une endométriose qui est une maladie gynécologique chronique. Les quelques jour après ce rendez-vous sont étranges. J'ai du mal à réaliser ce que cela signifie mais je sais que cela va changer ma vie.
 ---
 
 <div class="graph">
