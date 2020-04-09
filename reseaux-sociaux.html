@@ -6,8 +6,9 @@ layout: default
       <div class="row">
         {% assign image_files = site.static_files | where: "reseaux", true %}
         {% for myimage in image_files %}
-          <div class="col-lg-5">
-            <img src="{{ myimage.path }}" class="img-fluid" title="{{ myimage.basename }}">
+        {% assign img_data = site.data.images[myimage.basename] %}
+          <div class="col-lg-6">
+            <img src="{{ myimage.path }}" class="img-fluid reseaux" title="{{ img_data.title }}" alt='{{ img_data.alt }}'>
           </div>
         {% endfor %}
       </div>

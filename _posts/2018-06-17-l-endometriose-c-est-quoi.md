@@ -5,53 +5,71 @@ title: L'endométriose c'est quoi&nbsp;?
 categories:
   - article
 image: /assets/images/articles/c-est-quoi/endo.svg
-og_image: /assets/images/articles/c-est-quoi/fb.png
+og_image: /assets/images/articles/c-est-quoi/fb-c-est-quoi.png
 og_description: Je suis une statistique. Cette femme sur dix qui a de l’endométriose. Je suis ce qu’on appelle une endo-girl. Quand j’ai appris que j’avais cette maladie chronique j’ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors j'ai décidé d'expliquer cette maladie intime qu’est l’endométriose.
 excerpt: Je suis une statistique. Cette femme sur dix qui a de l'endométriose. Je suis ce qu'on appelle une endo-girl. Quand j'ai appris que j'avais cette maladie chronique j'ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors pour expliquer cette maladie intime qu'est l'endométriose, regardons d'abord comment fonctionnent l'utérus et l'endomètre.
-og_twitter_img : /assets/images/articles/twitt.png
-banner: /assets/images/articles/c-est-quoi/article-mini.png
-banner_large: /assets/images/articles/c-est-quoi/article.png
+og_twitter_img : /assets/images/articles/twitt-c-est-quoi.png
 type: Article
 ---
-Je suis une statistique. Cette femme sur dix qui a de l'endométriose. Je suis ce qu'on appelle une [*endo-girl*](/histoire/2018/03/22/partie-1-le-deni.html "BD Endonymous partie 1 le déni"). Quand j'ai appris que j'avais cette maladie chronique j'ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors pour expliquer cette maladie intime qu'est l'endométriose, regardons d'abord comment fonctionnent l'utérus et l'endomètre.
+Je suis une statistique. Cette femme sur dix qui a de [l'endométriose](https://cycliques.fr/savoir/endometriose.html). Je suis ce qu'on appelle une [*endo-girl*](/histoire/2018/03/22/partie-1-le-deni.html "BD Endonymous partie 1 le déni"). Quand j'ai appris que j'avais cette maladie chronique j'ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors pour expliquer cette maladie intime qu'est l'endométriose, regardons d'abord comment fonctionnent l'utérus et l'endomètre.
 
-**L'endomètre**, c'est la muqueuse interne de l'utérus. Suivant le cycle menstruel – et donc les hormones associées – cette muqueuse va s'épaissir dans le but d'accueillir un embryon. En fin de cycle, quand il n'y a pas eu de fécondation, l'endomètre épaissi se désagrège : ce sont les **règles**. Bon ça c'est le fonctionnement normal du cycle menstruel, l'endomètre est bien à sa place dans l'utérus et les règles à la fin d'un cycle ont une porte de sortie vers le vagin.
+**L'endomètre**, c'est la muqueuse interne de l'utérus. Suivant le cycle menstruel – et donc les hormones associées – cette muqueuse va s'épaissir dans le but d'accueillir un embryon. En fin de cycle, quand il n'y a pas eu de fécondation, l'endomètre épaissi se désagrège : ce sont les **règles**. Bon ça c'est le fonctionnement normal du [cycle menstruel](https://cycliques.fr/savoir/cyclemenstruel.html), l'endomètre est bien à sa place dans l'utérus et les règles à la fin d'un cycle ont une porte de sortie vers le vagin.
 
-Pour certaines femmes en revanche, on retrouve des cellules semblables à de l'endomètre et de se comportant comme telles **en dehors de la cavité utérine** : trompes, ovaires, extérieur de l'utérus, système digestif, système urinaire,... Les lésions se situent généralement sur les organes situés dans le péritoine, c'est-à-dire dans le ventre, mais peuvent dans de rares cas être présentes sur les poumons, le cerveau,… C'est ça **l'endométriose**.
+<div>
+  <figure class="bigschema">
+    <img src="/assets/images/articles/c-est-quoi/uterus.png" alt="uterus intérieur endométre myomètre vagin schema coupe frontale" title="Coupe frontal d'un uterus avec l'endométre et le myomètre" class="img-fluid">
+    <figcaption><h5>Coupe frontale utérus</h5></figcaption>
+  </figure>
+</div>
 
-L'endomètre qui réagit en fonction des hormones va donc s'épaissir pendant le cycle, de même que ce tissu semblable à de l'endomètre situé dans des endroits anormaux dans le cas de l'endométriose. Ces lésions qui gonflent vont créer des **réactions inflammatoires**, entrainant douleurs et adhérences, voilà pourquoi la plupart des douleurs ont lieu pendant les règles.
+Pour certaines femmes en revanche, on retrouve des cellules semblables à de l'endomètre et de se comportant comme telles **en dehors de la cavité utérine** : trompes, ovaires, extérieur de l'utérus, système digestif, système urinaire,... Les lésions se situent généralement sur les organes situés dans le péritoine, c'est-à-dire dans le ventre, mais peuvent dans de rares cas être présentes sur les poumons, le cerveau,… C'est ça [l'endométriose](https://cycliques.fr/savoir/endometriose.html).
+
+L'endomètre qui réagit en fonction des hormones va donc s'épaissir pendant le cycle, de même que ce tissu semblable à de l'endomètre situé dans des endroits anormaux dans le cas de l'endométriose. Ces lésions qui gonflent vont créer des [réactions inflammatoires](https://cycliques.fr/savoir/adherences.html), entrainant douleurs et [adhérences](https://cycliques.fr/savoir/adherences.html), voilà pourquoi la plupart des douleurs ont lieu pendant les règles.
 
 ## Les stades
 On classe l’endométriose en **cinq stades** qui sont calculés en fonction de la localisation des **lésions et adhérences** ainsi qu'en fonction de leur extension en taille et en profondeur.
+<div>
+    <figure class="bigschema">
+      <img src="/assets/images/articles/c-est-quoi/normal.png" alt="anatomie vue dos utérus vessie rectum ovaires trompes" title="Anatomie vue de dos de l'utérus, de la vessie et du rectum" class="img-fluid">
+      <figcaption><h5>Anatomie vue de dos de l'utérus, de la vessie et du rectum</h5></figcaption>
+    </figure>
+    <figure class="schema">
+      <img src="/assets/images/articles/c-est-quoi/stade1.png" alt="stade 1 endométriose lésions superficielles" title="Stade 1 : endométriose minime" class="img-fluid">
+      <figcaption><h5>Stade 1 : endométriose minime.</h5> Présence de lésions légères isolées.</figcaption>
+    </figure>
+    <figure class="schema">
+      <img src="/assets/images/articles/c-est-quoi/stade2.png" title="Stade 2 : endométriose légère" alt="Stade 2 endométriose légère lésions superficielles" class="img-fluid">
+      <figcaption><h5>Stade 2 : endométriose légère.</h5> Présence de lésions légères.</figcaption>
+    </figure>
+    <figure class="schema">
+      <img src="/assets/images/articles/c-est-quoi/stade3.png" title="Stade 3 : endométriose modérée" alt="Stade 3 endométriose modérée lésions superficielles profondes adhérences" class="img-fluid">
+      <figcaption><h5>Stade 3 : endométriose modérée.</h5> Présence de lésions superficielles et profondes, adhérence.</figcaption>
+    </figure>
+    <figure class="schema">
+      <img src="/assets/images/articles/c-est-quoi/stade4.png" title="Stade 4 : endométriose sévère" alt="Stade 4 endométriose sévère lésions superficielles profondes adhérences endométriomes kystes sanguins" class="img-fluid">
+      <figcaption><h5>Stade 4 : endométriose sévère.</h5> Présence d'endométriomes - kystes sanguins ; lésions superficielles et profondes</figcaption>
+    </figure>
+    <figure class="schema">
+      <img src="/assets/images/articles/c-est-quoi/stade5.png" title="Stade 5 : endométriose extensive" alt="Stade 5 endométriose extensive lésions superficielles profondes pulmonaires thoraciques cérébrales" class="img-fluid">
+      <figcaption><h5>Stade 5 : endométriose extensive.</h5> Présence de lésions pulmonaires / thoracique ou de lésions cérébrales (rare)</figcaption>
+    </figure>
+</div>
 
-<!-- <figure>
-  <img src="/assets/images/articles/c-est-quoi/stade1.png" alt="stade 1" class="center middle">
-  <figcaption><h5>Stade 1 : endométriose minime.</h5> Présence de lésions légères isolées.</figcaption>
-</figure>
-<figure>
-  <img src="/assets/images/articles/c-est-quoi/stade2.png" alt="stade 2" class="center middle">
-  <figcaption><h5>Stade 2 : endométriose légère.</h5> Présence de lésions légères.</figcaption>
-</figure>
-<figure>
-  <img src="/assets/images/articles/c-est-quoi/stade3.png" alt="stade 3" class="center middle">
-  <figcaption><h5>Stade 3 : endométriose modérée.</h5> Présence de lésions superficielles et profondes, adhérence.</figcaption>
-</figure>
-<figure>
-  <img src="/assets/images/articles/c-est-quoi/stade4.png" alt="stade 4" class="center middle">
-  <figcaption><h5>Stade 4 : endométriose sévère.</h5> Présence d'endométriomes - kystes sanguins ; lésions superficielles et profondes</figcaption>
-</figure>
-<figure>
-  <img src="/assets/images/articles/c-est-quoi/stade5.png" alt="stade 5" class="center middle">
-  <figcaption><h5>Stade 5 : endométriose extensive.</h5> Présence de lésions pulmonaires / thoracique ou de lésions cérébrales (rare)</figcaption>
-</figure> -->
-
-Ces stades ne prennent pas en compte la douleur : même une lésion légère placée près d'un nerf par exemple pourra entraîner de très fortes douleurs. Chez certaines femmes leur endométriose de stade 1 peut être plus douloureuse qu’un stade 4 par exemple.
+<div class="big">À noter</div>
+<span class="id">Ces stades ne prennent pas en compte la douleur : même une lésion légère placée près d'un nerf par exemple pourra entraîner de très fortes douleurs. Chez certaines femmes leur endométriose de stade 1 peut être plus douloureuse qu’un stade 4 par exemple.</span>
 
 ## Et l'adénomyose ?
-Maintenant qu'on a compris l'endométriose, parlons d'Adénomyose.
+Maintenant qu'on a compris l'endométriose, parlons [d'Adénomyose](https://cycliques.fr/savoir/adenomyose.html).
 **L'adénomyose** ou l'endométriose interne désigne la présence de cellules endométriales au sein de la paroi musculaire de l'utérus, appelé **myomètre**. Près de 50% des femmes de 40 à 50 ans seraient touchées par cette affection[^affection].
 
-Ces cellules réagissent encore une fois aux hormones du cycle et entraînent des douleurs et saignements importants pendant les règles, ces saignements ne peuvent pas sortir du muscle utérin, causant des douleurs. L'adénomyose est souvent associée dans 30% des cas à la présence de **fibromes utérins** et dans 20% des cas à de **l'endométriose**,[^endometriose] autrement dit une femme souffrant d'adénomyose peut ne pas souffrir d'endométriose et inversement.
+<div>
+  <figure class="bigschema">
+    <img src="/assets/images/articles/c-est-quoi/adenomyose.png" alt="adenomyose lésions myomètre muscle utérus endométriose" title="Schéma d'utérus avec de l'adénomyose, présence de lésions d'endométriose dans le muscle utérin" class="img-fluid">
+    <figcaption><h5>Schéma d'utérus sans et avec de l'adénomyose, présence de lésions dans le muscle utérin</h5></figcaption>
+  </figure>
+</div>
+
+Ces cellules réagissent encore une fois aux hormones du cycle et entraînent des douleurs et saignements importants pendant les règles, ces saignements ne peuvent pas sortir du muscle utérin, causant des douleurs. L'adénomyose est souvent associée dans 30% des cas à la présence de **fibromes utérins** et dans 20% des cas à de **l'endométriose**,[^endometriose] autrement dit une femme souffrant d'adénomyose peut également souffrir d'endométriose mais ce n'est pas toujours le cas.
 
 ## Quelles sont les causes ?
 Après avoir étudié le fonctionnement de l'endométriose, j'ai eu très vite besoin de comprendre à quoi était due cette maladie, quelles étaient les causes.
@@ -71,6 +89,12 @@ Les chercheurs mettent en avant quelques facteurs pouvant causer la maladie, mai
 
 ### Facteurs immunitaires
 Les cellules d'endométrioses sont dysfonctionnelles, de ce fait comment ces cellules parviennent à échapper au système d'**immuno-surveillance** du corps ? Dans les cas de femmes touchées par l'endométriose un déséquilibre est observé avec une **activité réduite** de certains **lymphocytes T** - globules blancs impliqués dans l'immunité à médiation cellulaire - ainsi que la sécrétion par les cellules d'endométriose d'une enzyme **inhibant la phagocytose** - phénomène de destruction aidant à la défense de l'organisme - par les macrophages péritonéaux - cellules du système immunitaire présentes dans le péritoine[^immu].
+
+<div>
+  <figure class="schema">
+    <img src="/assets/images/articles/c-est-quoi/roundhop.png" class="img-fluid">
+  </figure>
+</div>
 
 ### Facteurs environnementaux
 Perturbateurs endocriniens, pollution, produits chimiques,… autant de causes qui pourraient expliquer un dysfonctionnement dans l'organisme des femmes atteintes d'endométriose. Par exemple le cas de la **dioxine** - toxine présente dans les tampons - a été soulevé mais rien de probant n'a pu mettre en cause cette toxine. On pourrait néanmoins soupçonner **l'impact de certaines expositions chimiques** sur l'intégrité génétique.

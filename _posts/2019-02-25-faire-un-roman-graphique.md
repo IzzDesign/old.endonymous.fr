@@ -5,11 +5,9 @@ title: Une BD sur l'endométriose
 categories:
   - article
 image: /assets/images/articles/bd/bd.svg
-og_image: /assets/images/articles/symptomes/fblien.png
+og_image: /assets/images/articles/symptomes/fb-bd.png
 og_description: Si vous vous demandez comment se passe le processus de création de mon roman graphique, Deux ans plus tard, sur l'endométriose.
-og_twitter_img : /assets/images/bd/articles/twitt.png
-banner: /assets/images/articles/bd/article-mini.png
-banner_large: /assets/images/articles/bd/article.png
+og_twitter_img : /assets/images/bd/articles/twitt-bd.png
 excerpt: En avril 2016, on me diagnostiquait une endométriose de stade 4. Je pensais alors pouvoir être prise en charge et en finir avec cette errance médicale que je vivais depuis des années, mais malheureusement ce n'était que le début d'une longue galère, de beaucoup de douleurs et de désillusions notamment envers le monde médical.
 type: Article
 ---

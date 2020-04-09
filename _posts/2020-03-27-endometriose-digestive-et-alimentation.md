@@ -5,12 +5,10 @@ title: Endométriose, changer son alimentation&nbsp;?
 categories:
   - article
 image: /assets/images/articles/divers/alimentation.svg
-og_image: /assets/images/articles/symptomes/fblien.png
+og_image: /assets/images/articles/symptomes/fb-alimentation.png
 og_description: Sans être un remède miracle, contrôler son alimentation et éviter certains aliments inflammatoires peuvent grandement aider à soulager vos troubles digestifs et diminuer l'inflammation chronique causée par l'endométriose, peut-être une nouvelle motivation pour renoncer à la «petite» fondue du Nouvel an ou au super croissant du dimanche matin ?
 excerpt: Sans être un remède miracle, contrôler son alimentation et éviter certains aliments inflammatoires peuvent grandement aider à soulager vos troubles digestifs et diminuer l'inflammation chronique causée par l'endométriose, peut-être une nouvelle motivation pour renoncer à la «petite» fondue du Nouvel an ou au super croissant du dimanche matin ?
-og_twitter_img : /assets/images/articles/twitt.png
-banner: /assets/images/articles/divers/alimentation-mini.png
-banner_large: /assets/images/articles/divers/alimentation.png
+og_twitter_img : /assets/images/articles/twitt-alimentation.png
 type: Article
 ---
 ## Les symptômes de l'endométriose digestive
@@ -38,8 +36,10 @@ Pour ma propre expérience, je suis allée voir une **diéteticienne et naturopa
 - Avoir quelques journées sans laitages et/ou gluten particulièrement lors des règles
 - Favoriser les fruits et légumes
  
-Il ne s'agit ici que d'une liste simplifiée et il faudra aussi faire vos propres tests. Nous ne réagissons pas tous de la même manière aux aliments que nous ingérons, écoutez-vous et si vous le pouvez, noter ce que vous mangez et vos sensations. Si vous avez la possibilité d’aller voir un diététicien je vous le conseille, il pourra vous accompagner durant ce processus et vous aider à trouver des plats en accord avec cette nouvelle alimentation.
-Il peut être également intéressant de lancer une **prise de note** de vos repas et vos **symptômes associés** (maux de ventre, constipation, douleurs, diarrhées,…) 
+Il ne s'agit ici que d'une liste simplifiée et il faudra aussi faire vos propres tests. Nous ne réagissons pas tous de la même manière aux aliments que nous ingérons, écoutez-vous et si vous le pouvez, notez ce que vous mangez et vos sensations. Si vous avez la possibilité d’aller voir un diététicien je vous le conseille, il pourra vous accompagner durant ce processus et vous aider à trouver des plats en accord avec cette nouvelle alimentation.
+
+<div class="big">Idée</div>
+<span class="id">Il peut être également intéressant de lancer une **prise de note** de vos repas et vos **symptômes associés** : maux de ventre, constipation, douleurs, diarrhées,…</span> 
 
 ### Mon expérience
 Pour mon expérience personnelle, j'ai eu la possibilité de faire des changements petit à petit sur quelques années car tout faire d'un coup me semblait insurmontable. En intégrant ces changements à mon rythme, ils ont commencé à faire partie de mon quotidien et il me semblait ensuite plus facile d'intégrer le changement suivant.

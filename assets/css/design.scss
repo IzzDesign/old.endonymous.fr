@@ -23,7 +23,7 @@ body, .container{
   font-family: $font-family;
 }
 
-.row{margin-right: 0;}
+.row{margin-right: 0; margin-left: 0;}
 
 .default{
   min-width: 100%;
@@ -39,7 +39,21 @@ body, .container{
 }
 
 h2,h3,h4, p.strong, span.button, .navbar-brand, .nav-item, .banner{font-family: $font-title;font-variant-caps: small-caps;}
-a, a:hover, a:focus{color: $gray-3;text-decoration: none;}
+h2{color:$gray-3;border-bottom: 0.08em solid $gray-3; margin-bottom: 1em;}
+h3{text-indent: 1em;margin-top: 0.5em;}
+h4{margin-top:0.5em;text-indent: 2.5em; color: $gray-3; text-decoration: underline;}
+a{
+  color: $gray-3;
+  text-decoration: underline;
+  font-weight: 700;
+  &:hover, &:focus{color: $maincolor;}
+}
+
+.none, .button, .cta, .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link{
+  text-decoration: none;
+  font-weight: 300;
+  &:hover, &:focus{color: inherit;text-decoration: none;}
+}
 
 .h1{
   text-align: center;
@@ -61,9 +75,11 @@ a, a:hover, a:focus{color: $gray-3;text-decoration: none;}
     font-size: 1.5em;
     transform: rotate(-5deg);
     font-variant-caps: normal;
+    border-bottom: none;
   }
 }
 
+.margintop{margin-top: 2.3em;}
 .title{
   font-family: $cursive;
   font-size: 1.5em;
@@ -89,6 +105,7 @@ a, a:hover, a:focus{color: $gray-3;text-decoration: none;}
   top: 100px;
   height: 100%;
   line-height: 1;
+  img{width: 80%;}
 }
 
 .cta{
@@ -190,9 +207,10 @@ form{
 .info{
   font-family:"helsinkiregular", sans-serif;
   font-size: 1.5em;
+  margin:0 auto;
+  img{max-width: 300px; display: block;margin: 0 auto;}
 }
-.error{color: red;display: none;}
-.success{color:green;display: none;}
+
 form:focus{
   border-color: #ffbd80;
   box-shadow :0 0 0 0.05rem #ffbd80;
@@ -201,7 +219,7 @@ form:focus{
 .minimum{min-height: calc(100vh - 70px);}
 #contactform{margin-top: 2em;}
 
-input[type="text"], input[type="search"], input[type="submit"], .button{
+input[type="text"], input[type="search"], .button{
   padding: 0.7em 1.5em;
   max-width: 600px;
 }
@@ -219,6 +237,50 @@ footer{min-height: 3em; text-align: center;padding:1em;margin-top: 1em;}
   margin:0.4em 0;
   }
 }
+figure.schema, figure.bigschema{margin:0 0 1em 0;}
+figure.schema{
+  img{width: 400px; border-radius: 0px;background-color: transparent;}
+}
+figure.bigschema img{width: 600px;border-radius: 0px;background-color: transparent;}
+.reseaux{margin-bottom: 1em;}
+div.big{
+  font-size: 1.5em;
+  font-family: $font-title;
+  text-align: center;
+  width: 100%;
+  margin-top: 1em;
+  &:before{
+    content: url('/assets/images/note.svg');
+    display: block;
+    max-width: 100px;
+    margin: 0 auto;
+  }
+}
+span.id{
+  display: block;
+  text-align: center;
+  font-size: 1.2em;
+  margin-bottom: 1.5em;
+  &:after{
+    border-bottom: dotted 4px;
+    width: 50%;
+    content: "";
+    display: block;
+    margin:auto;
+    margin-top: 0.5em;
+  }
+}
+
+ul.sommaire{
+  list-style: none;
+  li{
+  font-weight: 700;
+  font-size: 1.2em;
+  text-decoration:underline;
+  margin-bottom: 0.5em;
+  a:hover{color: $maincolor;}
+  }
+}
 
 .animate{
   position: relative;
@@ -227,12 +289,49 @@ footer{min-height: 3em; text-align: center;padding:1em;margin-top: 1em;}
   &:hover{bottom: 3px;}
 }
 
+.modal-content{
+  h5, button{font-family: $font-title;}
+  button{border:none;}
+  button:hover{background-color: $maincolor; border:none;}
+}
+
+.message{
+  display: flex;
+  flex-direction: column;
+  align-items:center;
+  p{font-family: $font-comic;font-size: 1.6em; text-align: center; width: 60%; margin-top: 1em;}
+}
+
+@media screen and (max-width: 500px) {
+  p.title{font-size: 1.2em;}
+}
+
 @media screen and (max-width: 800px) {
+    .h1{
+    h1{
+    font-size: 0.8em;
+    }
+    span{
+    font-size: 0.4em;
+    }
+    h2.endo{
+      font-size: 1em;
+    }
+  }
+  p.title{margin-top: 0.8em;}
+}
+
+@media screen and (max-width: 1300px) {
   .sidebar{
   width: auto;
   position: inherit;
   height: auto;
   margin-top: 3em;
   }
-  .content{width: auto;position: inherit; margin-top: 1em;}
+  .h1{
+  h1{
+  margin-top: 1em;
+  }
+}
+  .content{width: auto;position: inherit; margin: 0 auto; margin-top: 1em;}
 }
