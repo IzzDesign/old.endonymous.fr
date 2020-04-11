@@ -11,6 +11,8 @@ layout: default
                 <span>{{ p.type }}</span>
                 <img src="{{ p.image }}">
                 <h3>{{ p.title }}</h3>
+                {% include date.html %}
+                <span class="date">{{ date_french }}</span>
                 <p>{{ p.excerpt }}</p>
                 <span class="button">Lire</span>
               </figure>

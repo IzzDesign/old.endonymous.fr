@@ -53,6 +53,10 @@ layout: default
           <figure>
            <img src="{{ page.image }}">
             <h3>{{ page.title }}</h3>
+            {% assign date_format = site.minima.date_format | default: "%-d %b %Y" %}
+            {% assign date_english = page.date | date: date_format %}
+            {% include date-french.html %}
+            <span class="date">{{ date_french }}</span>
             <p>{{ page.excerpt }}</p>
          </figure>
          {{ content }}
