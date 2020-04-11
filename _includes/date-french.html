@@ -8,19 +8,19 @@
 
     {% comment %} Convert days {% endcomment %}
     {% when "Monday" %}
-      {% assign date_french = date_french | append: "lundi" %}
+      {% assign date_french = date_french | append: "Lundi" %}
     {% when "Tuesday" %}
-      {% assign date_french = date_french | append: "mardi" %}
+      {% assign date_french = date_french | append: "Mardi" %}
     {% when "Wednesday" %}
       {% assign date_french = date_french | append: "Mercredi" %}
     {% when "Thursday" %}
-      {% assign date_french = date_french | append: "jeudi" %}
+      {% assign date_french = date_french | append: "Jeudi" %}
     {% when "Friday" %}
-      {% assign date_french = date_french | append: "vendredi" %}
+      {% assign date_french = date_french | append: "Vendredi" %}
     {% when "Saturday" %}
-      {% assign date_french = date_french | append: "samedi" %}
+      {% assign date_french = date_french | append: "Samedi" %}
     {% when "Sunday" %}
-      {% assign date_french = date_french | append: "dimanche" %}
+      {% assign date_french = date_french | append: "Dimanche" %}
 
     {% comment %} Convert days in short notation {% endcomment %}
     {% when "Mon" %}
@@ -42,7 +42,7 @@
     {% when "January" %}
       {% assign date_french = date_french | append: "janvier" %}
     {% when "February" %}
-      {% assign date_french = date_french | append: "fevrier" %}
+      {% assign date_french = date_french | append: "février" %}
     {% when "March" %}
       {% assign date_french = date_french | append: "mars" %}
     {% when "April" %}
@@ -66,29 +66,29 @@
 
     {% comment %} Convert months in short notation {% endcomment %}
     {% when "Jan" %}
-      {% assign date_french = date_french | append: "janv" %}
+      {% assign date_french = date_french | append: "janv." %}
     {% when "Feb" %}
-      {% assign date_french = date_french | append: "fevr" %}
+      {% assign date_french = date_french | append: "févr;" %}
     {% when "Mar" %}
       {% assign date_french = date_french | append: "mars" %}
     {% when "Apr" %}
-      {% assign date_french = date_french | append: "avr" %}
+      {% assign date_french = date_french | append: "avr." %}
     {% when "May" %}
       {% assign date_french = date_french | append: "mai" %}
     {% when "Jun" %}
       {% assign date_french = date_french | append: "juin" %}
     {% when "Jul" %}
-      {% assign date_french = date_french | append: "juil" %}
+      {% assign date_french = date_french | append: "juil." %}
     {% when "Aug" %}
       {% assign date_french = date_french | append: "août" %}
     {% when "Sept" %}
-      {% assign date_french = date_french | append: "sept" %}
+      {% assign date_french = date_french | append: "sept." %}
     {% when "Oct" %}
-      {% assign date_french = date_french | append: "oct" %}
+      {% assign date_french = date_french | append: "oct." %}
     {% when "Nov" %}
-      {% assign date_french = date_french | append: "nov" %}
+      {% assign date_french = date_french | append: "nov." %}
     {% when "Dec" %}
-      {% assign date_french = date_french | append: "déc" %}
+      {% assign date_french = date_french | append: "déc." %}
 
     {% else %}
       {% assign date_french = date_french | append: word %}
