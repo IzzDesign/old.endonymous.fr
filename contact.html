@@ -58,7 +58,6 @@ has_loaded_jquery: true
 <script>
   $(document).ready(function() {
     $("#contactform").submit(function (e) {
-      $('#infocontact').modal('show')
       e.preventDefault(); // avoid to execute the actual submit of the form.
       $("#infocontact .success").hide();
       $("#infocontact .error").hide();
@@ -72,10 +71,12 @@ has_loaded_jquery: true
         crossDomain: true,
         data: form.serialize(), // serializes the form's elements.
         success: function (data) {
+          $('#infocontact').modal('show');
           console.log('Form success', data);
           $("#infocontact .success").show(200);
         },
         error: function (xhr, status, c) {
+          $('#infocontact').modal('show');
           console.log(xhr.responseText);
           console.log('Form error', xhr, '####', status, '####', c);
           $("#infocontact .error").show(200);
