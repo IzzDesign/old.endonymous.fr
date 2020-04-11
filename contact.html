@@ -2,6 +2,7 @@
 layout: default
 title: Blog BD
 og_description: Deux ans plus tard est un roman graphique autobiographique sur l'endométriose.
+has_loaded_jquery: true
 ---
 {% include sidebar.html %}
     <div class="content minimum">
@@ -22,7 +23,7 @@ og_description: Deux ans plus tard est un roman graphique autobiographique sur l
         <input type="text" name="_subject" id="titre" value="" />
         <label for="message">Message :</label>
         <textarea id="message" name="message" tabindex="4" rows="15"></textarea>
-        <input type="submit" value="Envoyer" class="cta" data-toggle="modal" data-target="#infocontact">
+        <input type="submit" value="Envoyer" class="cta">
       </form>
       <div class="modal fade" id="infocontact" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
@@ -44,7 +45,7 @@ og_description: Deux ans plus tard est un roman graphique autobiographique sur l
               </div>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+              <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#infocontact">Fermer</button>
             </div>
           </div>
         </div>
@@ -57,10 +58,10 @@ og_description: Deux ans plus tard est un roman graphique autobiographique sur l
 <script>
   $(document).ready(function() {
     $("#contactform").submit(function (e) {
-
+      $('#infocontact').modal('show')
       e.preventDefault(); // avoid to execute the actual submit of the form.
-      $("#contactform .success").hide();
-      $("#contactform .error").hide();
+      $("#infocontact .success").hide();
+      $("#infocontact .error").hide();
 
       var form = $(this);
       var url = form.attr('action');
@@ -72,12 +73,12 @@ og_description: Deux ans plus tard est un roman graphique autobiographique sur l
         data: form.serialize(), // serializes the form's elements.
         success: function (data) {
           console.log('Form success', data);
-          $("#contactform .success").show(200);
+          $("#infocontact .success").show(200);
         },
         error: function (xhr, status, c) {
           console.log(xhr.responseText);
           console.log('Form error', xhr, '####', status, '####', c);
-          $("#contactform .error").show(200);
+          $("#infocontact .error").show(200);
         }
       });
     });
