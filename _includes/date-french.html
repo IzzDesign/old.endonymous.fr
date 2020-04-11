@@ -38,32 +38,6 @@
     {% when "Sun" %}
       {% assign date_french = date_french | append: "dim" %}
 
-    {% comment %} Convert months {% endcomment %}
-    {% when "January" %}
-      {% assign date_french = date_french | append: "janvier" %}
-    {% when "February" %}
-      {% assign date_french = date_french | append: "février" %}
-    {% when "March" %}
-      {% assign date_french = date_french | append: "mars" %}
-    {% when "April" %}
-      {% assign date_french = date_french | append: "avril" %}
-    {% when "May" %}
-      {% assign date_french = date_french | append: "mai" %}
-    {% when "June" %}
-      {% assign date_french = date_french | append: "juin" %}
-    {% when "July" %}
-      {% assign date_french = date_french | append: "juillet" %}
-    {% when "August" %}
-      {% assign date_french = date_french | append: "août" %}
-    {% when "September" %}
-      {% assign date_french = date_french | append: "septembre" %}
-    {% when "October" %}
-      {% assign date_french = date_french | append: "octobre" %}
-    {% when "November" %}
-      {% assign date_french = date_french | append: "novembre" %}
-    {% when "December" %}
-      {% assign date_french = date_french | append: "décembre" %}
-
     {% comment %} Convert months in short notation {% endcomment %}
     {% when "Jan" %}
       {% assign date_french = date_french | append: "janv." %}

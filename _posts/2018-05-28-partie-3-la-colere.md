@@ -15,7 +15,7 @@ redirect_from:
   - /histoire/2018/05/28/partie-3-la-colere.html
 ---
 <div>
-    <img class="img-fluid"src="/assets/images/partie3/03- (1).png" alt="">
+    <img class="img-fluid" src="/assets/images/partie3/03- (1).png" alt="">
     <img class="img-fluid" src="/assets/images/partie3/03- (2).png" alt="">
     <img class="img-fluid" src="/assets/images/partie3/03- (3).png" alt="">
     <img class="img-fluid" src="/assets/images/partie3/03- (4).png" alt="">
