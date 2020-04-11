@@ -1,25 +1,25 @@
 ---
-layout: page
+layout: default
 ---
-
-{% unless page.content == '' %}
-  {{ content }}
-{% endunless %}
-
-  {% assign category = page.category | default: page.title %}
-  {% for post in site.categories[category] %}
-  <article class="post-body">
-    <a href="{{ site.baseurl }}{{ post.url }}">
-      <figure class="overlay">
-        <img src="{% if forloop.first %}{{ post.banner_large }}{% else %}{{ post.banner }}{% endif %}">
-      </figure>
-    </a>
-    <figcaption>
-      <h2 class="post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </h2>
-    </figcaption>
-  </article>
-  {% endfor %}
+{% include sidebar.html %}
+    <div class="content minimum">
+      {% for p in site.posts %}
+        {% if p.categories contains page.category %}
+          <div class="col-lg-10 offset-lg-1 col-md-12">
+            <a href="{{ p.url }}" class="none">
+              <figure>
+                <span>{{ p.type }}</span>
+                <img src="{{ p.image }}">
+                <h3>{{ p.title }}</h3>
+                {% include date.html %}
+                <span class="date">{{ date_french }}</span>
+                <p>{{ p.excerpt }}</p>
+                <span class="button">Lire</span>
+              </figure>
+            </a>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

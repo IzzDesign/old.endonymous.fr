@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Endonymous
-tagline:          "Deux ans plus tard"
+tagline:          "Le roman graphique qui parle d'endométriose"
 
 description:      "Deux ans plus tard est un roman graphique autobiographique sur l'endométriose."
 url:              http://endonymous.fr
@@ -40,3 +40,9 @@ github:
   repo:             https://github.com/IzzDesign/endonymous.fr/
 disqus:
   shortname: endonymous
+
+defaults:
+  - scope:
+      path: "assets/images/reseaux"
+    values:
+      reseaux: true

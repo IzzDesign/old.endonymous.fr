@@ -4,17 +4,13 @@ subtitle: Faire un roman graphique
 title: Une BD sur l'endométriose
 categories:
   - article
-og_image: /assets/images/articles/symptomes/fblien.png
+image: /assets/images/articles/bd/bd.svg
+og_image: /assets/images/articles/symptomes/fb-bd.png
 og_description: Si vous vous demandez comment se passe le processus de création de mon roman graphique, Deux ans plus tard, sur l'endométriose.
-og_twitter_img : /assets/images/bd/articles/twitt.png
-banner: /assets/images/articles/bd/article-mini.png
-banner_large: /assets/images/articles/bd/article.png
+og_twitter_img : /assets/images/bd/articles/twitt-bd.png
 excerpt: En avril 2016, on me diagnostiquait une endométriose de stade 4. Je pensais alors pouvoir être prise en charge et en finir avec cette errance médicale que je vivais depuis des années, mais malheureusement ce n'était que le début d'une longue galère, de beaucoup de douleurs et de désillusions notamment envers le monde médical.
 type: Article
 ---
-<div>
-    {% include bandeau.html %}
-</div>
 En avril 2016, on me diagnostiquait une **endométriose de stade 4.** Je pensais alors pouvoir être prise en charge et en finir avec cette errance médicale que je vivais depuis des années, mais malheureusement ce n'était que le début d'une longue galère, de **beaucoup de douleurs et de désillusions** notamment envers le monde médical.
 
 En août 2017, inspirée par de nombreux blogs d'endogirls, me vient alors l'idée de raconter mon parcours, et d'alarmer sur la mauvaise prise en charge de cette maladie chronique qui touche une femme sur dix. Graphiste de formation, passer par **le dessin et la bande-dessinée** pour m'exprimer était pour moi une évidence.
@@ -25,7 +21,7 @@ L'envie de créer un roman graphique germe encore quelques mois dans mon cerveau
 Au commencement, c'est le **story-board**, que ça soit clair cette partie n'est pas faite pour être jolie, c'est un brouillon. J'écris les textes et les dialogues et je gribouille des bonhommes bâtons pour avoir une idée de la présentation.
 Je n'hésite pas à raturer, rajouter des choses, en changer, c'est le moment où tout est possible !
 
-<div class="reseaux">
+<div class="articles-img">
     <img src="/assets/images/articles/bd/img1.png" alt="scenario" class="center">
     <img src="/assets/images/articles/bd/img2.png" alt="scenario" class="center">
 </div>
@@ -37,7 +33,7 @@ Dans cette partie du processus de création je raconte d'abord mon histoire, je 
 Je laisse généralement un peu de temps passer entre le scénario et le recopiage, pour pouvoir me laisser le temps de prendre du recul ou d'avoir d'autres idées rigolotes.
 Une fois ce temps passé, je **recopie mes idées** développées dans le story-board au propre. C'est le moment où j'essaye de m'appliquer un peu plus sur les dessins, que je corrige les fautes et que je vérifie si mon histoire est compréhensible.
 
-<div class="reseaux">
+<div class="articles-img">
     <img src="/assets/images/articles/bd/1.png" alt="dessin" class="center">
     <img src="/assets/images/articles/bd/2.png" alt="dessin" class="center">
     <img src="/assets/images/articles/bd/3.png" alt="dessin" class="center">
@@ -51,10 +47,10 @@ Je rajoute souvent des dessins ou des explications au moment du recopiage au pro
 Une fois le recopiage terminé, je scanne mes dessins qui vont me servir de modèle pour la **version numérique**. Je rajoute les couleurs et les dialogues.
 Je vous mets des petites animations pour vous rendre compte du chemin parcouru du scénario à la numérisation, impressionnant non ?
 
-<img src="/assets/images/articles/bd/animation-bd.gif" alt="dessin" class="center">
+<img src="/assets/images/articles/bd/animation-bd.gif" alt="dessin" class="img-fluid">
 
 Je décalque tout simplement mes dessins sur l'ordinateur, pour celles et ceux que ça intéresse j'utilise le logiciel [Affinity Designer](https://affinity.serif.com/fr/designer/) !
-<img src="/assets/images/articles/bd/animation-bd2.gif" alt="dessin" class="center">
+<img src="/assets/images/articles/bd/animation-bd2.gif" alt="dessin" class="img-fluid">
 
 Lors de cette étape, il m'arrive encore de rajouter des passages, des explications ou des petits sketchs, par exemple pour la partie 5, j'ai rajouté dix pages d'histoire en plus !
 

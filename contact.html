@@ -1,37 +1,57 @@
 ---
-layout: page
-title: Contact
-sidebar_link: true
+layout: default
+title: Blog BD
+og_description: Deux ans plus tard est un roman graphique autobiographique sur l'endométriose.
+has_loaded_jquery: true
 ---
-<div class="content">
-  <form action="https://neamar.fr/email.php" accept-charset="utf-8" onsubmit="document.getElementById('protection').value = 2" method="POST" id="contactform">
-    <div class="top">
-      <div class="inside">
-        <label for="nom">Nom :</label>
-        <input type="text" id="nom" name="nom" tabindex="1" />
+{% include sidebar.html %}
+    <div class="content minimum">
+      <h3>Formulaire de contact</h3>
+      <form action="https://neamar.fr/email.php" accept-charset="utf-8" onsubmit="document.getElementById('protection').value = 2" method="POST" id="contactform">
+        <div class="top">
+          <div class="inside">
+            <label for="nom">Nom :</label>
+            <input type="text" id="nom" name="nom" tabindex="1" />
+          </div>
+          <div class="inside">
+            <label for="mail">Email :</label>
+            <input type="text" id="email" name="_replyto" id="mail" autofocus required/>
+            <input type="hidden" name="_to" value="contact@endonymous.fr" />
+            <input type="hidden" name="protection" id="protection" value="1" />
+          </div>
+        </div>
+        <label for="titre">Titre :</label>
+        <input type="text" name="_subject" id="titre" value="" />
+        <label for="message">Message :</label>
+        <textarea id="message" name="message" tabindex="4" rows="15"></textarea>
+        <input type="submit" value="Envoyer" class="cta">
+      </form>
+      <div class="modal fade" id="infocontact" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLongTitle">Rapport d'envoi</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body ">
+              <div class="info success text-center">
+                <img src="/assets/images/articles/c-est-quoi/endo.svg">
+                Votre message a bien été envoyé !
+              </div>
+              <div class="info error text-center">
+                <img src="/assets/images/articles/symptomes/symptomes.svg">
+                Une erreur s'est produite.
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#infocontact">Fermer</button>
+            </div>
+          </div>
+        </div>
       </div>
-      <div class="inside">
-        <label for="mail">Email :</label>
-        <input type="text" id="email" name="_replyto" id="mail" autofocus required/>
-        <input type="hidden" name="_to" value="contact@endonymous.fr" />
-        <input type="hidden" name="protection" id="protection" value="1" />
-      </div>
     </div>
-    <label for="titre">Titre :</label>
-    <input type="text" name="_subject" id="titre" value="" />
-    <label for="message">Message :</label>
-    <textarea id="message" name="message" tabindex="4" rows="10"></textarea>
-    <input type="submit" value="Envoyer" class="animate button">
-    <div class="info success">
-      Votre message a bien été envoyé
-    </div>
-    <div class="info error">
-      Une erreur s'est produite.
-    </div>
-  </form>
-
-  <div class="contact">
-    {% include mailchimp.html %}
   </div>
 </div>
 
@@ -39,10 +59,9 @@ sidebar_link: true
 <script>
   $(document).ready(function() {
     $("#contactform").submit(function (e) {
-
       e.preventDefault(); // avoid to execute the actual submit of the form.
-      $("#contactform .success").hide();
-      $("#contactform .error").hide();
+      $("#infocontact .success").hide();
+      $("#infocontact .error").hide();
 
       var form = $(this);
       var url = form.attr('action');
@@ -53,13 +72,15 @@ sidebar_link: true
         crossDomain: true,
         data: form.serialize(), // serializes the form's elements.
         success: function (data) {
+          $('#infocontact').modal('show');
           console.log('Form success', data);
-          $("#contactform .success").show(200);
+          $("#infocontact .success").show(200);
         },
         error: function (xhr, status, c) {
+          $('#infocontact').modal('show');
           console.log(xhr.responseText);
           console.log('Form error', xhr, '####', status, '####', c);
-          $("#contactform .error").show(200);
+          $("#infocontact .error").show(200);
         }
       });
     });

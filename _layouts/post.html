@@ -1,22 +1,129 @@
 ---
 layout: default
 ---
-
-<header>
-  <img src="{{ page.banner_large }}">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <h3 class="post-title">{{ page.subtitle }}</h3>
+  <div class="banner">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 ">
+          <a href="/index.html" class="none">
+            <div class="h1">
+              <h1>Le roman graphique</h1>
+              <span>qui parle</span>
+              <h2 class="endo">d'endométriose</h2>
+            </div>
+            <img src="/assets/images/sidebar.png">
+          </a>
+        </div>
+        <div class="col-lg-4 texte">
+          <p class="title">lire la bd</p>
+          <a class="cta" href="">Lire</a>
+           <p class="title">des ateliers sur la région Lyonnaise</p>
+          <a class="cta" href="https://cycliques.fr">Cycliques.fr</a>
+          <div class="margintop">
+            {% include horizontalmailchimp.html %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </header>
-<div class="content">
-  {% include post-meta.html post=page %}
-  <div class="addthis_inline_share_toolbox"></div>
 
-  <div class="body">
-    {{ content }}
-    {% include post-tags.html post=page %}
+<div class="container">
+  <div class="row">
+      <div class="col-lg-8">
+        {% if page.categories contains 'histoire' %}
+         {% for category in page.categories %}
+            {% assign articles_by_date = site.categories[category] | sort: 'date' | reverse %}
+            {% for p in articles_by_date %}
+              {% if page.date > p.date %}
+                <div class="col-lg-10 offset-lg-1 text-center previous">
+                  <h4>Dans l'épisode précédent</h4>
+                  <p>
+                    {{ p.resum }}
+                  </p>
+                  <a href="{{ p.url }}" class="button">
+                    Pour lire la {{ p.title }}
+                  </a>
+                </div>
+                {% break %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        {% endif %}
+          <figure>
+           <img src="{{ page.image }}">
+            <h3>{{ page.title }}</h3>
+            {% assign date_format = site.minima.date_format | default: "%-d %b %Y" %}
+            {% assign date_english = page.date | date: date_format %}
+            {% include date-french.html %}
+            <span class="date">{{ date_french }}</span>
+            <p>{{ page.excerpt }}</p>
+         </figure>
+         {{ content }}
+
+          {% for category in page.categories %}
+            {% assign articles_by_date = site.categories[category] | sort: 'date' %}
+            {% for p in articles_by_date %}
+              {% if page.date < p.date %}
+                <h3>À Suivre</h3>
+                <a href="{{ p.url }}" class="none">
+                  <figure>
+                    <span>{{ p.type }}</span>
+                    <img src="{{ p.image }}">
+                    <h3>{{ p.title }}</h3>
+                    <span class="button">Lire</span>
+                  </figure>
+                </a>
+                {% break %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+         {% include profil.html %}
+      </div>
+      <div class="col-lg-4">
+        <h3>Articles liés</h3>
+        {% for category in page.categories %}
+         {% assign date_sorted = site.posts | sort: 'date' %}
+          {% for post in date_sorted %}
+            {% if post.categories contains category or post.url == '/histoire/2018/03/22/partie-1-le-deni.html' %}
+              {% if post.url != page.url %}
+                <a href="{{ post.url }}" class="none">
+                  <figure>
+                    <span>{{ post.type }}</span>
+                    <img src="{{ post.image }}">
+                    <h3>{{ post.title }}</h3>
+                    <p>{{ post.excerpt }}</p>
+                    <span class="button">Lire</span>
+                  </figure>
+                </a>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+      </div>
   </div>
 
-  {% include mailchimp.html %}
-  {% include profil.html %}
-  {% include related_posts.html %}
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="strong">Si vous avez aimé cet article, partagez-le !</div>
+      <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ab41c1099be7007"></script>
+      <div class="addthis_inline_share_toolbox_odn6"></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12">
+      <p class="strong">Inscrivez-vous à la newsletter</p>
+      <p>Et recevez la suite de <b>Deux ans plus tard.</b></p>
+      <a href="http://eepurl.com/dFxzmL" class="cta" target="_blank"> S'inscrire</a>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-12">
+      <p class="strong">Suivez les nouvelles sorties sur les réseaux sociaux !</p>
+        <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ab41c1099be7007"></script>
+        <div class="addthis_inline_follow_toolbox"></div>
+    </div>
+  </div>
 </div>
+
+{% include footer.html %}

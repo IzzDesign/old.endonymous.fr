@@ -1,0 +1,34 @@
+<nav class="navbar fixed-top navbar-light bg-light navbar-expand-xl">
+  <a class="navbar-brand none" href="/index.html">Endonymous</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item {% if page.url == '/index.html' %} active {% endif %}">
+        <a class="nav-link" href="/index.html">Accueil</a>
+      </li>
+      <li class="nav-item {% if page.url == '/category/roman-graphique.html' %} active {% endif %}">
+        <a class="nav-link" href="/category/roman-graphique.html">Roman Graphique</a>
+      </li>
+      <li class="nav-item {% if page.url == '/category/petiteshistoires.html' %} active {% endif %}">
+        <a class="nav-link" href="/category/petiteshistoires.html">Petites Histoires
+        </a>
+      </li>
+      <li class="nav-item {% if page.url == '/category/articles.html' %} active {% endif %}">
+        <a class="nav-link" href="/category/articles.html">Articles</a>
+      </li>
+      <li class="nav-item {% if page.url == '/reseaux-sociaux.html' %} active {% endif %}">
+        <a class="nav-link" href="/a-propos.html">À propos</a>
+      </li>
+      <li class="nav-item {% if page.url == '/reseaux-sociaux.html' %} active {% endif %}">
+        <a class="nav-link" href="/reseaux-sociaux.html">Réseaux sociaux</a>
+      </li>
+      <li class="nav-item {% if page.url == '/contact.html' %} active {% endif %}">
+        <a class="nav-link" href="/contact.html">Contact</a>
+      </li>
+    </ul>
+    {% include icon-links.html %}
+  </div>
+</nav>

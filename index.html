@@ -1,7 +1,25 @@
 ---
-layout: index
+layout: default
 title: Blog BD
-og_image: https://endonymous.fr/assets/images/logo.png
 og_description: Deux ans plus tard est un roman graphique autobiographique sur l'endométriose.
-og_twitter_img : https://endonymous.fr/assets/images/twitter.png
 ---
+{% include sidebar.html %}
+    <div class="content">
+      {% for p in site.posts %}
+        <div class="col-lg-10 offset-lg-1">
+          <a href="{{ p.url }}" class="none">
+            <figure>
+              <span>{{ p.type }}</span>
+              <img src="{{ p.image }}">
+              <h3>{{ p.title }}</h3>
+              {% include date.html %}
+              <span class="date">{{ date_french }}</span>
+              <p>{{ p.excerpt }}</p>
+              <span class="button">Lire</span>
+            </figure>
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
