@@ -1,13 +1,12 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      rouge
 
 # Setup
 title:            Endonymous
 tagline:          "Le roman graphique qui parle d'endométriose"
 
 description:      "Deux ans plus tard est un roman graphique autobiographique sur l'endométriose."
-url:              http://endonymous.fr
+url:              https://endonymous.fr
 
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -19,27 +18,13 @@ author:
   name:           'Isabelle Dulin'
   url:            https://twitter.com/Endonym0us
 
-paginate:         10
-# paginate_path:    '/page:num'
-                    # Or '/blog/page:num' if you want to move your index pages
+permalink: /:categories/:title:output_ext
 
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
-
-# Custom vars
-version:            3.5.3
-sidebar_home_link:  true
-# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
-                                # page. If you change your paginate_path,
-                                # set this to the root of the paginate_path
-                                # to enable a separate blog link.
-github:
-  repo:             https://github.com/IzzDesign/endonymous.fr/
-disqus:
-  shortname: endonymous
 
 defaults:
   - scope:

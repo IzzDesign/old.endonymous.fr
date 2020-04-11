@@ -11,6 +11,8 @@ og_twitter_img : https://endonymous.fr/assets/images/partie3/twitt-partie3.png
 excerpt: Après le choc, j'ai pris un peu de temps pour réfléchir à ma situation et je me suis rapidement rendu compte à quel point j'étais en colère contre mes médecins. Comment avaient-ils pu laisser passer cette maladie alors que plus de 10% des femmes sont touchées ? Voici la partie 3 de Deux ans plus tard, la colère.
 type: Roman graphique
 resum: Je passe un IRM pré-opératoire pour que le chirurgien prenne connaissance de la taille et la localisation des lésions. Je commence à comprendre plus en détail ce qu'est l'endométriose. D'après la classification utilisée par les médecins, j'apprends que j'ai un stade 4 d'endométriose donc des lésions profondes. Je commence à être en colère auprès de mes anciens médecins, leur repprochant de ne pas avoir découvert cette maladie alors que j'ai une atteinte profonde.
+redirect_from:
+  - /histoire/2018/05/28/partie-3-la-colere.html
 ---
 <div>
     <img class="img-fluid"src="/assets/images/partie3/03- (1).png" alt="">

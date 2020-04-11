@@ -10,6 +10,8 @@ og_description: Sans être un remède miracle, contrôler son alimentation et é
 excerpt: Sans être un remède miracle, contrôler son alimentation et éviter certains aliments inflammatoires peuvent grandement aider à soulager vos troubles digestifs et diminuer l'inflammation chronique causée par l'endométriose, peut-être une nouvelle motivation pour renoncer à la «petite» fondue du Nouvel an ou au super croissant du dimanche matin ?
 og_twitter_img : /assets/images/articles/twitt-alimentation.png
 type: Article
+redirect_from:
+  - /article/2020/03/27/endometriose-digestive-et-alimentation.html
 ---
 ## Les symptômes de l'endométriose digestive
 Comme mentionné dans mon article sur les [symptômes de l'endométriose](/article/2018/10/14/l-endometriose-symptomes.html), les lésions d’endométriose peuvent se retrouver sur plusieurs organes digestifs, généralement sur le rectum, le côlon (sigmoïde) et l’intestin grêle, et plus rarement sur l’appendice, le foie, la rate, l’estomac, le péritoine, …

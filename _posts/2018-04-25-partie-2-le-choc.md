@@ -11,6 +11,8 @@ og_twitter_img : http://endonymous.fr/assets/images/partie2/twitt-partie2.png
 excerpt: Ça y est, j'ai mon diagnostic… Voici la partie 2 de Deux ans plus tard, le choc.
 type: Roman graphique
 resum: Lors de mon dernier rendez-vous, le gynécologue me diagnostique une endométriose qui est une maladie gynécologique chronique. Les quelques jour après ce rendez-vous sont étranges. J'ai du mal à réaliser ce que cela signifie mais je sais que cela va changer ma vie.
+redirect_from:
+  - /histoire/2018/04/25/partie-2-le-choc.html
 ---
 
 <div>

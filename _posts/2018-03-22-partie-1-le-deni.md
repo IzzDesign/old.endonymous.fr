@@ -11,6 +11,8 @@ og_twitter_img : https://endonymous.fr/assets/images/partie1/twitt-partie1.png
 excerpt: Bonjour, je m'appelle Isa mais je me cache sous l'identité secrète d'Endonymous. Tu vois, il m'est arrivé 2-3 petites bricoles ces dernières années, et comme je sais un peu gribouiller j'ai voulu en faire une BD ! Pour la lire tu es au bon endroit, c'est la première partie de Deux ans plus tard ! Bonne lecture !
 type: Roman graphique
 resum: Cela faisait des années que je me sentais plus fatiguée que les autres, que j'ai des douleurs lors de mes règles ou pendant le cycle. L'année de mes 25 ans les douleurs deviennent de plus en plus insupportable et j'ai beau aller chez le médecin, elle ne me trouve rien de significatif, pourtant j'ai mal au ventre au point d'avoir du mal à marcher. Je prends finalement rendez-vous auprès d'un gynécologue et celui-ci me diagnostique une endométriose.
+redirect_from:
+  - /histoire/2018/03/22/partie-1-le-deni.html
 ---
 <div>
     <img class="img-fluid" src="/assets/images/partie1/01- (1).png" title="Roman graphique sur l'endométriose partie 1 page 1 Deux ans plus tard endonymous" alt="Tu te souviens de ces films américains super niais qui te font croire que quand une fille a ses premières règles, c'est le plus beau jour de sa vie ? Bravo ma chérie, Oh, je suis enfin une vraie femme Je suis tellement fière de toi ! Ce cliché est sponsorisé par Tampox.

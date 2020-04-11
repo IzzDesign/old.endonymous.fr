@@ -10,6 +10,8 @@ og_description: Après une journée de douleur, je me retrouve dans une ambulanc
 og_twitter_img : https://endonymous.fr/assets/images/partie6/twitter-partie6.png
 excerpt: Après une journée de douleur, je me retrouve dans une ambulance direction les urgences. C'est la panique, je ne sais pas pourquoi j'ai aussi mal, est-ce l'endométriose la coupable ?
 type: Roman graphique
+redirect_from:
+  - /histoire/2019/06/11/partie-6-la-peur.html
 ---
 <div>
     <img class="img-fluid" src="/assets/images/partie6/06- (1).png" alt="">
