@@ -22,7 +22,7 @@ body, .container{
   flex-direction: column;
   font-family: $font-family;
 }
-
+.minimum{min-height: calc(100vh - 140px);}
 .inflow{min-height: 70px;display: inherit;}
 .row{margin-right: 0; margin-left: 0;}
 
