@@ -315,7 +315,7 @@ ul.sommaire{
   p.title{font-size: 1.2em;}
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 756px) {
     .sidebar{
       img{width: 100%;}
     }
@@ -331,7 +331,9 @@ ul.sommaire{
       }
     }
   p.title{margin-top: 0.8em;}
+  .padding0{padding: 0;}
 }
+
 
 @media screen and (max-width: 1300px) {
   .sidebar{

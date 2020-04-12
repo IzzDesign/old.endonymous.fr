@@ -2,7 +2,7 @@
 layout: default
 ---
   <div class="banner">
-    <div class="container">
+    <div class="container-md">
       <div class="row">
         <div class="col-lg-8 col-md-6">
           <a href="/index.html" class="none">
@@ -16,7 +16,7 @@ layout: default
         </div>
         <div class="col-lg-4 col-md-6 texte">
           <p class="title">lire la bd</p>
-          <a class="cta" href="">Lire</a>
+          <a class="cta" href="/histoire/partie-1-le-deni.html">Lire</a>
            <p class="title">des ateliers sur la région Lyonnaise</p>
           <a class="cta" href="https://cycliques.fr">Cycliques.fr</a>
           <div class="margintop">
@@ -28,9 +28,9 @@ layout: default
   </div>
 </header>
 
-<div class="container">
+<div class="container-md">
   <div class="row">
-      <div class="col-lg-8">
+      <div class="col-lg-8 padding0">
         {% if page.categories contains 'histoire' %}
          {% for category in page.categories %}
             {% assign articles_by_date = site.categories[category] | sort: 'date' | reverse %}
