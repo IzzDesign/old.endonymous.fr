@@ -15,7 +15,7 @@ redirect_from:
   - /histoire/2018/04/25/partie-2-le-choc.html
 ---
 
-<div>
+<div class="padding0">
     <img class="img-fluid" src="/assets/images/partie2/02- (1).png" alt="">
     <img class="img-fluid" src="/assets/images/partie2/02- (2).png" alt="">
     <img class="img-fluid" src="/assets/images/partie2/02- (3).png" alt="">

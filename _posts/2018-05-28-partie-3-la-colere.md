@@ -14,7 +14,7 @@ resum: Je passe un IRM pré-opératoire pour que le chirurgien prenne connaissan
 redirect_from:
   - /histoire/2018/05/28/partie-3-la-colere.html
 ---
-<div>
+<div class="padding0">
     <img class="img-fluid" src="/assets/images/partie3/03- (1).png" alt="">
     <img class="img-fluid" src="/assets/images/partie3/03- (2).png" alt="">
     <img class="img-fluid" src="/assets/images/partie3/03- (3).png" alt="">

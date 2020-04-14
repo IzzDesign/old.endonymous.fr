@@ -13,7 +13,7 @@ type: Roman graphique
 redirect_from:
   - /histoire/2019/06/11/partie-6-la-peur.html
 ---
-<div>
+<div class="padding0">
     <img class="img-fluid" src="/assets/images/partie6/06- (1).png" alt="">
     <img class="img-fluid" src="/assets/images/partie6/06- (2).png" alt="">
     <img class="img-fluid" src="/assets/images/partie6/06- (3).png" alt="">

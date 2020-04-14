@@ -15,7 +15,7 @@ redirect_from:
   - /histoire/2018/07/14/partie-4-l-operation.html
 ---
 
-<div>
+<div class="padding0">
     <img class="img-fluid" src="/assets/images/partie4/04- (1).png" alt="">
     <img class="img-fluid" src="/assets/images/partie4/04- (2).png" alt="">
     <img class="img-fluid" src="/assets/images/partie4/04- (3).png" alt="">

@@ -14,7 +14,7 @@ resum: Après une journée de douleur, je me retrouve dans une ambulance directi
 redirect_from:
   - /histoire/2019/01/08/partie-5-le-handicap.html
 ---
-<div>
+<div class="padding0">
     <img class="img-fluid" src="/assets/images/partie5/05- (1).png" alt="">
     <img class="img-fluid" src="/assets/images/partie5/05- (2).png" alt="">
     <img class="img-fluid" src="/assets/images/partie5/05- (3).png" alt="">
