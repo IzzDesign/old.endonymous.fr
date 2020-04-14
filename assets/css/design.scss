@@ -43,6 +43,7 @@ h2,h3,h4, p.strong, span.button, .navbar-brand, .nav-item, .banner{font-family: 
 h2{color:$gray-3;border-bottom: 0.08em solid $gray-3; margin-bottom: 1em;}
 h3{text-indent: 1em;margin-top: 0.5em;}
 h4{margin-top:0.5em;text-indent: 2.5em; color: $gray-3; text-decoration: underline;}
+figure h3{text-indent: 0;}
 a{
   color: $gray-3;
   text-decoration: underline;
@@ -316,6 +317,8 @@ ul.sommaire{
 }
 
 @media screen and (max-width: 756px) {
+    h2{border-bottom: 0;}
+    h3,h4{text-indent: 0;}
     .sidebar, .banner{
       img{display: none;}
     }
