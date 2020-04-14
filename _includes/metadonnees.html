@@ -1,0 +1,18 @@
+<!-- Facebook -->
+{% if page.og_image %}
+ <meta content="{{ page.og_image }}" property="og:image" />
+{% endif %}
+{% if page.og_description %}
+ <meta content="{{ page.og_description }}" property="og:description" />
+{% endif %}
+{% if page.subtitle %}
+ <meta content="{{ page.subtitle }}" property="og:title" />
+{% endif %}
+<meta property="og:url" content="{{page.url}}" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Endonymous" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="fb:admins" content="976578205704192" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Endonym0us" />
+<meta name="twitter:image" content="{{ page.og_twitter_img }}">
