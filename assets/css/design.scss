@@ -316,7 +316,7 @@ ul.sommaire{
 }
 
 @media screen and (max-width: 756px) {
-    .sidebar{
+    .sidebar, .banner{
       img{display: none;}
     }
     .h1{
@@ -328,8 +328,10 @@ ul.sommaire{
       }
       h2.endo{
         font-size: 1em;
+        margin-bottom: 0;
       }
     }
+  figure{padding: 0.2em;}
   p.title{margin-top: 0.8em;}
   .padding0{padding: 0;}
 }
