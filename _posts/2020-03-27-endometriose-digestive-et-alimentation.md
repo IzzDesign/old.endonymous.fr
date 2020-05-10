@@ -56,8 +56,8 @@ Dernière petite expérience, j’ai fait 3 jours complets sans gluten ni laitag
 
 ### Les ressources pour vous aider
 <div class="articles-img">
-    <img src="/assets/images/articles/divers/soulager-endometriose.jpg" alt="soulager l'endométriose sans médicaments Stéphanie Mezerai Sophie Pensa livre méthode phytothéraphie alimentation" title="Livre Soulager l'endométriose sans médicaments de Stéphanie Mezerai et Sophie Pensa " class="center">
-    <img src="/assets/images/articles/divers/soulager-endometriose3.jpg" alt="soulager l'endométriose sans médicaments Stéphanie Mezerai Sophie Pensa livre méthode phytothéraphie alimentation" title="Livre Soulager l'endométriose sans médicaments de Stéphanie Mezerai et Sophie Pensa " class="center">
+    <img src="/assets/images/articles/divers/soulager-endometriose.png" alt="soulager l'endométriose sans médicaments Stéphanie Mezerai Sophie Pensa livre méthode phytothéraphie alimentation" title="Livre Soulager l'endométriose sans médicaments de Stéphanie Mezerai et Sophie Pensa " class="center">
+    <img src="/assets/images/articles/divers/soulager-endometriose2.png" alt="soulager l'endométriose sans médicaments Stéphanie Mezerai Sophie Pensa livre méthode phytothéraphie alimentation" title="Livre Soulager l'endométriose sans médicaments de Stéphanie Mezerai et Sophie Pensa " class="center">
 </div>  
 Outre mon expérience personnelle et le suivi de ma diététicienne, j’ai tiré beaucoup d’enseignement du livre **_Soulager l'endométriose sans médicaments_ de Stéphanie Mezerai et Sophie Pensa** qui est pour moi un incontournable. Ce livre vous donnera des conseils sur les médecines complémentaires, des exercices physiques et la partie sur la nutrition est bien plus complète que tout vous pourrez trouver sur Internet. C'est un plaisir de s'y replonger régulièrement pour y glaner des conseils, il est extrêmement bien fait et pour celles qui ne savent pas comment se lancer il y a un programme de deux semaines de nutrition et d'exercices avec une liste de courses pré-faite et des tas de recettes. Je le conseille absolument !
 
