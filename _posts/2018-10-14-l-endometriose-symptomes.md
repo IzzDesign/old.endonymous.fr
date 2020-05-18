@@ -150,4 +150,3 @@ Quoiqu'il arrive, faites-vous confiance, la douleur n'arrive pas par hasard, ell
 [^asthenie]: [Journal des femmes : Asthénie chronique](https://sante-medecine.journaldesfemmes.fr/faq/8170-asthenie-causes-symptomes-et-traitement#asthenie-chronique)
 [^fatigue]: [Fatigue is a common but underestimated symptom of endometriosis](https://eurekalert.org/pub_releases/2018-06/esoh-fia062518.php)
 [^fatigue2]: [Femmes actuelles : fatigue endométriose](https://www.femmeactuelle.fr/sante/news-sante/endometriose-symptome-fatigue-51695)
-
