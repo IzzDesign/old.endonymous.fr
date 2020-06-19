@@ -367,3 +367,39 @@ ul.sommaire{
 @media screen and (min-width: 1300px) {
   .inline{width: 45%;display: inline-block;}
 }
+
+.application{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  .entete{
+    align-items: center;
+    flex-direction: column;
+    div{
+      background-color:#FEB500;
+      width: 100%;
+      border-radius:15px;
+      margin-bottom: 2em;
+    }
+  }
+  h3{
+    font-size: 2.6em;
+    text-indent: 0;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+  }
+  h4{
+    text-indent: 0;
+    text-decoration: none;
+  }
+  h5{
+    font-family: $font-title;
+    margin: 2em 0;
+  }
+  img{
+    max-width: 300px;
+  }
+  img.logo{max-width:300px;}
+  div{justify-content: center;}
+}
