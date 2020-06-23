@@ -9,6 +9,7 @@ og_image: https://endonymous.fr/assets/images/partie6/fb-partie6.png
 og_description: Après une journée de douleur, je me retrouve dans une ambulance direction les urgences. C'est la panique, je ne sais pas pourquoi j'ai aussi mal, est-ce l'endométriose la coupable ?
 og_twitter_img : https://endonymous.fr/assets/images/partie6/twitter-partie6.png
 excerpt: Après une journée de douleur, je me retrouve dans une ambulance direction les urgences. C'est la panique, je ne sais pas pourquoi j'ai aussi mal, est-ce l'endométriose la coupable ?
+resum: Après avoir consulté une clinique spécialisée dans l'endométriose pour mes douleurs chroniques lombaires, je me retrouve face à un médecin qui m'explique que ma précédente opération a été mal faite et qu'il faut enlever toutes les lésions d'endométriose pour me soulager. L'opération prévoit également de couper un bout de mon uretère et de le réimplanter plus haut sur la vessie pour couper une lésion qui serait implantée sur l'uretère et me créerait des douleurs types colique néphrétique. Cette nouvelle opération est très lourde et m'effraie énormément. Je suis en attente  d'une IRM qui aidera à valider l'opération ou non mais moralement je suis au plus bas.
 type: Roman graphique
 redirect_from:
   - /histoire/2019/06/11/partie-6-la-peur.html

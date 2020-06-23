@@ -28,6 +28,10 @@ plugins:
 
 defaults:
   - scope:
+      path: "assets/images/partie7/png"
+    values:
+      partie: 7
+  - scope:
       path: "assets/images/reseaux"
     values:
       reseaux: true
