@@ -22,6 +22,7 @@ body, .container{
   flex-direction: column;
   font-family: $font-family;
 }
+.center{justify-content: center;text-align: center;h3{text-indent: 0;}}
 .minimum{min-height: calc(100vh - 140px);}
 .inflow{min-height: 70px;display: inherit;}
 .row{margin-right: 0; margin-left: 0;}
@@ -125,6 +126,8 @@ a{
   transition: all 0.6s cubic-bezier(0.215, 0.61, 0.355, 1);
   &:hover{padding: 0.5em 1em;color: black;}
 }
+.bio{margin: 0 auto; line-height: 2.5em;font-size: 1em;}
+.petit{width: 100px;}
 
 .content{width: 50%;top:70px;position: relative;height: auto;}
 .previous{margin-bottom: 2em;}
