@@ -5,7 +5,9 @@
 {% if page.og_description %}
  <meta content="{{ page.og_description }}" property="og:description" />
 {% endif %}
-{% if page.subtitle %}
+{% if page.og_title %}
+ <meta content="{{ page.og_title }}" property="og:title" />
+ {% else %}
  <meta content="{{ page.subtitle }}" property="og:title" />
 {% endif %}
 <meta property="og:url" content="{{page.url}}" />

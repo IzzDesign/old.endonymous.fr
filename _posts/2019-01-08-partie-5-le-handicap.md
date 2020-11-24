@@ -1,5 +1,6 @@
 ---
 layout: post
+og_title: Mon roman graphique sur l'endométriose - Partie 5
 subtitle: Deux ans plus tard
 title: Partie 5 &#x3A; Le handicap
 categories:

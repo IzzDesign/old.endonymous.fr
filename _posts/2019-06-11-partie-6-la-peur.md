@@ -1,5 +1,6 @@
 ---
 layout: post
+og_title: Mon roman graphique sur l'endométriose - Partie 6
 subtitle: Deux ans plus tard
 title: Partie 6 &#x3A; La peur
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+og_title: Mon roman graphique sur l'endométriose - Partie 1
 subtitle: Deux ans plus tard
 title: Partie 1 &#x3A; Le déni
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+og_title: Mon roman graphique sur l'endométriose - Partie 2
 subtitle: Deux ans plus tard
 title: Partie 2 &#x3A; Le choc
 categories:

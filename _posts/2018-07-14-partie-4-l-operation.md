@@ -1,5 +1,6 @@
 ---
 layout: post
+og_title: Mon roman graphique sur l'endométriose - Partie 4
 subtitle: Deux ans plus tard
 title: Partie 4 &#x3A; L'opération
 categories:

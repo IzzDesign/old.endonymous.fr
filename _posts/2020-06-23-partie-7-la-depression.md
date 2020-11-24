@@ -1,5 +1,6 @@
 ---
 layout: post
+og_title: Mon roman graphique sur l'endométriose - Partie 7
 subtitle: Deux ans plus tard
 title: Partie 7 &#x3A; La dépression
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: post
+og_title: Mon roman graphique sur l'endométriose - Partie 3
 subtitle: Deux ans plus tard
 title: Partie 3 &#x3A; La colère
 categories:
