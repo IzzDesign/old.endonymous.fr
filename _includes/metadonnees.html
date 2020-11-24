@@ -17,4 +17,8 @@
 <meta property="fb:admins" content="976578205704192" />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@Endonym0us" />
-<meta name="twitter:image" content="{{ page.og_twitter_img }}">
+{% if page.og_twitter_image %}
+	<meta name="twitter:image" content="{{ page.og_twitter_img }}">
+	{% else %}
+ <meta content="{{ page.og_image }}" property="og:image" />
+{% endif %}
