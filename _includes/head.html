@@ -16,7 +16,18 @@
      {% include google-analytics.html %}
      {% include metadonnees.html %}
 
-    <title>{{ site.title }}</title>
+    <title>
+      Endonymous
+      {% if page.og_title %}
+       {{ page.og_title }}
+       {% else %}
+        {% if page.title %}
+        {{ page.title }}
+          {% else %}
+        {{ site.subtitle }} {{ site.tagline }}
+        {% endif %}
+      {% endif %}
+    </title>
   </head>
   <body>
 

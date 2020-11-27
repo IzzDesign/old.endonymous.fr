@@ -8,8 +8,13 @@
 {% if page.og_title %}
  <meta content="{{ page.og_title }}" property="og:title" />
  {% else %}
- <meta content="{{ page.subtitle }}" property="og:title" />
+ 	{% if page.title %}
+ 	<meta content="{{ page.title }}" property="og:title" />
+ 		{% else %}
+ 		<meta content="{{ site.subtitle }} {{ site.tagline }}" property="og:title" />
+ 	{% endif %}
 {% endif %}
+
 <meta property="og:url" content="{{page.url}}" />
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Endonymous" />
