@@ -13,9 +13,9 @@ type: Article
 redirect_from:
   - /article/2018/06/17/l-endometriose-c-est-quoi.html
 ---
-Je suis une statistique. Cette femme sur dix qui a de [l'endométriose](https://cycliques.fr/savoir/endometriose.html). Je suis ce qu'on appelle une [*endo-girl*](/histoire/2018/03/22/partie-1-le-deni.html "BD Endonymous partie 1 le déni"). Quand j'ai appris que j'avais cette maladie chronique j'ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors pour expliquer cette maladie intime qu'est l'endométriose, regardons d'abord comment fonctionnent l'utérus et l'endomètre.
+Je suis une statistique. Cette femme sur dix qui a de [l'endométriose](https://endobujo.fr/savoir/endometriose.html). Je suis ce qu'on appelle une [*endo-girl*](/histoire/2018/03/22/partie-1-le-deni.html "BD Endonymous partie 1 le déni"). Quand j'ai appris que j'avais cette maladie chronique j'ai eu besoin de comprendre au maximum le mécanisme de celle-ci. Alors pour expliquer cette maladie intime qu'est l'endométriose, regardons d'abord comment fonctionnent l'utérus et l'endomètre.
 
-**L'endomètre**, c'est la muqueuse interne de l'utérus. Suivant le cycle menstruel – et donc les hormones associées – cette muqueuse va s'épaissir dans le but d'accueillir un embryon. En fin de cycle, quand il n'y a pas eu de fécondation, l'endomètre épaissi se désagrège : ce sont les **règles**. Bon ça c'est le fonctionnement normal du [cycle menstruel](https://cycliques.fr/savoir/cyclemenstruel.html), l'endomètre est bien à sa place dans l'utérus et les règles à la fin d'un cycle ont une porte de sortie vers le vagin.
+**L'endomètre**, c'est la muqueuse interne de l'utérus. Suivant le cycle menstruel – et donc les hormones associées – cette muqueuse va s'épaissir dans le but d'accueillir un embryon. En fin de cycle, quand il n'y a pas eu de fécondation, l'endomètre épaissi se désagrège : ce sont les **règles**. Bon ça c'est le fonctionnement normal du [cycle menstruel](https://endobujo.fr/savoir/cyclemenstruel.html), l'endomètre est bien à sa place dans l'utérus et les règles à la fin d'un cycle ont une porte de sortie vers le vagin.
 
 <div>
   <figure class="bigschema">
@@ -24,9 +24,9 @@ Je suis une statistique. Cette femme sur dix qui a de [l'endométriose](https://
   </figure>
 </div>
 
-Pour certaines femmes en revanche, on retrouve des cellules semblables à de l'endomètre et de se comportant comme telles **en dehors de la cavité utérine** : trompes, ovaires, extérieur de l'utérus, système digestif, système urinaire,... Les lésions se situent généralement sur les organes situés dans le péritoine, c'est-à-dire dans le ventre, mais peuvent dans de rares cas être présentes sur les poumons, le cerveau,… C'est ça [l'endométriose](https://cycliques.fr/savoir/endometriose.html).
+Pour certaines femmes en revanche, on retrouve des cellules semblables à de l'endomètre et de se comportant comme telles **en dehors de la cavité utérine** : trompes, ovaires, extérieur de l'utérus, système digestif, système urinaire,... Les lésions se situent généralement sur les organes situés dans le péritoine, c'est-à-dire dans le ventre, mais peuvent dans de rares cas être présentes sur les poumons, le cerveau,… C'est ça [l'endométriose](https://endobujo.fr/savoir/endometriose.html).
 
-L'endomètre qui réagit en fonction des hormones va donc s'épaissir pendant le cycle, de même que ce tissu semblable à de l'endomètre situé dans des endroits anormaux dans le cas de l'endométriose. Ces lésions qui gonflent vont créer des [réactions inflammatoires](https://cycliques.fr/savoir/adherences.html), entrainant douleurs et [adhérences](https://cycliques.fr/savoir/adherences.html), voilà pourquoi la plupart des douleurs ont lieu pendant les règles.
+L'endomètre qui réagit en fonction des hormones va donc s'épaissir pendant le cycle, de même que ce tissu semblable à de l'endomètre situé dans des endroits anormaux dans le cas de l'endométriose. Ces lésions qui gonflent vont créer des [réactions inflammatoires](https://endobujo.fr/savoir/adherences.html), entrainant douleurs et [adhérences](https://endobujo.fr/savoir/adherences.html), voilà pourquoi la plupart des douleurs ont lieu pendant les règles.
 
 ## Les stades
 On classe l’endométriose en **cinq stades** qui sont calculés en fonction de la localisation des **lésions et adhérences** ainsi qu'en fonction de leur extension en taille et en profondeur.
@@ -61,7 +61,7 @@ On classe l’endométriose en **cinq stades** qui sont calculés en fonction de
 <span class="id">Ces stades ne prennent pas en compte la douleur : même une lésion légère placée près d'un nerf par exemple pourra entraîner de très fortes douleurs. Chez certaines femmes leur endométriose de stade 1 peut être plus douloureuse qu’un stade 4 par exemple.</span>
 
 ## Et l'adénomyose ?
-Maintenant qu'on a compris l'endométriose, parlons [d'Adénomyose](https://cycliques.fr/savoir/adenomyose.html).
+Maintenant qu'on a compris l'endométriose, parlons [d'Adénomyose](https://endobujo.fr/savoir/adenomyose.html).
 **L'adénomyose** ou l'endométriose interne désigne la présence de cellules endométriales au sein de la paroi musculaire de l'utérus, appelé **myomètre**. Près de 50% des femmes de 40 à 50 ans seraient touchées par cette affection[^affection].
 
 <div>

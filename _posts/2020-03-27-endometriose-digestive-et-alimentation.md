@@ -24,7 +24,7 @@ En fonction de la localisation de ces lésions, vous pouvez remarquer différent
 
 ## Un régime adapté à l'endométriose : l'alimentation anti-inflammatoire
 
-Pour faire simple, l’endométriose va provoquer des phénomènes inflammatoire qui vont eux même à terme pourvoir être à l’origine de l’apparition d’adhérences qui vont modifier l’anatomie pelvienne et créer des douleurs. Je vous renvoie vers mon site [cycliques.fr](https://cycliques.fr) pour mieux comprendre [comment les adhérences se forment](https://cycliques.fr/savoir/adherences.html) et pourquoi avoir une [alimentation anti-inflammatoire](https://cycliques.fr/controle/alimentation.html) peut calmer les douleurs.
+Pour faire simple, l’endométriose va provoquer des phénomènes inflammatoire qui vont eux même à terme pourvoir être à l’origine de l’apparition d’adhérences qui vont modifier l’anatomie pelvienne et créer des douleurs. Je vous renvoie vers mon site [endobujo.fr](https://endobujo.fr) pour mieux comprendre [comment les adhérences se forment](https://endobujo.fr/savoir/adherences.html) et pourquoi avoir une [alimentation anti-inflammatoire](https://endobujo.fr/controle/alimentation.html) peut calmer les douleurs.
 
 Sans être un remède miracle, contrôler son alimentation et **éviter certains aliments inflammatoires** peuvent grandement aider à soulager vos troubles digestifs et diminuer cette inflammation chronique, peut-être une nouvelle motivation pour renoncer à la _petite_ fondue du Nouvel an ou au super croissant du dimanche matin ?
 

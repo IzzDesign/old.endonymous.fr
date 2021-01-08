@@ -31,7 +31,7 @@ Si vous ne connaissez pas bien l’endométriose et ses symptômes je vous parta
     <a href="/assets/images/articles/divers/journal-observation-endonymous-fr.pdf"><img src="/assets/images/articles/divers/tableau-journal.png" class="img-fluid" alt="journal observation endonymous douleurs endométriose intensité" title="Exemple du journal d'information avec la possibilité de renseigner sa douleur et son intensité"></a>
 </div>
 
-À noter que j’utilise également la prise de note pour m’aider au [changement de mon alimentation](https://cycliques.fr/controle/alimentation.html) et à identifier quels aliments contribuent à me provoquer des douleurs, voir l’article sur [l’alimentation](/article/2020/03/27/endometriose-digestive-et-alimentation.html).
+À noter que j’utilise également la prise de note pour m’aider au [changement de mon alimentation](https://endobujo.fr/controle/alimentation.html) et à identifier quels aliments contribuent à me provoquer des douleurs, voir l’article sur [l’alimentation](/article/2020/03/27/endometriose-digestive-et-alimentation.html).
 
 <div class="big">Attention</div>
 <span class="id">Ceci ne dispense pas d’aller voir un médecin et ne sert en AUCUN cas de diagnostic, SEUL un professionnel de santé a les compétences nécessaires pour poser un diagnostic.</span>
