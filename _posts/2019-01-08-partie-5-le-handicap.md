@@ -7,9 +7,9 @@ categories:
   - histoire
 image: /assets/images/partie5/partie5.svg
 og_image: https://endonymous.fr/assets/images/partie5/fb-partie5.png
-og_description: On m'avait dit que j'en avais pour vingt-cinq années de souffrance, évidemment ce n'était pas dans mes projets mais force est de constater que je ne vraiment plus faire tout ce dont j'avais l'habitude. Handicap social, physique, professionnel, voici la partie 5 de Deux ans plus tard !
+og_description: On m'avait dit que j'en avais pour vingt-cinq années de souffrance, évidemment ce n'était pas dans mes projets. Mais force est de constater que je ne pouvais vraiment plus faire tout ce dont j'avais l'habitude. Handicap social, physique, professionnel, voici la partie 5 de Deux ans plus tard !
 og_twitter_img : https://endonymous.fr/assets/images/partie5/twitter-partie5.png
-excerpt: On m'avait dit que j'en avais pour vingt-cinq années de souffrance, évidemment ce n'était pas dans mes projets mais force est de constater que je ne vraiment plus faire tout ce dont j'avais l'habitude. Handicap social, physique, professionnel, voici la partie 5 de Deux ans plus tard !
+excerpt: On m'avait dit que j'en avais pour vingt-cinq années de souffrance, évidemment ce n'était pas dans mes projets. Mais force est de constater que je ne pouvais vraiment plus faire tout ce dont j'avais l'habitude. Handicap social, physique, professionnel, voici la partie 5 de Deux ans plus tard !
 type: Roman graphique
 resum: Après une journée de douleur, je me retrouve dans une ambulance direction les urgences. C'est la panique, je ne sais pas pourquoi j'ai aussi mal, est-ce l'endométriose la coupable ?
 redirect_from:
